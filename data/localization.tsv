@@ -1,0 +1,699 @@
+Key	Chinese	English	Japanese	Korean	Traditional	German	French	Russian	Spanish	Portuguese	Thai	Indonesian	Malay
+生命值	生命值	Lives	ライフ	하트	生命值	Leben	PV	Здоровье	Vida	Vida	HP	HP	Nyawa
+刷新	刷新	Refresh	リフレッシュ	새로고침	刷新	Erneuern	Actualiser	Обновить	Actualizar	Atualizar	รีเฟรช	Segarkan	Segarkan
+复活	复活	Revive	復活	부활	復活	Wiederbeleben	Revivre	Возродить	Revivir	Reviver	ฟื้นคืนชีพ	Hidup Kembali	Hidup Kembali
+复活并加时<color=red>({0}s)</color>	复活并加时<color=red>({0}s)</color>	Revive and +<color=red>{0}s</color>	復活して時間追加<color=red>({0}秒)</color>	부활 및 시간 연장<color=red>({0}s)</color>	復活並加時<color=red>({0}s)</color>	Wiederbeleben + Zeit <color=red>({0}s)</color>	Réactiver et ajouter du temps (0 seconde)	Восстановить и добавить время (0 секунд)	Revivir y añadir tiempo (0 segundos)	Reviver e +<color=red>({0}s)</color>	ฟื้นคืนชีพและเพิ่มเวลา <color=red>({0}s)</color>	Hidupkan kembali dan tambahkan waktu (0 detik)	Hidup kembali dan tambah <color=red>({0}s)</color>
+复活并清空暂存区	复活并清空暂存区	Revive & Clear Slot	復活してストックをクリア	부활 및 임시 보관함 비우기	復活並清空暫存區	Wiederbeleben & Ablage leeren	Réactiver et dégager la zone de stockage temporaire	Восстановите и очистите временное складское помещение.	Reactivar y despejar el área de almacenamiento temporal.	Reviver e limpar espaços	ฟื้นฟูและเคลียร์พื้นที่รอ	Pulihkan dan bersihkan area penyimpanan sementara.	Hidup kembali dan kosongkan slot simpanan
+快来帮帮缺氧的鱼儿们吧	快来帮帮缺氧的鱼儿们吧	Help the oxygen-deficient fish!	酸欠の魚たちを助けよう！	산소가 부족한 물고기들을 도와주세요!	快來幫幫缺氧的魚兒們吧	Hilf den Fischen! Sie brauchen Luft!	Venez aider les poissons qui meurent de faim !	Помогите голодающим рыбам!	¡Ven a ayudar a los peces que se están muriendo de hambre!	Venha ajudar os peixinhos sem ar!	มาช่วยปลาที่กำลังขาดออกซิเจนกันเถอะ!	Ayo bantu ikan-ikan yang kelaparan!	Mari bantu ikan-ikan yang kekurangan oksigen!
+收集上方一个鱼缸	收集上方一个鱼缸	Collect the fish tank above	上の水槽を1つ集めよう	상단 어항 1개 수집	收集上方一個魚缸	Sammle ein Aquarium von oben	Récupérez un aquarium au-dessus	Возьмите аквариум сверху.	Recoge una pecera de arriba	Coletar um aquário de cima	รวบรวมตู้ปลาด้านบน	Kumpulkan akuarium di atas	Kumpulkan tangki ikan di atas
+放不下了	放不下了	Almost there!	ストック満杯	공간이 가득 찼습니다	放不下了	Kein Platz mehr	Je ne peux pas lâcher prise.	Я не могу отпустить.	No puedo dejarlo ir.	Está cheio!	ไม่มีช่องว่างแล้ว	Aku tak bisa melepaskannya.	Tiada ruang lagi!
+敲碎一个泡泡	敲碎一个泡泡	Smash a bubble	バブルを1つ壊す	방울 1개 터트리기	敲碎一個泡泡	Zerplatze eine Blase	Éclater une bulle	Лопайте пузырь	Explota una burbuja	Estoure uma bolha	เป่าฟองให้แตก	Pecahkan gelembung	Pecahkan 1 buih
+新玩法解锁	新玩法解锁	New Blocker Unlocked	新機能開放	신규 모드 잠금 해제	新玩法解鎖	Neues Feature freigeschaltet	Nouveau Jeu débloqué	Разблокирован новый режим.	Nuevo modo desbloqueado	Novo Modo Desbloqueado	ปลดล็อกโหมดใหม่	Mode baru dibuka	Mod Baharu Dibuka Kunci
+时间到了	时间到了	Time's up	時間切れ	시간 초과	時間到了	Zeit um!	C'est Fini	Время истекло	Tiempo Acabado	O tempo acabou	หมดเวลาแล้ว	Waktu Habis	Masa habis
+泡泡掉落到底部就可以看清里面的鱼了	泡泡掉落到底部就可以看清里面的鱼了	When the bubble falls to the bottom, you can see clearly the fish inside.	バブルが底に落ちると、中の魚が見えるよ	방울이 바닥에 떨어지면 안의 물고기를 볼 수 있습니다	泡泡掉落到底部就可以看清裡面的魚了	Lass die Blase fallen, um den Fisch zu sehen	Une fois que les bulles atteignent le fond, on peut voir les poissons à l'intérieur.	Когда пузырьки опустятся на дно, вы сможете увидеть рыбу внутри.	Una vez que las burbujas llegan al fondo, se pueden ver los peces en el interior.	Deixe a bolha cair até o fundo para ver o peixe dentro dela	เมื่อฟองลงไปถึงก้นอ่าง จะมองเห็นปลาที่อยู่ข้างในได้	Begitu gelembung-gelembung itu mencapai dasar, Anda bisa melihat ikan di dalamnya.	Apabila buih jatuh ke bawah, anda boleh melihat ikan di dalamnya dengan jelas.
+泡泡里面的鱼刷新	泡泡里面的鱼刷新	Fish refresh	バブルの中の魚をリフレッシュ	방울 속 물고기 새로고침	泡泡裡面的魚刷新	Die Fische in der Blase werden erneuert	Le poisson à l'intérieur de la bulle se rafraîchit.	Рыбка внутри пузыря освежается.	El pez dentro de la burbuja se refresca.	Atualizar peixes na bolha	ปลาที่อยู่ภายในฟองรีเฟรช	Ikan di dalam gelembung itu menyegarkan diri.	Segarkan ikan di dalam buih
+消除带有钥匙的泡泡,即可解开铁链锁住的泡泡	消除带有钥匙的泡泡,即可解开铁链锁住的泡泡	Eliminate the bubble with a key to unlock the bubble locked by a chain.	鍵付きバブルを消して、チェーンロックを解除しよう	열쇠가 있는 방울을 터트리면, 사슬에 묶인 방울을 풀 수 있습니다	消除帶有鑰匙的泡泡，即可解開鐵鍊鎖住的泡泡	Entferne Schlüssel-Blasen, um die Ketten zu lösen	Éliminez la bulle contenant la clé permettant de déverrouiller la chaîne.	Удалите пузырек с ключом, чтобы открыть цепочку.	Elimina la burbuja que contiene la llave para desbloquear la cadena.	Elimine a bolha com a chave para soltar as bolhas presas por correntes	เคลียร์ฟองที่มีกุญแจสำหรับปลดล็อกโซ่	Hilangkan gelembung yang berisi kunci untuk membuka rantai tersebut.	Padamkan buih dengan kunci untuk membuka kunci buih yang dikunci oleh rantai.
+清空	清空	Clear	クリア	비우기	清空	Leeren	Nettoyer	Удалить	Remover	Limpar	เคลียร์หมด	Mengosong	Kosongkan
+清空临时位置鱼	清空临时位置鱼	Clear the fish from the holding area.	ストックの魚をクリア	임시 보관함 물고기 비우기	清空臨時位置魚	Ablage leeren	Poisson temporaire clair	Прозрачная временная рыба	Peces temporales claros	Limpar peixes da área temporária	เคลียร์ปลาชั่วคราว	Bersihkan ikan sementara	Kosongkan ikan di slot
+点击相邻的小鱼三次,使冰块解冻	点击相邻的小鱼三次,使冰块解冻	Click on the adjacent fish three times to defrost the ice block.	隣の魚を3回タップして、氷を溶かそう	인접한 물고기를 3번 탭하여 얼음을 녹이세요	點擊相鄰的小魚三次，使冰塊解凍	Tippe dreimal auf einen Nachbarfisch, um das Eis aufzutauen	Cliquez trois fois sur le poisson adjacent pour faire fondre la glace.	Чтобы разморозить лёд, трижды нажмите на соседнюю рыбу.	Haz clic tres veces en el pez adyacente para descongelar el hielo.	Toque 3 vezes em peixes adjacentes para descongelar o gelo	คลิกที่ปลาตัวข้างๆ สามครั้งเพื่อละลายน้ำแข็ง	Klik ikan di sebelahnya tiga kali untuk mencairkan es.	Klik pada ikan bersebelahan tiga kali untuk mencairkan ais
+第{0}关	第{0}关	Level {0}	レベル{0}	스테이지 {0}	第{0}關	Level {0}	Niveau {0}	Уровень {0}	Nivel {0}	Nível {0}	เลเวล {0}	Level {0}	Tahap {0}
+第{0}天	第{0}天	Day {0}	{0}日目	{0}일 차	第{0}天	Tag {0}	Jour {0}	День {0}	Día {0}	Dia {0}	วันที่ {0}	Hari {0}	Hari {0}
+签到	签到	login	ログイン	출석 체크	簽到	Login	Signer	Войти	Registrarse	Check-in	เช็คอิน	Mendaftar	Daftar Masuk
+返回主页	返回主页	Home	ホームへ	메인으로 돌아가기	返回主頁	Startseite	Accueil	ГЛАВНАЯ	Volver al Inicio	Início	กลับที่หน้าหลัก	BERANDA	Kembali ke menu
+重新挑战	重新挑战	Retry	リトライ	다시 도전하기	重新挑戰	Erneut versuchen	Relance	Повторный вызов	Volver a desafiar	Tentar novamente	ท้าทายใหม่	Tantangan ulang	Cuba Semula
+金币	金币	Coins	コイン	코인	金幣	Münzen	or	золото	oro	Moedas	ทอง	emas	Coin
+锤子	锤子	Hammer	ハンマー	망치	錘子	Hammer	marteau	молоток	martillo	Martelo	ค้อน	palu	Tukul
+领取	领取	Claim	受け取る	받기	領取	Abholen	Obtenir	Получить	Obtener	Coletar	รับ	Dapatkan	Dapatkan
+鱼票	鱼票	Fish Ticket	魚チケット	물고기 티켓	魚票	Fischticket	Billet de poisson	Рыбный билет	Boleto de pesca	Bilhete de Peixe	ตั๋วปลา	Tiket Ikan	Tiket Ikan
+鱼票不足	鱼票不足	Not Enough Fish Tickets	魚チケットが不足しています	물고기 티켓 부족	魚票不足	Nicht genug Fischtickets	Billets de pêche insuffisants	Недостаточное количество рыбных билетов	Boletos de pesca insuficientes	Bilhetes Insuficientes	ตั๋วปลาไม่เพียงพอ	Tiket ikan tidak mencukupi	Tiket ikan tidak cukup
+主页	主页	Home	ホーム	메인 홈	主頁	Startseite	Accueil	Главная	Inicio	Início	หน้าหลัก	Beranda	Menu
+继续	继续	Continue	続ける	계속	繼續	Weiter	CONTINUER	ПРОДОЛЖАТЬ	CONTINUAR	Continuar	ดำเนินต่อ	LANJUTKAN	Teruskan
+捕鱼网	捕鱼网	Net	魚捕り網	뜰채	捕魚網	Fischernetz	filet de pêche	Рыболовная сеть	Red de pesca	Rede de Pesca	อวนจับปลา	Jaring ikan	Jaring Ikan
+设置	设置	Settings	設定	설정	設定	Einstellungen	Réglages	Настройки	Ajustes	Configurações	ตั้งค่า	mendirikan	Tetapan
+不符合目标的鱼会自动进入暂存区	不符合目标的鱼会自动进入暂存区	Fish that don't match the target will go to the holding area.	ターゲット以外の魚は、自動的にストックへ移動します	목표와 다른 물고기는 임시 보관함으로 자동 이동합니다	不符合目標的魚會自動進入暫存區	Falsche Fische kommen in die Ablage	Les poissons qui ne répondent pas aux critères cibles seront automatiquement placés dans la zone de stockage temporaire.	Рыба, не соответствующая целевым критериям, автоматически будет отправлена во временное хранилище.	Los peces que no cumplan con los criterios establecidos pasarán automáticamente a la zona de almacenamiento temporal.	Peixes que não são o objetivo irão automaticamente para a área temporária	ปลาที่ไม่ใช่เป้าหมายจะเข้าสู่พื้นที่รอโดยอัตโนมัติ	Ikan yang tidak memenuhi kriteria target akan secara otomatis masuk ke area penyimpanan sementara.	Ikan yang tidak sepadan dengan sasaran akan pergi ke slot simpanan
+只剩一个位置了！	只剩一个位置了！	Only one slot left!	残り1枠！	빈자리가 하나밖에 안 남았어요!	只剩一個位置了！	Nur noch ein Platz frei!	Il ne reste qu'une place !	Осталось всего одно место!	¡Solo queda un lugar!	Resta apenas um espaço!	เหลือเพียงที่เดียวเท่านั้น!	Hanya tersisa satu tempat!	Hanya tinggal satu slot sahaja!
+它会自动进入目标鱼缸	它会自动进入目标鱼缸	It will go to the target tank automatically.	自動でターゲットの水槽に入ります	목표 어항으로 자동 이동합니다	它會自動進入目標魚缸	Es wird automatisch in das Zielaquarium eingeführt.	Il entrera automatiquement dans l'aquarium cible.	Он автоматически попадёт в целевой аквариум.	Entrará automáticamente en la pecera de destino.	Ele vai direto para o aquário de destino	มันจะเข้าไปในตู้ปลาเป้าหมายโดยอัตโนมัติ	Ia akan secara otomatis memasuki akuarium target.	Ia akan pergi ke tangki sasaran
+收集3条就可以完成收集啦	收集3条就可以完成收集啦	Get three fish to finish it!	あと3匹でクリア！	3마리를 모으면 수집이 완료됩니다!	收集3條就可以完成收集啦	Sammle 3 für die komplette Sammlung!	Récupérez-en 3 et c'est terminé !	Соберите 3, и готово!	¡Recoge 3 y listo!	Colete 3 para concluir a coleção!	สะสมให้ครบ 3 ชิ้นก็เสร็จแล้ว!	Kumpulkan 3 dan selesai!	Kumpul 3 ekor untuk selesaikan pengumpulan!
+暂存区只剩下1个位置啦	暂存区只剩下1个位置啦	Only 1 slot left in the holding area!	ストックは残り1枠です！	임시 보관함의 빈자리가 1개뿐입니다!	暫存區只剩下1個位置啦	Nur noch 1 Platz in der Ablage	Il ne reste plus qu'une seule place dans la zone de stockage temporaire !	В зоне временного хранения осталось всего одно свободное место!	¡Solo queda un espacio disponible en el área de almacenamiento temporal!	Resta apenas 1 espaço na área temporária!	เหลือพื้นที่รอเพียง 1 ช่องเท่านั้น	Hanya tersisa satu tempat di area penyimpanan sementara!	Hanya tinggal 1 slot di slot simpanan!
+暂存区满就会通关失败哦！	暂存区满就会通关失败哦！	If the holding area fills up, you'll fail the level!	ストックが満杯になると、ゲームオーバーだよ！	임시 보관함이 꽉 차면 스테이지 실패입니다!	暫存區滿就會通關失敗哦！	Ist die Ablage voll, ist das Level verloren!	Si votre espace de stockage temporaire est plein, vous ne pourrez pas terminer le niveau !	Если ваше временное хранилище заполнено, вы не сможете пройти уровень!	Si tu almacenamiento temporal está lleno, ¡no podrás completar el nivel!	Se a área temporária encher, você perderá o nível!	หากพื้นที่รอเต็มจะถือว่าเวเวลล้มเหลวนะ!	Jika penyimpanan sementara Anda penuh, Anda akan gagal menyelesaikan level!	Jika slot simpanan penuh, anda akan gagal!
+来完成一个泡泡的消除吧	来完成一个泡泡的消除吧	Match to pop the bubble.	バブルを1つ消してみよう	방울 1개를 터트려 보세요	來完成一個泡泡的消除吧	Lass eine Blase platzen!	Éliminons cette bulle !	Давайте устраним пузырь!	¡Eliminemos una burbuja!	Vamos estourar uma bolha!	มาเคลียร์ฟองอันหนึ่งกันเถอะ	Mari kita hilangkan gelembung itu!	Mari padamkan buih
+泡泡被消除后，上方的泡泡会掉落哦，并展示更多的鱼	泡泡被消除后，上方的泡泡会掉落哦，并展示更多的鱼	When bubbles pop, new one will fall down with more fish!	バブルを消すと、上のバブルが落ちてきて、他の魚も見えるようになるよ	방울을 터트리면 위의 방울이 떨어지며 더 많은 물고기가 나타납니다	泡泡被消除後，上方的泡泡會掉落哦，並展示更多的魚	Wenn Blasen platzen, fallen die oberen nach und legen mehr Fische frei	Une fois les bulles éliminées, celles du dessus retomberont, révélant ainsi davantage de poissons.	После того как пузырьки исчезнут, пузырьки сверху опустятся, обнажив еще больше рыбок.	Una vez eliminadas las burbujas, las que están arriba caerán, dejando al descubierto más peces.	Quando as bolhas estourarem, as de cima cairão e revelarão mais peixes!	เมื่อฟองถูกเคลียร์ไป ฟองด้านบนก็จะตกลงมา เผยให้เห็นปลาตัวอื่นๆ	Setelah gelembung-gelembung tersebut dihilangkan, gelembung-gelembung di atasnya akan turun, memperlihatkan lebih banyak ikan.	Sebaik buih-buih dipadamkan, buih-buih di atas akan jatuh dan mendedahkan lebih banyak ikan.
+点击一条鱼	点击一条鱼	Tap a fish.	魚を1匹タップ	물고기 탭하기	點擊一條魚	Tippe auf einen Fisch	Cliquez sur un poisson	Нажмите на рыбу	Haz clic en un pez	Toque em um peixe	คลิกที่ปลาหนึ่ง	Klik pada ikan	Klik seekor ikan
+点击任意位置继续	点击任意位置继续	Tap anywhere to continue	タップして続ける	아무 곳이나 탭하여 계속	點擊任意位置繼續	Zum Fortfahren tippen	Tapez n'importe où pour continuer	Щелкните в любом месте, чтобы продолжить	Toca en cualquier lugar para continuar.	Toque para continuar	แตะเพื่อทำต่อ	Klik di mana saja untuk lanjutkan	Klik untuk teruskan
+解锁鱼缸	解锁鱼缸	Unlock Fish Tank	水槽を解放	어항 잠금 해제	解鎖魚缸	Aquarium freischalten	Déverrouillez l'aquarium	Откройте аквариум	Desbloquea la pecera	Desbloquear Aquário	ปลดล็อกตู้ปลา	Buka kunci akuarium	Buka kunci tangki ikan
+试试这个吧	试试这个吧	Give this a try !	これを試してみよう	한 번 써보세요!	試試這個吧	Versuch’s mal hiermit!	Essayez ceci	Попробуйте это	Prueba esto	Experimente isto!	ลองอันนี้เถอะ	Cobalah ini	Cuba ini
+这里会显示当前鱼缸所需的鱼	这里会显示当前鱼缸所需的鱼	Target fish are shown here.	ここに、この水槽に必要な魚が表示されます	이곳에 현재 어항에 필요한 물고기가 표시됩니다	這裡會顯示當前魚缸所需的魚	Hier siehst du die benötigten Fische für dieses Aquarium	Ceci affichera les poissons nécessaires pour l'aquarium actuel.	Здесь отобразится список рыб, необходимых для текущего аквариума.	Esto mostrará los peces necesarios para el acuario actual.	Veja aqui os peixes que este aquário precisa	ที่นี่จะแสดงปลาที่ตู้ปลาปัจจุบันต้องการ	Ini akan menampilkan jenis ikan yang dibutuhkan untuk akuarium saat ini.	Ikan yang diperlukan untuk tangki semasa akan dipaparkan di sini
+（首次免费）	（首次免费）	(Free for once)	（初回無料）	(첫 회 무료)	（首次免費）	(Erstes Mal gratis)	(Première visite gratuite)	(Первое посещение бесплатно)	(Primera vez gratis)	(1ª vez grátis)	(ครั้งแรกฟรี)	Pertama kali gratis	(Percuma kali pertama)
+来点击增加一个鱼缸吧！（本次无需看广告即可增加）	来点击增加一个鱼缸吧！（本次无需看广告即可增加）	Let's tap to unlock a fish tank! (Free for once)	タップして水槽を増やそう！（今回は広告なしで増やせるよ）	탭해서 어항을 추가해 보세요! (이번엔 광고 시청 없이 추가 가능)	來點擊增加一個魚缸吧！（本次無需看廣告即可增加）	Füge ein Aquarium hinzu! (Dieses Mal ohne Werbung)	Cliquez pour ajouter un aquarium ! (Aucune publicité n'est requise cette fois-ci !)	Нажмите, чтобы добавить аквариум! (В этот раз реклама не требуется.)	¡Haz clic para añadir una pecera! (Esta vez no se muestran anuncios).	Toque para adicionar um novo aquário! (Desta vez sem anúncios)	คลิกเพื่อเพิ่มตู้ปลาอันหนึ่ง! (ครั้งนี้ไม่มีโฆษณา)	Klik untuk menambahkan akuarium! (Kali ini tidak diperlukan iklan!)	Klik untuk menambah sebuah tangki ikan! (Tidak perlu menonton iklan kali ini!)
+金币不足	金币不足	Not enough coins	コインが不足しています	코인 부족	金幣不足	Nicht genug Münzen	Pièces d'or insuffisantes	Недостаточно золотых монет	¿MONEDAS INSUFICIENTES?	Moedas insuficientes	เหรียญทองไม่เพียงพอ	Koin emas tidak mencukupi	Coin tidak cukup!
+图鉴获得	图鉴获得	Gallery unlocked	図解開放	도감 획득	圖鑑獲得	Sammlung erhalten	Guide illustré	Иллюстрированное руководство	Guía ilustrada	Galeria desbloqueada	คอลเลกชันเพิ่ม	Panduan Bergambar	Dapatkan dari Galeri
+复活并解锁鱼缸	复活并解锁鱼缸	Revive and unlock a fish tank	復活して水槽を解放	부활 및 어항 잠금 해제	復活並解鎖魚缸	Wiederbeleben & Aquarium freischalten	Réanimez et débloquez l'aquarium	Оживите и откройте аквариум.	Revivir y desbloquear la pecera	Reviver e desbloquear aquário	ฟื้นคืนชีพและปลดล็อกตู้ปลา	Hidupkan kembali dan buka kunci akuarium.	Hidup kembali dan buka kunci tangki ikan
+图鉴	图鉴	Gallery	図鑑	도감	圖鑑	Sammlung	Illustrations	Инвентарь	ILUSTRADO	Galeria	คอลเลกชัน	Kumpulan	Galeri
+新道具解锁	新道具解锁	New Item Unlocked	新アイテムアンロック！	신규 아이템 잠금 해제	新道具解鎖	Neues Item freigeschaltet	Nouveaux objets débloqués	Разблокированы новые предметы	Nuevos artículos desbloqueados	Novo item desbloqueado	ไอเทมใหม่ปลดล็อกแล้ว	Item baru telah terbuka.	Item baharu dibuka kunci
+普通	普通	Common	ノーマル	일반	普通	Nomal	BASIQUE	обычный	Básico	Comum	ธรรมดา	biasa	Biasa
+棕白纹	棕白纹	Brown White Stripe	チャシロシマ	갈색 흰무늬	棕白紋	Braunweiß-Streifen	Rayures brunes et blanches	Коричнево-белые полосы	Rayas marrones y blancas	Listrado de Marrom	ลายสีน้ำตาลขาว	Garis-garis cokelat dan putih	Jalur coklat putih
+没有足够的目标	没有足够的目标	Insufficient Targets	ターゲットが足りません	목표가 부족합니다	沒有足夠的目標	Nicht genügend Ziele	Pas assez d'objectifs	Недостаточно голов	No hay suficientes goles	Sem alvos suficientes	เป้าหมายไม่เพียงพอ	Jumlah gol tidak cukup	Sasaran tidak cukup
+确认	确认	Confirm	確認	확인	確認	Bestätigen	Comfirmer	Подтвердить	Confirmar	Confirmar	ยืนยัน	Konfirmasi	Sahkan
+稀有	稀有	Rare	レア	희귀	稀有	Selten	Rare	Редкий	Raro	Raro	หายาก	Langka	Jarang
+进度<color=red>{0}%</color>	进度<color=red>{0}%</color>	Progress: <color=red>{0}%</color>	進捗<color=red>{0}%</color>	진행도<color=red>{0}%</color>	進度<color=red>{0}%</color>	Fortschritt <color=red>{0}%</color>	Progression <color=red>{0}%</color>	Прогресс <color=red>{0}%</color>	Progreso <color=red>{0}%</color>	Progresso <color=red>{0}%</color>	ความคืบหน้า <color=red>{0}%</color>	Kemajuan <color=red>{0}%</color>	Kemajuan <color=red>{0}%</color>
+新玩法	新玩法	New Blocker	新モード	신규 모드	新玩法	Neues Feature	Nouveau gameplay	Новый геймплей	Nueva jugabilidad	Novo Modo	เกมใหม่	Gameplay baru	Mod Baharu
+反馈	反馈	Feedback	フィードバック	피드백	反饋	Feedback	Feedback	Обратная связь	Reseña	Feedback	ข้อเสนอแนะ	masukan	Maklum Balas
+用户协议	用户协议	Terms of Service	利用規約	이용약관	用戶協議	Nutzungsbedingungen	Conditions d'Utilisation	Соглашение пользователи	Acuerdo de Usuario	Termos de Uso	ข้อตกลงสำหรับผู้ใช้	Perjanjian Pengguna	Perjanjian Pengguna
+隐私政策	隐私政策	Privacy Policy	プライバシーポリシー	개인정보처리방침	隱私政策	Datenschutz	Politique de Confidentialité	Политика конфиденциальности	Política de Privacidad	Política de Privacidade	นโยบายความเป็นส่วนตัว	Kebijakan Privasi	Dasar Privasi
+八爪仔	八爪仔	Octo-Kid	タコちゃん	꼬마문어	八爪仔	Krakelchen	Pieuvre	Осьминог	Pulpo	Polvinho	ปลาหมึกยักษ์	Gurita	Sotong kurita kecil
+圆滚滚	圆滚滚	Rolly Poly	コロコロ	동글이	圓滾滾	Kugelchen	rond	КРУГЛЫЙ	REDONDO	Roliço Redondo	กลมๆ	bulat	Bulat
+圆绿仔	圆绿仔	Round Greeny	グリーンマル	초록 동글이	圓綠仔	Grün-Rundchen	Garçon rond vert	Круглый Зеленый Мальчик	Niño verde redondo	Verdinho Redondo	น้องสีเขียวกลม	Anak Laki-Laki Hijau Bulat	Bulat hijau kecil
+墨蓝鳍	墨蓝鳍	Inky Fin	コンヒレ	네이비핀	墨藍鰭	Tintenflosse	Ailerons bleu foncé	Темно-синие плавники	Aletas azul oscuro	Barbatana Tinta	ครีบสีน้ำเงินเข้ม	Sirip Biru Tua	Sirip biru tua
+寄居蟹	寄居蟹	Hermit Crab	ヤドカリ	소라게	寄居蟹	Einsiedlerkrebs	Bernard-l'ermite	Рак-Отшельник	Cangrejo Ermitaño	Caranguejo Eremita	ปูเสฉวน	Kelomang	Ketam pertapa
+小蓝鲨	小蓝鲨	Little Blue	チビザメ	꼬마 파랑상어	小藍鯊	Kleiner Blauhai	Petit requin bleu	Маленькая голубая акула	Tiburón azul pequeño	Azulzinho Pequeno	ฉลามสีน้ำเงินน้อย	Hiu Biru Kecil	Ikan yu biru kecil
+小鲸宝	小鲸宝	Whale Tot	クジラっ子	꼬마 고래	小鯨寶	Wal-Baby	Petit bébé baleine	Маленький китёнок	Bebé ballena	Bebê Baleia	ลูกวาฬน้อย	Bayi Paus Kecil	Bayi ikan paus
+小黄宝	小黄宝	Goldie Tot	キーちゃん	노랑둥이	小黃寶	Gelbchen	Petit trésor jaune	Маленькое Жёлтое Сокровище	Pequeño tesoro amarillo	Bebê Dourado	น้องแก้วเหลือง	Harta Karun Kuning Kecil	Bayi kuning kecil
+小黄灵	小黄灵	Sunny Sprite	キイロリン	노랑요정	小黃靈	Gelbling	Petit esprit jaune	Маленький Жёлтый Дух	Pequeño espíritu amarillo	Espírito Solar	น้องวิญญาณเหลือง	Roh Kuning Kecil	Roh kuning kecil
+彩尾蝶	彩尾蝶	Rainbow Wing	ニジチョウ	무지개꼬리 나비	彩尾蝶	Regenbogenfalter	Papillon à queue arc-en-ciel	Радужнохвостая бабочка	Mariposa de cola arcoíris	Asa Arco-íris	ผีเสื้อหางสีรุ้ง	Kupu-kupu berekor pelangi	Rama-rama ekor pelangi
+彩尾鱼	彩尾鱼	Rainbow Tail	ニジオ	무지개꼬리 피쉬	彩尾魚	Regenbogenfisch	Poisson arc-en-ciel	Радужная рыбка	pez arcoíris	Cauda Arco-íris	ปลาหางเรนโบว์	Ikan Pelangi	Ikan ekor pelangi
+彩条鱼	彩条鱼	Rainbow Striper	ニジシマ	무지개줄무늬	彩條魚	Buntstreif	Poisson rayé	Полосатая рыба	pez rayado	Listrado Arco-íris	ปลาแถบสีรุ้ง	Ikan Bergaris	Ikan jalur pelangi
+彩泡泡	彩泡泡	Rainbow Bubble	レインボーバブル	컬러버블	彩泡泡	Buntblase	Bulles colorées	Разноцветные мыльные пузыри	Burbujas de colores	Bolha Arco-íris	ฟองหลากสี	Gelembung Berwarna-warni	Buih pelangi
+斑点鱿	斑点鱿	Spotty Squid	ドットイカ	점박이 오징어	斑點魷	Punkt-Kalmar	Calmar tacheté	Пятнистый кальмар	Calamar moteado	Lula Pintada	ปลาหมึกจุด	Cumi-cumi berbintik	Sotong berbintik
+暗红宝	暗红宝	Ruby Baby	アカネ	다크레드둥이	暗紅寶	Dunkelrotling	Rouge foncé	Темно-красный	Rojo oscuro	Bebê Rubi	น้องแก้วแดงเข้ม	Merah Tua	Bayi merah tua
+棕纹条	棕纹条	Brown Striper	ブラウンシマ	갈색 줄무늬	棕紋條	Braunstreif	Rayures brunes	Коричневые полосы	rayas marrones	Listrado Marrom	แถบลายสีน้ำตาล	Garis-garis cokelat	Jalur coklat
+橙圆仔	橙圆仔	Orange Orby	オレンジマル	주황 동글이	橙圓仔	Orange-Rundchen	Rond orange	Оранжевый круг	Naranja redonda	Orbe Laranja	น้องสีส้มกลม	Bulat Oranye	Bulat oren kecil
+橙条鱼	橙条鱼	Orange Striper	シマオレンジ	주황 줄피쉬	橙條魚	Orange-Streifen	Poisson à lanières orange	Оранжевая полосатая рыба	Pescado a rayas naranjas	Listrado Laranja	ปลาแถบส้ม	Ikan Bergaris Oranye	Ikan jalur oren
+橙纹宝	橙纹宝	Orange Stripey	オレンジもん	주황 무늬둥이	橙紋寶	Orangemuster	Trésor à rayures orange	Сокровище в оранжевую полоску	Tesoro de rayas naranjas	Listradinho Laranja	แก้วลายส้ม	Harta Karun Garis Oranye	Bayi jalur oren
+橙胖墩	橙胖墩	Orange Chunker	オレンジぽっちゃ	주황뚱이	橘子胖墩	Oranger Pummel	Graisse orange	Апельсиновый жир	Grasa de naranja	Robusto Laranja	น้องป้อมส้ม	Lemak Oranye	Si gemuk oren
+橙胖宝	橙胖宝	Orange Plump	オレンジぷく	주황통통이	橙胖寶	Orange-Pummelchen	Gros bébé orange	Оранжевый Толстый Малыш	Bebé gordo de naranja	Gordinho Laranja	น้องแก้วป้อมส้ม	Bayi Gemuk Oranye	Bayi gemuk oren
+水母灵	水母灵	Jelly Sprite	クラゲりん	해파리 요정	水母靈	Quallengeist	Esprit de la méduse	Дух Медузы	Espíritu de medusa	Espírito Geleia	วิญญาณแมงกะพรุน	Roh Ubur-ubur	Roh obor-obor
+海星宝	海星宝	Starry	ヒトデちゃん	불가사리둥이	海星寶	Seesternchen	Étoile de mer	Морская звезда	Estrella de mar	Estrelado	แก้วดาวทะเล	Bintang laut	Bayi tapak sulaiman
+海螺宝	海螺宝	Conchy	カイちゃん	소라둥이	海螺寶	Schneckchen	Trésor de conque	Сокровища раковины	Tesoro de la caracola	Conchinha	แก้วหอยสังข์	Harta Karun Kerang	Bayi kerang
+海马宝	海马宝	Seahorse Pal	タツノコくん	해마둥이	海馬寶	Seepferdchen	Haimabao	Хаймабао	Haimabao	Cavalo-marinho	แก้วม้าทะเล	Haimabao	Bayi kuda laut
+深紫胖	深紫胖	Purple Chub	ダークぽっちゃ	진보라뚱이	深紫胖	Dunkellila-Dickbauch	Deep Purple Fat	Темно-фиолетовый жир	Grasa de color púrpura intenso	Robusto Roxo	น้องป้อมม่วงเข้ม	Lemak Ungu Tua	Si gemuk ungu tua
+深蓝宝	深蓝宝	Deep Bluey	ブルーノくん	남색둥이	深藍寶	Tiefblauling	Saphir bleu profond	Темно-синий сапфир	Zafiro azul profundo	Azul Profundo	แก้วน้ำเงินเข้ม	Safir Biru Tua	Bayi biru tua
+潜水艇	潜水艇	Submarine	サブマリン号	잠수함	潛水艇	U-Boot	sous-marin	подводная лодка	submarino	Submarino	เรือดำน้ำ	kapal selam	Kapal Selam
+玫红胖	玫红胖	Rosy Chub	ローズぷく	진분홍뚱이	玫紅胖	Magenta-Pummel	Rose rouge gras	Розово-красный жир	Grasa de color rojo rosado	Robusto Rosado	น้องป้อมสีชมพูเข้ม	Rose Red Fat	Si gemuk merah mawar
+珊瑚灵	珊瑚灵	Coral Sprite	サンゴりん	산호요정	珊瑚靈	Korallengeist	Esprit Corail	Коралловый Дух	Espíritu de coral	Espírito Coral	วิญญาณปะการัง	Roh Karang	Roh karang
+粉嘟嘟	粉嘟嘟	Pinky Dot	ピンクぷくぷく	핑크 통통이	粉紅嘟嘟	Rosabäckchen	rose	розовый	rosa	Pontinho Rosa	ตัวน้อยสีชมพู	berwarna merah muda	Merah jambu
+粉圆宝	粉圆宝	Pink Orball	ピンマルちゃん	핑크 동글둥이	粉圓寶	Rosa-Rundchen	Trésor de perle rose	Розовое жемчужное сокровище	Tesoro de Perla Rosa	Orbe Rosa	แก้วกลมสีชมพู	Harta Karun Mutiara Merah Muda	Bayi bulat merah jambu
+粉橙宝	粉橙宝	Peachy Pal	ピンクオレンジ	핑크 오렌지둥이	粉紅橙寶	Rosa-Orange	Trésor rose-orange	Розовое оранжевое сокровище	Tesoro rosa y naranja	Amigo Pêssego	น้องแก้วชมพูส้ม	Harta Karun Oranye Merah Muda	Bayi oren merah jambu
+粉泡泡	粉泡泡	Pink Bubble	ピンクバブル	핑크 버블	粉紅泡泡	Rosa Blase	Bulle rose	Розовый пузырь	Burbuja rosa	Bolha Rosa	ฟองสีชมพู	Gelembung Merah Muda	Buih merah jambu
+粉紫灵	粉紫灵	Violet Sprite	ピンキーりん	핑크 보라요정	粉紅紫靈	Rosa-Lila-Geist	Esprit rose et violet	Розовый Фиолетовый Дух	Espíritu rosa púrpura	Espírito Violeta	จิตวิญญาณสีชมพูม่วง	Semangat Merah Muda Ungu	Roh ungu merah jambu
+粉红纹	粉红纹	Pink Stripes	ピンクストライプ	핑크무늬	粉紅紋	Rosa-Muster	rayures roses	Розовые полосы	rayas rosas	Listras Rosas	ลายชมพู	Garis-garis merah muda	Jalur merah jambu
+粉红鳍	粉红鳍	Peachy Fin	ピンクヒレ	핑크핀	粉紅鰭	Rosa Flosse	Nageoires roses	Розовые плавники	aletas rosas	Barbatana Pêssego	ครีบสีชมพู	Sirip merah muda	Sirip merah jambu
+粉纹鱼	粉纹鱼	Pink Stripey	ピンクシマ	핑크 줄무늬피쉬	粉紋魚	Rosa-Streifling	Poisson à rayures roses	Рыба с розовыми полосами	Peces de rayas rosas	Listradinho Rosa	ปลาลายชมพู	Ikan bergaris merah muda	Ikan jalur merah jambu
+粉胖宝	粉胖宝	Pinky Plump	ピンクぷく	핑크 통통둥이	粉紅胖寶	Rosa-Pummelchen	Gros bébé rose	Розовый Толстый Малыш	Bebé gordo rosa	Gordinho Rosa	แก้วป้อมสีชมพู	Bayi Gemuk Merah Muda	Bayi gemuk merah jambu
+粉鳍鱼	粉鳍鱼	Pinky Fin	ピンクフィン	핑크 핀피쉬	粉紅鰭魚	Rosaflössler	Poisson à nageoires roses	розовоперая рыба	pez de aleta rosada	Barbatana Rosa	ปลาครีบชมพู	Ikan sirip merah muda	Ikan sirip merah jambu
+紫圆胖	紫圆胖	Purple Roundy	パープルぽっちゃ	보라 동글뚱이	紫圓胖	Lila-Dickbauch	Gros rond violet	Фиолетовый круглый жир	Grasa redonda morada	Roxinho Redondo	น้องป้อมสีม่วง	Ungu Bulat Gemuk	Si gemuk bulat ungu
+紫尾蝶	紫尾蝶	Purple Wing	パープルチョウ	보라 꼬리나비	紫尾蝶	Lilaschwanz-Falter	Papillon à queue violette	Бабочка с пурпурным хвостом	Mariposa de cola púrpura	Asa Roxa	ผีเสื้อหางม่วง	Kupu-kupu berekor ungu	Rama-rama ekor ungu
+紫条鱼	紫条鱼	Purple Striper	パープルシマ	보라 줄피쉬	紫條魚	Lila-Streifling	Poisson à rayures violettes	Фиолетовая полосатая рыба	pez rayado morado	Listrado Roxo	ปลาแถบม่วง	Ikan Bergaris Ungu	Ikan jalur ungu
+紫灵鱼	紫灵鱼	Purple Sprite	パープルりん	보라 요정피쉬	紫靈魚	Lila-Geistfisch	Poisson-esprit violet	Фиолетовая Духовная Рыба	Pez espíritu púrpura	Espírito Roxo	ปลาวิญญาณสีม่วง	Ikan Roh Ungu	Ikan roh ungu
+紫电鱼	紫电鱼	Volt Fish	エレキパープル	보라 전기피쉬	紫電魚	Lila-Blitzfisch	Poisson électrique violet	Фиолетовая электрическая рыба	pez eléctrico púrpura	Peixe Volt	ปลาไฟฟ้าสีม่วง	Ikan listrik ungu	Ikan elektrik ungu
+紫白条	紫白条	Viowhite Stripey	ムラサキシロ	보라 하양무늬	紫白條	Lila-Weißstreif	Rayures violettes et blanches	Фиолетовые и белые полосы	rayas moradas y blancas	Listradinho Branco-Violeta	แถบสีม่วงขาว	Garis-garis ungu dan putih	Jalur ungu putih
+紫白纹	紫白纹	Viowhite Striper	パープルホワイト	보라 하양무늬	紫白紋	Lila-Weißmuster	Rayures violettes et blanches	Фиолетовые и белые полосы	rayas moradas y blancas	Listrado Branco-Violeta	ลายสีม่วงขาว	Garis-garis ungu dan putih	Jalur ungu putih
+紫纹兽	紫纹兽	Purple Beast	パープルモン	보라 무늬몬스터	紫紋獸	Lila-Bestie	Bête à rayures violettes	Фиолетовополосый зверь	Bestia de rayas moradas	Roxo Estriado	น้องสัตว์ลายม่วง	Binatang Bergaris Ungu	Binatang jalur ungu
+紫纹条	紫纹条	Purple Stripey	ムラサキシマ	보라 무늬줄	紫紋條	Lila Streif	rayures violettes	Фиолетовые полосы	rayas moradas	Listradinho Roxo	แถบลายม่วง	Garis-garis ungu	Jalur ungu
+紫纹蝶	紫纹蝶	Purple-Stripe Wing	ムラサキチョウ	보라 무늬나비	紫紋蝶	Lila-Musterfalter	Papillon à rayures violettes	фиолетовополосая бабочка	Mariposa de rayas moradas	Asa de Listra Roxa	ผีเสื้อลายม่วง	Kupu-kupu bergaris ungu	Rama-rama jalur ungu
+紫纹鳞	紫纹鳞	Purple Scale	パープルウロコ	보라무늬비늘	紫紋鱗	Lila-Schuppe	Écailles à rayures violettes	Чешуя с фиолетовыми полосами	Escamas con rayas moradas	Escama Roxa	เกล็ดลายม่วง	Sisik bergaris ungu	Sisik jalur ungu
+红壳蟹	红壳蟹	Red-Shell Crab	アカガニ	빨강 껍질게	紅殼蟹	Rotpanzer	Crabe à carapace rouge	Краб с красным панцирем	Cangrejo de concha roja	Caranguejo Vermelho	ปูเปลือกแดง	Kepiting bercangkang merah	Ketam bercangkerang merah
+红大鳍	红大鳍	Big Red Fin	レッドフィン	빨강 빅핀	紅大鰭	Großflossler	Nageoires rouges	Красные плавники	aletas rojas	Barbatana Vermelha	ครีบแดงใหญ่	Sirip merah	Sirip besar merah
+红尾蝶	红尾蝶	Red Wing	レッドテール	빨강 꼬리나비	紅尾蝶	Rotschwanz-Falter	Papillon à queue rouge	Бабочка краснохвостая	Mariposa de cola roja	Asa Vermelha	ผีเสื้อหางแดง	Kupu-kupu berekor merah	Rama-rama ekor merah
+红灯泡	红灯泡	Red Bulb	レッドランプ	빨강 전구	紅燈泡	Rotlämpchen	Ampoule rouge	Красная лампочка	Bombilla roja	Bulbo Vermelho	หลอดไฟสีแดง	Bola lampu merah	Mentol lampu merah
+红焰宝	红焰宝	Red Flamie	フレイムちゃん	빨강 불꽃둥이	紅焰寶	Rotflämmchen	Trésor de la Flamme Rouge	Сокровище Красного Пламени	Tesoro de la Llama Roja	Flamante Vermelho	แก้วเปลวไฟแดง	Harta Karun Api Merah	Bayi api merah
+红焰鱼	红焰鱼	Flame Fish	フレイムくん	불꽃피쉬	紅焰魚	Roter Flammenfisch	Poisson à flamme rouge	Рыба с красным пламенем	Pez llama roja	Peixe Chamas	ปลาเปลวไฟแดง	Ikan Api Merah	Ikan api merah
+红白条	红白条	Red-White Stripey	アカシロシマ	빨강 화이트줄	紅白條	Rot-Weißstreif	Rayures rouges et blanches	Красные и белые полосы	rayas rojas y blancas	Listrado Rosa	แถบสีแดงขาว	Garis-garis merah dan putih	Jalur merah putih
+红纹蝶	红纹蝶	Red-Stripe Wing	レッドストライプ	빨강 무늬나비	紅紋蝶	Rotstreifen-Falter	Papillon à rayures rouges	Краснополосая бабочка	Mariposa de rayas rojas	Asa de Listra Vermelha	ผีเสื้อลายแดง	Kupu-kupu bergaris merah	Rama-rama jalur merah
+红细条	红细条	Red Slim-Stripe	レッドライン	빨강 씬라인	紅細條	Rot-Dünnstrich	fine rayure rouge	тонкая красная полоска	fina raya roja	Listra-Fina Vermelha	แถบแคบสีแดง	garis merah tipis	Jalur merah nipis
+红钳蟹	红钳蟹	Red Pincer	アカハサミ	빨강 집게게	紅鉗蟹	Rotzange	Crabe à pinces rouges	Красный клешнеобразный краб	Cangrejo de pinzas rojas	Pinça Vermelha	ปูก้ามแดง	Kepiting Cakar Merah	Ketam cakar merah
+绿圆仔	绿圆仔	Green Roundy	グリまる	초록 동글이	綠圓仔	Grün-Rundchen	Rond vert	Зеленый Круг	Ronda verde	Esfera Verde	น้องกลมสีเขียว	Lingkaran Hijau	Bulat hijau kecil
+绿圆宝	绿圆宝	Green Orby	ミドマルちゃん	초록 동글둥이	綠圓寶	Grün-Kugelchen	Trésor rond vert	Зелёное круглое сокровище	Tesoro redondo verde	Orbe Verde	แก้วกลมสีเขียว	Harta Karun Bulat Hijau	Bayi bulat hijau
+绿斑宝	绿斑宝	Green Spotty	グリーンドット	초록 점박이둥이	綠斑寶	Grünfleck	Trésor de Green Spot	Сокровище Зеленого Пятна	Tesoro del punto verde	Pintadinho Verde	แก้วจุดเขียว	Harta Karun Titik Hijau	Bayi bintik hijau
+绿条纹	绿条纹	Green Stripey	グリーンストライプ	초록 줄무늬	綠色條紋	Grünstreif	rayures vertes	Зеленые полосы	rayas verdes	Listradinho Verde	แถบลายเขียว	Garis-garis hijau	Jalur hijau
+绿泡泡	绿泡泡	Green Bubble	ミドリバブル	초록 버블	綠泡泡	Grünblase	Bulles vertes	Зеленые пузырьки	Burbujas verdes	Bolha Verde	ฟองสีเขียว	Gelembung Hijau	Buih hijau
+绿纹豚	绿纹豚	Green Stripe Puffer	ミドリイルカ	초록 무늬복어	綠紋豚	Grünstreifen-Delfin	dauphin vert	зеленый дельфин	delfín verde	Baiacu de Listra Verde	ปลาปักเป้าลายเขียว	lumba-lumba hijau	Ikan buntal jalur hijau
+绿纹鱼	绿纹鱼	Green Stripe Fish	グリーンシマ	초록 무늬피쉬	綠紋魚	Grünstreifling	Poisson à rayures vertes	Рыба в зелено-полосатую полоску	pez de rayas verdes	Peixe de Listra Verde	ปลาลายเขียว	Ikan bergaris hijau	Ikan jalur hijau
+绿胖宝	绿胖宝	Greeny Plump	グリーンぷく	초록 통통이	綠胖寶	Grün-Pummelchen	Gros bébé vert	Зелёный Толстый Малыш	Bebé gordo verde	Verdinho Gordinho	แก้วป้อมสีเขียว	Bayi Gemuk Hijau	Bayi gemuk hijau
+绿顶仙	绿顶仙	Green Crest	グリーンエンゼル	초록 크라운	綠頂仙	Grünkopf	fée à couronne verte	Фея с зелёной короной	Hada de corona verde	Crista Verde	นางฟ้าหัวเขียว	Peri bermahkota hijau	Peri bermahkota hijau
+绿鳍仔	绿鳍仔	Green Finny	ミドリヒレ	초록핀이	綠鰭仔	Grünflösschen	Greenfin	Гринфин	Greenfin	Asa Verde	น้องครีบเขียว	Sirip Hijau	Sirip hijau kecil
+绿龟宝	绿龟宝	Green Turtie	カメちゃん	초록거북둥이	綠龜寶	Schildkrötchen	Trésor de la Tortue Verte	Сокровища Зелёной Черепахи	Tesoro de la tortuga verde	Tartaruguinha Verde	ครีบเต่าเขียว	Harta Karun Penyu Hijau	Bayi penyu hijau
+翠尾蝶	翠尾蝶	Emerald Wing	ジェイドチョウ	비취꼬리나비	翠尾蝶	Smaragdfalter	Papillon à queue d'émeraude	Бабочка с изумрудным хвостом	Mariposa de cola esmeralda	Asa Esmeralda	ผีเสื้อหางสีเขียวสด	Kupu-kupu Ekor Zamrud	Rama-rama ekor zamrud
+蓝圆宝	蓝圆宝	Blue Orby	アオマルちゃん	파랑 동글둥이	藍色圓寶	Blau-Rundchen	Trésor rond bleu	Сокровище в форме синего круга	Tesoro redondo azul	Orbe Azul	แก้วกลมสีน้ำเงิน	Harta Karun Bulat Biru	Bayi bulat biru
+蓝圆鱼	蓝圆鱼	Blue Roundy	ブルーマル	파랑 동글피쉬	藍圓魚	Blaukugelfisch	Poisson rond bleu	Синяя круглая рыба	pez azul redondo	Redondo Azul	ปลากลมสีน้ำเงิน	Ikan bulat biru	Ikan bulat biru
+蓝宝鱼	蓝宝鱼	Bluey Fish	サファイアくん	파랑 보석피쉬	藍色寶魚	Blaujuwel	Poisson bleu	Синяя рыба	pez azul	Peixe Azulado	ปลาแก้วสีฟ้า	Ikan Biru	Ikan biru
+蓝条宝	蓝条宝	Blue Stripey	ブルーシマくん	파랑 줄둥이	藍條寶	Blaustreifling	Rayures bleues	Синяя полоса	Raya azul	Listrado Azul	แก้วแถบสีน้ำเงิน	Garis Biru	Ikan jalur biru
+蓝条鱼	蓝条鱼	Blue Striper	ブルーストライプ	파랑 줄피쉬	藍條魚	Blaustreifenfisch	Poisson à rayures bleues	Рыба с синими полосами	pez de rayas azules	Listrador Azul	ปลาแถบสีน้ำเงิน	Ikan Bergaris Biru	Ikan jalur biru
+蓝条鲨	蓝条鲨	Blue-Stripe Shark	シマザメ	파랑 줄상어	藍條鯊	Blaustreifenhai	Requin bleu	Голубая акула	Tiburón azul	Tubarão de Listra Azul	ฉลามแถบสีน้ำเงิน	Hiu Biru	Ikan yu jalur biru
+蓝泡泡	蓝泡泡	Blue Bubble	ブルーバブル	파랑 버블	藍泡泡	Blaue Blase	Bulle bleue	Синий пузырь	Burbuja Azul	Bolha Azul	ฟองสีฟ้า	Gelembung Biru	Buih biru
+蓝白鱼	蓝白鱼	Blue-White Fish	ブルーホワイト	파랑 흰 피쉬	藍白魚	Blau-Weißfisch	Poisson bleu et blanc	Сине-белая рыба	Peces azules y blancos	Peixe Branco-Azul	ปลาสีฟ้าขาว	Ikan biru dan putih	Ikan biru putih
+蓝纹蝶	蓝纹蝶	Blue-Stripe Wing	ブルーバタフライ	파랑 무늬나비	藍紋蝶	Blaustreifen-Falter	Papillon à rayures bleues	бабочка с сине-полосатой окраской	Mariposa de rayas azules	Asa de Listra Azul	ผีเสื้อลายสีฟ้า	Kupu-kupu bergaris biru	Rama-rama jalur biru
+蓝纹鲨	蓝纹鲨	Blue Wave Shark	アオモンザメ	파랑 무늬상어	藍紋鯊	Blaumuster-Hai	Requin à rayures bleues	Синеполосая акула	Tiburón de rayas azules	Tubarão Onda Azul	ฉลามลายฟ้า	Hiu bergaris biru	Ikan yu jalur biru
+蓝胖墩	蓝胖墩	Blue Chunker	ブルーぽっちゃ	파랑뚱이	藍色胖墩	Blauer Pummel	Gros bleu	Синий Толстяк	Gordito azul	Robusto Azul	ป้อมสีน้ำเงิน	Gemuk Biru	Si gemuk Biru
+蓝胖宝	蓝胖宝	Bluey Plump	ブルーぷく	파랑 통통이	藍色胖寶	Blau-Pummelchen	trésor bleu gras	синее толстое сокровище	tesoro gordo azul	Azulado Gordinho	แก้วป้อมน้ำเงิน	harta karun gemuk biru	Bayi gemuk biru
+蓝闪蝶	蓝闪蝶	Blue Flash	モルフォ	파랑 반짝나비	藍閃蝶	Morphofalter	Papillon Morpho bleu	Бабочка Blue Morpho	Mariposa Morpho azul	Flash Azul	ผีเสื้อมอร์โฟน้ำเงิน	Kupu-kupu Blue Morpho	Rama-rama kilat biru
+蓝鳍宝	蓝鳍宝	Blue Finny	ブルヒちゃん	파랑 핀둥이	藍鰭寶	Blauflossler	Trésor du thon rouge	Голубой тунец	Tesoro de atún rojo	Barbatana Azul	แก้วครีบสีฟ้า	Harta Karun Sirip Biru	Bayi sirip biru
+蓝鳍鱼	蓝鳍鱼	Blue-Fin Fish	アオヒレ	파랑 핀피쉬	藍鰭魚	Blauflossenfisch	Poisson rouge	Голубой тунец	pez de aleta azul	Peixe de Barbatana Azul	ปลาครีบสีฟ้า	Ikan sirip biru	Ikan sirip biru
+金斑点	金斑点	Golden Spot	ゴールドドット	황금 점박이	金斑點	Goldpunkt	Points dorés	Золотистые пятна	Manchas doradas	Ponto Dourado	จุดสีทอง	Bintik-bintik Emas	Bintik emas
+金鳞仔	金鳞仔	Golden Scale	キンウロコ	황금 비늘이	金鱗仔	Goldschuppe	Échelle d'or	Золотая шкала	Escala áurea	Escama Dourada	น้องเกล็ดทอง	Skala Emas	Sisik emas kecil
+银线鱼	银线鱼	Silver Line	シルバーライン	실버 라인피쉬	銀線魚	Silberstreif	Poisson à nageoires filamenteuses argentées	серебристая нитеперая рыба	pez de aleta plateada	Linha de Prata	ปลาเส้นเงิน	Ikan benang perak	Ikan benang perak
+青纹斑	青纹斑	Cyan Spot	シアンモン	청록 무늬점박이	青紋斑	Türkisfleck	rayures bleues	Синие полосы	rayas azules	Ponto Ciano	ลายจุดสีเขียวฟ้า	Garis-garis biru	Bintik jalur biru nila
+青鳞宝	青鳞宝	Cyany Scale	シアンウロコ	청록 비늘둥이	青鱗寶	Türkis-Schuppe	Trésor à l'échelle d'azur	Сокровища масштаба Azure	Tesoro de escala azul	Escama Ciana	แก้วเกล็ดเขียวฟ้า	Harta Karun Skala Azure	Bayi sisik biru nila
+黄盖仔	黄盖仔	Yellow Shell-Kid	キイロキャップ	노랑 뚜껑이	黃蓋仔	Gelbkappe	Huang Gaizi	Хуан Гайцзы	Huang Gaizi	Criança-Concha Amarela	น้องฝาเหลือง	Huang Gayzi	Cengkerang kuning kecil
+黄纹宝	黄纹宝	Yellow Stripey	キイモンちゃん	노랑 무늬둥이	黃紋寶	Gelbmuster	Trésor à rayures jaunes	Желтополосое сокровище	Tesoro de rayas amarillas	Listrado Amarelo	แก้วลายสีเหลือง	Harta Karun Bergaris Kuning	Bayi jalur kuning
+黄纹蝶	黄纹蝶	Yellow-Stripe Wing	イエローバタフライ	노랑 무늬나비	黃紋蝶	Gelbstreifen-Falter	Papillon à rayures jaunes	Желтополосая бабочка	Mariposa de rayas amarillas	Asa de Listra Amarela	ผีเสื้อลายเหลือง	Kupu-kupu bergaris kuning	Rama-rama jalur kuning
+黄胖墩	黄胖墩	Yellow Chunker	イエローぽっちゃ	노랑 뚱이	黃胖墩	Gelber Pummel	Huang Pangdun	Хуан Пандунь	Huang Pangdun	Robusto Amarelo	ป้อมสีเหลือง	Huang Pangdun	Si gemuk kuning
+黄蓝宝	黄蓝宝	Yellow-Bluey	キイアオちゃん	노랑 파랑 둥이	黃藍寶	Gelb-Blauling	Saphir jaune	Жёлтый сапфир	Zafiro amarillo	Azulado-Amarelo	แก้วสีเหลืองน้ำเงิน	Safir Kuning	Bayi biru kuning
+黄蓝鲨	黄蓝鲨	Yellow-Blue Shark	イエローシャーク	노랑 파랑 상어	黃藍鯊	Gelb-Blau-Hai	Requin jaune et bleu	Желто-голубая акула	Tiburón azul amarillo	Tubarão Azul-Amarelo	ฉลามสีเหลืองน้ำเงิน	Hiu Biru Kuning	Ikan yu biru kuning
+黄金宝	黄金宝	Goldie	ゴールデンちゃん	황금둥이	黃金寶	Goldchen	Trésor d'or	Золотое сокровище	Tesoro dorado	Douradinho	แก้วทองคำ	Harta Karun Emas	Bayi emas
+黑白豚	黑白豚	Panda Puffer	シロクロイルカ	흑백복어	黑白豚	Schwarz-weiße Delfine	Dauphins noirs et blancs	Черно-белые дельфины	Delfines blancos y negros	Baiacu Panda	ปลาปักเป้าขาวดำ	Lumba-lumba hitam dan putih	Ikan buntal hitam putih
+与	与	&	&	및	與	&	et	и	y	&	และ	Dan	&
+保留可以获得奖励的可选广告	保留可以获得奖励的可选广告	Keep rewarded ads for extra prizes	リワード広告は引き続き利用可能	보상형 선택 광고 유지	保留可以獲得獎勵的可選廣告	Optionale belohnte Werbung beibehalten	Conserver les pubs qui offrent des récompenses.	Сохраняйте дополнительные объявления, за которые можно получить вознаграждение	Mantener anuncios opcionales que puedan generar premios	Manter anúncios opcionais para recompensas	เก็บโฆษณาที่สามารถกดรับรางวัลได้	Pertahankan iklan opsional yang dapat mendapatkan hadiah	Kekalkan iklan pilihan yang mendapatkan ganjaran
+去广告	去广告	Remove Ads	広告非表示	광고 제거	去廣告	Keine Werbung	Supprimer les Pubs	Отключить рекламу	Eliminar Anuncios	Remover Anúncios	ลบโฆษณา	Hapus Iklan	Buang Iklan
+去广告礼包	去广告礼包	No Ads Bundle	広告非表示パック	광고 제거 패키지	去廣告禮包	Werbfrei Paket	Pack Sans Pubs	Пакет без рекламы	Paquete de Borrar Anuncios	Pacote Sem Anúncios	แพ็คลบโฆษณา	Paket Hapus Iklan	Pek Buang Iklan
+商店	商店	Shop	ショップ	상점	商店	Shop	boutique	магазин	comercio	Loja	ร้านค้า	toko	Kedai
+圆胖鲸	圆胖鲸	Chubby Whale	まるぷくクジラ	둥근 뚱고래	圓胖鯨	Kugelwal	baleine ronde et grasse	круглый жирный кит	ballena gorda redonda	Baleia Redonda	ปลาวาฬกลมป้อม	paus gemuk bulat	Ikan paus gemuk bulat
+尖牙鲨	尖牙鲨	Fang Shark	キバザメ	뾰족니 상어	尖牙鯊	Zahnhai	Requin à dents acérées	Острозубая акула	Tiburón de dientes afilados	Tubarão Dentuço	ฉลามฟันแหลม	Hiu bergigi tajam	Ikan yu bergigi tajam
+已购买	已购买	Purchased	購入済み	구매 완료	已購買	Gekauft	Acheté	Уже купил(а)	Comprado	Comprado	ซื้อเเล้ว	Dibeli	Dibeli
+已购买该礼包!	已购买该礼包!	Bundle already purchased!	このパックは購入済みです！	이미 구매한 패키지입니다!	已購買該禮包!	Paket bereits gekauft!	J'ai déjà acheté ce coffret cadeau !	Я уже купила этот подарочный набор!	¡Ya he comprado este set de regalo!	Pacote já comprado!	ได้ซื้อแพ็คนี้แล้ว!	Saya sudah membeli set hadiah ini!	Sudah membeli pek ini!
+恢复购买	恢复购买	Restore Purchases	購入復元	구매 복구	恢復購買	Kauf wiederherstellen	Restaurer l'Achat	Восстановить покупку	Recuperar Compra	Restaurar Compras	กู้คืนซื้อ	Lanjutkan pembelian	Memulihkan Pembelian
+捆绑包1	捆绑包1	Bundle 1	バンドル1	번들 1	捆綁包1	Bundle 1	Lot 1	Комплект 1	Paquete 1	Pacote 1	ชุดที่ 1	Paket 1	Pek 1
+捆绑包2	捆绑包2	Bundle 2	バンドル2	번들 2	捆綁包2	Bundle 2	Lot 2	Комплект 2	Paquete 2	Pacote 2	ชุดที่ 2	Paket 2	Pek 2
+捆绑包3	捆绑包3	Bundle 3	バンドル3	번들 3	捆綁包3	Bundle 3	Lot 3	Комплект 3	Paquete 3	Pacote 3	ชุดที่ 3	Paket 3	Pek 3
+捆绑包4	捆绑包4	Bundle 4	バンドル4	번들 4	捆綁包4	Bundle 4	Lot 4	Комплект 4	Paquete 4	Pacote 4	ชุดที่ 4	Paket 4	Pek 4
+捆绑包5	捆绑包5	Bundle 5	バンドル5	번들 5	捆綁包5	Bundle 5	Lot 5	Комплект 5	Paquete 5	Pacote 5	ชุดที่ 5	Paket 5	Pek 5
+新手礼包	新手礼包	Starter Pack	初心者パック	스타터 패키지	新手禮包	Starter-Paket	Paquet de Débutant	Пакет новичок	Paquete de Novicio	Pacote Iniciante	แพ็คมือใหม่	Paket Hadiah Pemain Baru	Pek Novis
+棕纹胖	棕纹胖	Brown Stripey	チャシマぽっちゃ	갈색 줄무늬뚱이	棕紋胖	Braunstreif	graisse brune rayée	Коричневый полосатый жир	grasa rayada marrón	Risca Marrom	ป้อมลายสีน้ำตาล	Lemak bergaris cokelat	Si gemuk jalur coklat
+棕背鱼	棕背鱼	Brownback	チャセナ	갈색 등피쉬	棕背魚	Braunrücken	Poisson à dos brun	Рыба Браунбэк	Pez de lomo marrón	Dorso Marrom	ปลาหลังสีน้ำตาล	Ikan punggung cokelat	Ikan belakang coklat
+橙红宝	橙红宝	Orange Ruby	シュアカちゃん	주황빨강 볼	橙紅寶	Orangerotchen	Trésor orange-rouge	Оранжево-красное сокровище	Tesoro rojo anaranjado	Rubi Laranja	แก้วสีส้มแดง	Harta Karun Merah Oranye	Bayi oren merah
+永久移除强制广告	永久移除强制广告	Permanently remove all pop-up ads	強制広告を永久に非表示	강제 광고 영구 제거	永久移除強制廣告	Erzwungene Werbung dauerhaft entfernen	Supprimer définitivement les pubs forcées	Удалить принудительно навязанную рекламу навсегда	Eliminar permanentemente los anuncios forzados	Remover anúncios pop-up permanentemente	ลบโฆษณาที่บังคับออกอย่างถาวร	Hapus iklan paksa secara permanen	Buangkan semua iklan pop timbul secara kekal
+火焰鱼	火焰鱼	Flamefish	カエンギョ	불꽃 물고기	火焰魚	Flammenfisch	Poisson-flamme	Огненная рыба	Pez llama	Peixe-Chama	ปลาเปลวไฟ	Ikan Api	Ikan api
+礼包	礼包	Bundles	パック	패키지	禮包	Paket	Packs	Подарочный Пакет	PAQUETE	Pacotes	แพ็ค	PAKET HADIAH	Pek
+粉吻豚	粉吻豚	Pink Kisser	キスイルカ	분홍 뽀뽀복어	粉吻豚	Rosa-Kussdelfin	Cochon à baiser rose	Розовый Поцелуй Свинка	Cerdito besador rosa	Beijoqueiro Rosa	ปลาปักเป้าจูบสีชมพู	Babi Ciuman Merah Muda	Ikan buntal ciuman merah jambu
+粉圆球	粉圆球	Pinkie Ball	ピンキーボール	분홍 둥근볼	粉圓球	Rosa Kugelfisch	boules de tapioca	шарики из тапиоки	bolas de tapioca	Bolinha Rosa	บอลกลมสีชมพู	bola tapioka	Bola bulat merah jambu
+紫光球	紫光球	Glowy Purple	シコウボール	보라 빛구슬	紫光球	Lila Leuchtkugel	Sphère violette	Фиолетовая сфера	Esfera púrpura	Roxo Brilhante	บอลแสงสีม่วง	Bola ungu	Bola cahaya ungu
+紫圆宝	紫圆宝	Purple Roundie	パープルまる	보라 둥근볼	紫圓寶	Lila Rundchen	Trésor rond violet	Фиолетовое круглое сокровище	Tesoro redondo púrpura	Redondinho Roxo	แก้วกลมสีม่วง	Harta Karun Bulat Ungu	Bayi bulat ungu
+紫尾鱼	紫尾鱼	Purpletail	ムラサキオ	보라 꼬리피쉬	紫尾魚	Lilaschwanz	Poisson à queue violette	Рыба с фиолетовым хвостом	pez de cola morada	Cauda Roxa	ปลาหางม่วง	Ikan Ekor Ungu	Ikan ekor ungu
+紫海马	紫海马	Purple Seahorse	パープルタツ	보라 해마	紫海馬	Lila Seepferdchen	Hippocampe violet	Фиолетовый морской конек	caballito de mar púrpura	Cavalo-marinho Roxo	ม้าทะเลสีม่วง	Kuda Laut Ungu	Kuda laut ungu
+紫胖宝	紫胖宝	Purple Chubby	パープルぷく	보라 뚱이볼	紫胖寶	Lila Dickbauch	trésor gras violet	фиолетовое толстое сокровище	tesoro gordo morado	Roxo Pançudo	แก้วป้อมสีม่วง	harta karun gemuk ungu	Bayi gemak ungu
+紫蓝鳍	紫蓝鳍	Purp-Blue Fin	アイムラヒレ	보라파랑 핀	紫藍鰭	Lilablau-Flosser	Nageoires bleu-violet	Фиолетово-синие плавники	aletas de color azul violáceo	Barbatana Azul-Roxa	ครีบสีม่วงน้ำเงิน	Sirip berwarna ungu-biru	Sirip ungu biru
+红白纹	红白纹	Red-White Stripes	アカシロもん	홍백 줄무늬	紅白紋	Rotweiß-Streifling	Rayures rouges et blanches	Красные и белые полосы	rayas rojas y blancas	Listras Branco-Vermelhas	ลายแดงขาว	Garis-garis merah dan putih	Jalur merah putih
+红纹宝	红纹宝	Red Stripey	アカモンちゃん	빨강 줄무늬볼	紅紋寶	Rotstreif-Juwel	Pierre précieuse à rayures rouges	Драгоценный камень с красными полосами	Gema con rayas rojas	Listrado Vermelho	แก้วลายสีแดง	Batu permata bergaris merah	Bayi jalur merah
+红纹鲨	红纹鲨	Red-Striped Shark	アカシマザメ	빨강 줄무늬상어	紅紋鯊	Rotstreifenhai	Requin à rayures rouges	краснополосая акула	Tiburón rayado	Tubarão de Listra Vermelha	ฉลามลายแดง	Hiu bergaris merah	Ikan yu jalur merah
+红胖鱼	红胖鱼	Red Chubby	あかぽちゃ	빨강 뚱피쉬	紅胖魚	Roter Pummler	Poisson gras rouge	Красная жирная рыба	Pescado rojo graso	Robusto Vermelho	ปลาอ้วนแดง	Ikan Merah Berlemak	Ikan gemuk merah
+红金鳍	红金鳍	Golden Red	アカキンヒレ	빨강황금 핀	紅金鰭	Rotgold-Flosser	Aileron rouge	Красный Золотой Плавник	Aleta de oro rojo	Dourado Vermelho	ครีบสีแดงทอง	Sirip Emas Merah	Sirip emas merah
+绿橙宝	绿橙宝	Green-Orange Tot	ミドオレちゃん	초록주황 볼	綠橙寶	Grün-Orange-Juwel	Trésor vert orange	Зеленое Оранжевое Сокровище	Tesoro Naranja Verde	Bebê Laranja-Verde	แก้วสีเขียวส้ม	Harta Karun Oranye Hijau	Bayi oren hijau
+绿海马	绿海马	Green Seahorse	グリンタツ	초록 해마	綠海馬	Grünes Seepferdchen	Hippocampe vert	Зелёный морской конёк	caballito de mar verde	Cavalo-marinho Verde	ม้าทะเลสีเขียว	Kuda Laut Hijau	Kuda laut hijau
+绿眉鱼	绿眉鱼	Greenbrow	ミドリマユ	초록 눈썹피쉬	綠眉魚	Grünbraue	Poisson à sourcils verts	Зеленобровая рыба	Pez de ceja verde	Sobrancelha Verde	ปลาคิ้วเขียว	Ikan alis hijau	Ikan berbaju hijau
+绿纹胖	绿纹胖	Green Stripey Chub	グリンシマぷく	초록 줄무늬뚱이	綠紋胖	Grünstreif-Pummler	Graisse à rayures vertes	Жир в зелено-полосатую полоску	Grasa rayada verde	Robusto Listrado Verde	ป้อมลายเขียว	Lemak bergaris hijau	Si gemuk jalur hijau
+蓝剑鱼	蓝剑鱼	Blue Swordfish	ブルーソード	파랑 새치	藍劍魚	Blauer Schwertfisch	Espadon bleu	Голубая рыба-меч	pez espada azul	Peixe-Espada Azul	ปลาดาบสีน้ำเงิน	Ikan todak biru	Ikan pedang biru
+蓝圆鳍	蓝圆鳍	Blue Roundfin	アオマルヒレ	파랑 둥근핀	藍圓鰭	Blaue Rundflosse	Grappin bleu	Синий плавник	Aleta azul	Barbatana Redonda Azul	ครีบกลมสีน้ำเงิน	Sirip biru	Ikan bulat biru
+蓝白宝	蓝白宝	Blue-White Babe	アオシロちゃん	청백 볼	藍白寶	Blauweiß-Juwel	Trésor bleu et blanc	Сине-белое сокровище	Tesoro azul y blanco	Bebê Branco-Azul	แก้วสีน้ำเงินขาว	Harta Karun Biru dan Putih	Bayi biru putih
+蓝白纹	蓝白纹	Blue-White Stripes	アオシロもん	청백 줄무늬	藍白紋	Blauweiß-Streifling	Rayures bleues et blanches	Сине-белые полосы	rayas azules y blancas	Listras Branco-Azuis	ลายสีน้ำเงินขาว	Garis-garis biru dan putih	Jalur biru putih
+蓝白鲨	蓝白鲨	Blue-White Shark	アオシロザメ	청백 상어	藍白鯊	Blau-Weißer Hai	Requin bleu et blanc	Голубая белая акула	Tiburón blanco azulado	Tubarão Branco-Azul	ฉลามสีน้ำเงินขาว	Hiu Putih Biru	Ikan yu putih biru
+蓝白鲸	蓝白鲸	Blue-White Whale	アオシロクジラ	청백 고래	藍白鯨	Blau-Weißwal	Baleine bleue	Синий кит	Ballena azul	Baleia Branco-Azul	วาฬสีน้ำเงินขาว	Paus biru	Ikan paus biru
+蓝红鳍	蓝红鳍	Blue-Red Fin	アオアカヒレ	청홍 핀	藍紅鰭	Blaurot-Flosser	Ailerons bleu-rouge	Сине-красные плавники	aletas azul-rojas	Barbatana Vermelho-Azul	ครีบสีน้ำเงินแดง	Sirip berwarna biru-merah	Sirip biru merah
+蓝纹宝	蓝纹宝	Bluey Stripey	アオモンちゃん	파랑 줄무늬볼	藍紋寶	Blaustreifling	Veine bleue	Голубая жилка	Vena azul	Risca Azul	แก้วลายสีน้ำเงิน	Urat Biru	Bayi jalur biru
+蓝纹条	蓝纹条	Bluey Striper	アオシマ	파랑 줄무늬	藍紋條	Blaustreife	rayures bleues	Синие полосы	rayas azules	Azul Estriado	แถบลายน้ำเงิน	Garis-garis biru	Jalur biru
+蓝纹胖	蓝纹胖	Blue Stripey Chub	アオシマぷく	파랑 줄무늬뚱이	藍紋胖	Blaustreif-Pummler	Graisse à rayures bleues	Жир в синюю полоску	grasa rayada azul	Robusto Listrado Azul	ป้อมลายสีน้ำเงิน	Lemak bergaris biru	Si gemuk jalur biru
+蓝肚豚	蓝肚豚	Bluebelly	アオハラくん	파랑 배복어	藍肚豚	Blaubauch-Delfin	dauphin à ventre bleu	дельфин с синим брюхом	delfín de vientre azul	Barriga Azul	ปลาปักเป้าท้องสีฟ้า	lumba-lumba perut biru	Ikan buntal perut biru
+蓝胖鱼	蓝胖鱼	Blue Chubby	あおぽちゃ	파랑 뚱피쉬	蓝胖鱼	Blauer Pummler	Poisson gras bleu	Синяя жирная рыба	Pez azul gordo	Azul Pançudo	ปลาอ้วนสีน้ำเงิน	Ikan Gemuk Biru	Ikan gemuk biru
+蓝胖鲨	蓝胖鲨	Blue Chubby Shark	ぷくザメ	파랑 뚱상어	蓝胖鲨	Dicker Blauhai	Gros requin bleu	Голубая толстая акула	Tiburón gordo azul	Tubarão Robusto Azul	ฉลามอ้วนสีน้ำเงิน	Hiu Gemuk Biru	Ikan yu gemuk biru
+蓝脸鲨	蓝脸鲨	Blueface Shark	アオガオザメ	파랑 얼굴상어	藍臉鯊	Blaugesichthai	Requin à face bleue	Синелицая акула	Tiburón de cara azul	Tubarão de Face Azul	ฉลามหน้าสีฟ้า	Hiu berwajah biru	Ikan yu wajah biru
+蓝金宝	蓝金宝	Blue-Gold Babe	アオキンちゃん	청금 볼	藍金寶	Blaugold-Juwel	Or bleu	Голубое золото	Oro azul	Bebê Ouro-Azul	แก้วสีน้ำเงินทอง	Emas Biru	Bayi emas biru
+蓝金纹	蓝金纹	Blue-Gold Stripes	アオキンもん	청금 줄무늬	藍金紋	Blaugold-Streifling	Motif bleu et or	Узор «Сине-золото»	Patrón de oro azul	Listras Ouro-Azuis	ลายสีน้ำเงินทอง	Pola Emas Biru	Jalur emas biru
+蓝金胖	蓝金胖	Blue-Gold Chub	アオキンぷく	청금 뚱이	藍金胖	Blaugold-Pummler	Roi Bleu Gras	Синий Король Толстый	Grasa del Rey Azul	Robusto Ouro-Azul	ป้อมทองน้ำเงิน	Raja Biru Gemuk	Si gemuk emas biru
+蓝金脊	蓝金脊	Blue-Gold Ridge	アオキンセナ	청금 등가시	藍金脊	Blaugold-Rücken	Blue Gold Ridge	Голубой Золотой хребет	Cresta de oro azul	Cume Ouro-Azul	สันเขาสีน้ำเงินทอง	Punggungan Emas Biru	Punggung biru emas
+蓝金鳍	蓝金鳍	Blue-Gold Fin	キンアオヒレ	청금 핀	藍金鰭	Blaugold-Flosser	Aileron en or bleu	Голубой золотой плавник	Aleta de oro azul	Barbatana Ouro-Azul	ครีบสีน้ำเงินทอง	Sirip Emas Biru	Sirip emas biru
+购买成功	购买成功	Purchase Successful	購入完了	황금 둥근볼	購買成功	Kauf erfolgreich	Achat réussi	Покупка прошла успешно.	Compra exitosa	Compra bem-sucedida	ซื้อสำเร็จ	Pembelian berhasil	Pembelian berjaya
+金圆宝	金圆宝	Gold Roundie	キンマルちゃん	황금 불꽃피쉬	金圓寶	Gold-Rundjuwel	Trésor rond doré	Золотое круглое сокровище	Tesoro redondo dorado	Redondinho Dourado	แก้วกลมสีทอง	Harta Karun Bulat Emas	Bayi bulat emas
+金焰鱼	金焰鱼	Goldflame Fish	ゴルドフレイム	황금빨강 무늬	金焰魚	Goldflamme	Poisson Flamme Dorée	Золотая Огненная Рыба	Pez llama dorada	Peixe Chama-Dourada	ปลาเปลวไฟสีทอง	Ikan Api Emas	Ikan api emas
+金红纹	金红纹	Gold-Red Stripes	キンアカもん	황금빨강 핀	金紅紋	Goldrot-Streifling	Rayures rouges dorées	Золотисто-красные полосы	Rayas rojas doradas	Listras Vermelho-Douradas	ลายแดงทอง	Garis-garis Merah Emas	Jalur merah emas
+金红鳍	金红鳍	Gold-Red Fin	キンアカヒレ	황금 무늬엔젤	金紅鰭	Goldrot-Flosser	Nageoire rouge dorée	Золотисто-красный плавник	Aleta roja dorada	Barbatana Vermelho-Dourada	ครีบสีทองแดง	Sirip Merah Emas	Sirip merah emas
+金纹鱼	金纹鱼	Gold-Striped Fish	キンシマ	황금파랑 무늬	金紋魚	Goldstreif	Poisson à rayures dorées	Рыба с золотистыми полосами	pez de rayas doradas	Peixe de Listra Dourada	ปลาลายทอง	Ikan bergaris emas	Ikan jalur emas
+金蓝纹	金蓝纹	Gold-Blue Stripes	キンアオもん	황금파랑 모자	金藍紋	Goldblau-Streifling	Motif or et bleu	Узор золотисто-синего цвета	Patrón dorado y azul	Listras Azul-Douradas	ลายทองฟ้า	Pola emas dan biru	Jalur emas biru
+金蓝顶	金蓝顶	Gold-Blue Cap	キンアオトップ	은빛 머리피쉬	金藍頂	Goldblau-Kopf	Haut bleu doré	Золотисто-синий верх	Top azul dorado	Topo Azul-Dourado	หัวสีน้ำเงินทอง	Atasan Biru Keemasan	Atasan emas biru
+银头鱼	银头鱼	Silvertop	ギンヘッド	은빛 줄피쉬	銀頭魚	Silberkopf	Poisson à tête argentée	Рыба-серебрянка	pez cabeza plateada	Topo Prateado	ปลาหัวสีเงิน	Ikan kepala perak	Ikan kepala perak
+银条鱼	银条鱼	Silverside	ギンシマ	청록 둥근피쉬	銀條魚	Silberstreif	Poisson d'argent	Чешуйницы	Lepisma	Lateral Prateada	ปลาแถบสีเงิน	Gegat	Ikan Perak
+青圆鱼	青圆鱼	Cyan Roundie	シアンまる	청록 보석	青圓魚	Jaderund-Fisch	Poisson rond bleu	Синяя круглая рыба	pez azul redondo	Redondinho Ciano	ปลากลมสีเขียวฟ้า	Ikan bulat biru	Ikan bulat biru nila
+青宝石	青宝石	Cyan Gem	シアンジュエル	청록 줄무늬볼	青寶石	Jadejuwel	Saphir	Сапфир	Zafiro	Gema Ciana	พลอยสีเขียวฟ้า	Safir	Permata biru nila
+青纹宝	青纹宝	Cyan Stripey	シアンもんちゃん	청록황금 점	青紋寶	Jadestreifling	Trésor à motifs bleus	Сокровище с синим узором	Tesoro con estampado azul	Listrado Ciano	แก้วลายสีเขียวฟ้า	Harta Karun Bermotif Biru	Bayi jalur biru nila
+青金斑	青金斑	Cyan-Gold Spot	シアンゴルマダ	청록 핀볼	青金斑	Jadegold-Fleck	Taches bleu-or	Сине-золотые пятна	manchas azul dorado	Ponto Ouro-Ciano	จุดสีฟ้าเขียวทอง	Bintik-bintik biru keemasan	Bintik emas biru nila
+青鳍宝	青鳍宝	Cyan Finny	シアンヒレ	청록 비늘피쉬	青鰭寶	Jadeflossler	Trésor du thon rouge	Сокровища голубого тунца	Tesoro de atún rojo	Barbatana Ciana	แก้วครีบเขียวฟ้า	Harta Karun Sirip Biru	Bayi sirip biru nila
+青鳞仔	青鳞仔	Cyan Scale	アオウロコ	노랑 잠꾸러기	青鱗仔	Jadeschuppling	Échelle verte	Зеленая шкала	Escala verde	Escama Celeste	น้องเกล็ดเขียวฟ้า	Skala Hijau	Sisik hijau kecil
+黄睡宝	黄睡宝	Sleepy Yellow	おねむキーちゃん	노랑검정 줄무늬	黃睡寶	Gelbes Schlafchen	Huang Shuibao	Хуан Шуйбао	Huang Shuibao	Amarelo Sonolento	แก้วเหลืองขี้เซา	Huang Shuibao	Bayi tidur kuning
+黄黑条	黄黑条	Yellow-Black Striper	キークロシマ	노랑검정 줄무늬	黃黑條	Gelb-Schwarzstreif	Rayures jaunes et noires	Желтые и черные полосы	rayas amarillas y negras	Listrado Preto-Amarelo	แถบสีเหลืองดำ	Garis-garis kuning dan hitam	Jalur kuning hitam
+4折	4折	60% OFF	6割引	60% 할인	4折	60% Rabatt	40 % de réduction	Скидка 40%	40% de descuento	60% OFF	ลด 40%	Diskon 40%	Diskaun 60%
+仅可购买一次	仅可购买一次	One-time purchase	1回限り	1회 한정 구매	僅可購買一次	Nur einmal kaufbar	N'achetez qu'une seule fois.	Купите только один раз	Compra solo una vez	Compra única	ซื้อเพียงครั้งเดียวเท่านั้น	Beli hanya sekali	Beli sekali sahaja
+恭喜获得	恭喜获得	Congratulations!	ゲット！	축하합니다	恭喜獲得	GRATULATION	Félicitations pour votre victoire !	Поздравляем с победой!	¡Felicidades por ganar!	Parabéns!	ยินดีด้วยที่ได้รับรางวัล!	SELAMAT！	Tahniah
+冰纹丸	冰纹丸	Ice Marble	ヒョウモンまる	아이스 볼	冰紋丸	Eisstreifkugel	Boule à motif de glace	Мяч с ледяным узором	Bola con patrón de hielo	Mármore de Gelo	บอลลายไอซ์	Bola Pola Es	Bola jalur ais
+冰蓝丸	冰蓝丸	Ice Blue Pearl	コオリまる	아이스 블루 볼	冰藍丸	Eisblaukugel	Pilule Bleu Glacé	Ледяная голубая таблетка	Pastilla azul hielo	Pérola de Gelo	บอลสีฟ้าไอซ์	Pil Biru Es	Bola biru ais
+冰蓝豚	冰蓝豚	Ice Puffer	アイスイルカ	아이스 블루 복어	冰藍豚	Eisblaudelfin	Cochon bleu glacé	Ледяной Голубой Свинья	Cerdo azul hielo	Baiacu de Gelo	ปลาปักเป้าสีฟ้าไอซ์	Babi Biru Es	Ikan buntal biru ais
+天蓝蓝	天蓝蓝	Sky Blue	スカイちゃん	스카이 블루	天藍藍	Himmelsblau	Le ciel est bleu	Небо голубое	El cielo es azul	Céu Azul	ท้องฟ้าสีฟ้าอ่อน	Langit berwarna biru	Langit biru
+天蓝豚	天蓝豚	Sky Puffer	スカイイルカ	스카이 복어	天藍豚	Himmelblaudelfin	Dauphin bleu	Голубой дельфин	Delfín azul	Baiacu Celeste	ปลาปักเป้าฟ้าอ่อน	Lumba-lumba Biru	Ikan buntal langit biru
+小粉豚	小粉豚	Pinky Puffer	ピンイルカ	핑크 복어	小粉豚	Rosadelfinchen	Petit dauphin rose	Маленький розовый дельфин	Pequeño delfín rosa	Baiacu Rosa	ปลาปักเป้าสีชมพูตัวน้อย	Lumba-lumba kecil berwarna merah muda	Ikan buntal merah jambu
+小红帆	小红帆	Red Sail	アカホくん	레드 돛	小紅帆	Rotsegler	Petite voile rouge	Маленький Красный Парус	Pequeña vela roja	Vela Vermelha	เรือใบสีแดงเล็ก	Layar Merah Kecil	Layar merah kecil
+小黄豚	小黄豚	Goldy Puffer	キイロイルカ	옐로 복어	黃豚	Gelbdelfinchen	Petit cochon jaune	Маленький Жёлтый Поросёнок	El cerdito amarillo	Baiacu Dourado	ปลาปักเป้าสีเหลืองตัวน้อย	Babi Kuning Kecil	Ikan buntal kuning kecil
+尖嘴蓝	尖嘴蓝	Blue Beak	トンガリブルー	뾰족 블루	尖嘴藍	Spitzschnabel	Bleu pointu	Остроконечный синий	Azul puntiagudo	Bico Azul	ปากแหลมสีน้ำเงิน	Biru Lancip	Mulut tajam biru
+彩虹鱼	彩虹鱼	Rainbow Fish	ニジウオ	무지개어	彩虹魚	Regenbogenfisch	Poisson arc-en-ciel	Радужная рыбка	pez arcoíris	Peixe Arco-Íris	ปลาเรนโบว์	Ikan Pelangi	Ikan pelangi
+棕白纹	棕白纹	Brown-White Stripe	シロチャシマ	브라운 화이트	棕白紋	Braunweiß-Streifen	Rayures brunes et blanches	Коричнево-белые полосы	Rayas marrones y blancas	Marrom e Branco	ลายสีน้ำตาลขาว	Garis-garis cokelat dan putih	Jalur coklat putih
+樱粉鱼	樱粉鱼	Cherry Pink	サクラウオ	벚꽃어	櫻粉魚	Kirschrosafisch	Poisson rose cerise	Вишневая розовая рыба	pez rosa cereza	Rosa Cereja	ปลาสีชมพูเชอร์รี่	Ikan Merah Muda Ceri	Ikan merah jambu ceri
+橘小胖	橘小胖	Chubby Orange	ミカンぽっちゃ	귤뚱이	橘子小胖	Orangenkugel	Petite orange grasse	Маленький Толстяк Апельсин	Pequeña naranja gordita	Laranjinha Gordo	อ้วนน้อยส้มจุก	Jeruk Gemuk Kecil	Si gemuk oren kecil
+橙小胖	橙小胖	Chubby Tangerine	オレンジこぷく	오렌지 뚱이	橙小胖	Orange Pummler	Orange gras	Оранжевый Толстяк	Naranja gorda	Tangerina Gordo	อ้วนน้อยสีส้ม	Jeruk Gemuk	Si gemuk jingga kecil
+橙棕鱼	橙棕鱼	Orange Brown	オレブラウン	오렌지 브라운	橙棕色魚	Orangebraunfisch	Poisson brun orangé	Оранжево-коричневая рыба	pez de color marrón anaranjado	Marrom Alaranjado	ปลาสีส้มน้ำตาล	Ikan berwarna oranye-cokelat	Ikan oren coklat
+橙焰鱼	橙焰鱼	Orange Flame	オレフレイム	오렌지 화염	橙焰魚	Orangenflamme	Poisson à flamme orange	Оранжевая Огненная Рыба	Pez llama naranja	Chama Alaranjada	ปลาเปลวไฟสีส้ม	Ikan Api Oranye	Ikan api oren
+橙金鳍	橙金鳍	Gold-Fin Orange	オレキンヒレ	오렌지 골드 핀	橙金鰭	Orange-Goldflosser	Ailerons orange doré	Оранжево-золотистые плавники	aletas de color naranja dorado	Barbatana Dourada	ครีบสีส้มทอง	Sirip berwarna oranye keemasan	Sirip oren emas
+橙鳍鱼	橙鳍鱼	Orange Fin	オレンジフィン	오렌지 핀	橙鰭魚	Orangenflosser	Poisson à nageoires orange	Оранжевоперая рыба	pez aleta naranja	Barbatana Laranja	ปลาครีบสีส้ม	Ikan sirip oranye	Ikan sirip oren
+橙黑纹	橙黑纹	Orange-Black	オレクロもん	오렌지 블랙	橙黑紋	Orange-Schwarz-Streifen	Rayures orange et noires	Оранжевые и чёрные полосы	rayas naranjas y negras	Laranja e Preto	ลายสีส้มดำ	Garis-garis oranye dan hitam	Jalur oren hitam
+海蓝丸	海蓝丸	Ocean Pearl	マリンまる	마린 볼	海藍丸	Meerblaukugel	Pilules Hailan	Таблетки Хайлан	Pastillas Hailan	Pérola do Oceano	บอลสีน้ำเงินใส	Pil Hailan	Bola biru laut
+深海蓝	深海蓝	Deep Sea Blue	ディープブルー	딥 블루	深海藍	Tiefseeblau	Bleu profond	Глубокая морская синева	azul profundo del mar	Azul Mar Profundo	สีน้ำเงินเข้ม	Biru laut yang dalam	Biru laut dalam
+玫红丸	玫红丸	Rose Pearl	ローズまる	로즈 볼	玫紅丸	Magentakugel	Pilule Rose Rouge	Розовая красная таблетка	Píldora roja rosa	Pérola Rosa	บอลสีชมพูเข้ม	Pil Merah Mawar	Bola merah mawar
+紫灯笼	紫灯笼	Purple Lantern	パープルランタン	퍼플 초롱	紫燈籠	Lila Laterne	Lanterne violette	Фиолетовый фонарь	Linterna Púrpura	Lanterna Roxa	โคมไฟสีม่วง	Lentera Ungu	Tanglung ungu
+红泡泡	红泡泡	Red Bubble	レッドバブル	레드 버블	紅泡泡	Rotblaser	Bulle rouge	Красный пузырь	Burbuja Roja	Bolha Vermelha	ฟองสีแดง	Gelembung Merah	Buih merah
+红紫丸	红紫丸	Plum Pearl	アカムラまる	레드 퍼플 볼	紅紫丸	Rot-Purpur-Kugel	Pilule rouge violette	Красная Фиолетовая Таблетка	Pastilla roja morada	Pérola Ameixa	บอลสีแดงม่วง	Pil Ungu Merah	Bola merah ungu
+红蓝纹	红蓝纹	Red-Blue Stripe	アカアオもん	레드 블루	紅藍紋	Rotblau-Streifen	Rayures rouges et bleues	Красные и синие полосы	rayas rojas y azules	Listrado Vermelho e Azul	ลายสีแดงน้ำเงิน	Garis-garis merah dan biru	Jalur merah biru
+红蓝豚	红蓝豚	Red-Blue Puffer	アカアオイルカ	레드 블루 복어	紅藍豚	Rotblaudelfin	Cochon rouge et bleu	Красная и синяя свинья	Cerdo rojo y azul	Baiacu Vermelho e Azul	ปลาปักเป้าแดงน้ำเงิน	Babi Merah dan Biru	Ikan buntal merah biru
+红蓝鳍	红蓝鳍	Red-Blue Finny	アカアオヒレ	레드 블루 핀	紅藍鰭	Rotblau-Flosser	Nageoires rouges et bleues	Красные и синие плавники	aletas rojas y azules	Barbatana Vermelha e Azul	ครีบสีแดงน้ำเงิน	Sirip merah dan biru	Sirip merah biru
+红金纹	红金纹	Red-Gold Stripe	アカキンもん	레드 골드	紅金紋	Rotgoldmuster	motif or rouge	Красный золотой узор	Patrón de oro rojo	Listrado Vermelho e Ouro	ลายทองคำแดง	Pola emas merah	Jalur emas merah
+绿皮球	绿皮球	Green Ball	グリーンボール	그린 볼	綠皮球	Grüne Kugel	Boule verte	Зелёный мяч	Bola verde	Bola Verde	น้องบอลเขียว	Bola hijau	Bola hijau
+花斑鱼	花斑鱼	Speckled Fish	ブチウオ	얼룩어	花斑魚	Fleckenfisch	Poisson tacheté	Пятнистая рыба	Peces moteados	Peixe Pintado	ปลาลายจุด	Ikan berbintik	Ikan berbintik
+蓝星鱼	蓝星鱼	Starry Blue	アオホシちゃん	블루 스타	藍星魚	Blausternfisch	Étoile de mer bleue	Синяя морская звезда	Estrella de mar azul	Azul Estrelado	ปลาดาวสีน้ำเงิน	Bintang Laut Biru	Ikan bintang biru
+蓝点点	蓝点点	Blue Dots	アオてんてん	블루 점	藍點	Blaupünktchen	Points bleus	Синие точки	Puntos azules	Pontos Azuis	จุดสีน้ำเงิน	Titik Biru	Titik biru
+蓝金帆	蓝金帆	Blue-Gold Sail	アオキン帆	블루 골드 돛	藍金帆	Blaugold-Segler	Voile d'or bleu	Парус «Синее золото»	Vela de oro azul	Vela Azul e Ouro	เรือใบสีน้ำเงินทอง	Layar Emas Biru	Layar emas biru
+金红宝	金红宝	Ruby Gold	キンアカちゃん	골든 루비	金紅寶	Goldrubin	Rubis d'or	Золотой рубин	Rubí dorado	Ouro Rubi	แก้วแดงทอง	Batu Rubi Emas	Bayi merah emas
+金蓝鳍	金蓝鳍	Gold-Blue Fin	アオキンヒレ	골드 블루 핀	金藍鰭	Goldblau-Flosser	Thon rouge doré	Золотистый голубой тунец	atún rojo dorado	Barbatana Ouro e Azul	ครีบแดงทอง	Sirip Biru Emas	Sirip biru emas
+青柠鱼	青柠鱼	Lime Fish	ライムフィッシュ	라임어	青檸魚	Limettenfisch	Poisson au citron vert	Лаймовая рыба	Pescado lima	Peixe Lima	ปลาไลม์	Ikan Jeruk Nipis	Ikan limau
+青泡泡	青泡泡	Lime Bubble	シアンバブル	청록 버블	青泡泡	Türkisblaser	Bulle verte	Зеленый пузырь	Burbuja verde	Bolha Lima	ฟองสีเขียวฟ้า	Gelembung Hijau	Buih hijau
+青白鱼	青白鱼	Lime-White	シアシロ	청백어	洋白魚	Grün-Weiß-Fisch	Poisson bleu et blanc	Сине-белая рыба	Peces azules y blancos	Lima e Branco	ปลาสีเขียวฟ้าขาว	Ikan biru dan putih	Ikan biru nila putih
+黄嘴鱼	黄嘴鱼	Yellow Beak	キイくちくん	노랑부리	黃嘴魚	Gelbmaul	Poisson à bouche jaune	Рыба с желтым ртом	Pez de boca amarilla	Bico Amarelo	ปลาปากเหลือง	Ikan bermulut kuning	Ikan mulut kuning
+黄蓝仔	黄蓝仔	Yellow-Blue Boy	キイアオくん	옐로 블루	黃藍仔	Gelb-Blauli	Huang Lanzai	Хуан Ланцай	Huang Lanzai	Menino Amarelo e Azul	น้องสีเหลืองน้ำเงิน	Huang Lanzai	Biru kuning kecil
+黄黑纹	黄黑纹	Yellow-Black	キークロもん	옐로 블랙	黃黑紋	Gelb-Schwarz-Streifen	Rayures jaunes et noires	Желтые и черные полосы	rayas amarillas y negras	Amarelo e Preto	ลายเหลืองดำ	Garis-garis kuning dan hitam	Jalur kuning hitam
+云涟豚	云涟豚	Cloud Fin	クモイルカ	구름 물결 복어	雲漣天竺	Wolkendelfin	Dauphin du Yunlian	Юньлянь Дельфин	Delfín Yunlian	Baiacu Nuvem	ปักเป้าคลื่นเมฆา	Lumba-lumba Yunlian	Ikan buntal ombak awan
+云澜鳞	云澜鳞	Cloud Scale	クモウロコ	구름 파도 비늘	雲瀾鱗	Wolkenschuppe	Yunlanlin	Юньланлинь	Yunlanlin	Escama de Névoa	เกล็ดคลื่นเมฆา	Yunlanlin	Sisik awan
+冰澜纹	冰澜纹	Ice Wave	ヒョウランもん	얼음 파도 무늬	冰瀾紋	Eisstreif	Modèle de vague de glace	Ледяной волновой узор	Patrón de olas de hielo	Trama de Gelo	ลายน้ำแข็งคลื่น	Pola Gelombang Es	Jalur ombak ais
+小蓝豚	小蓝豚	Bluey Puffer	アオイルカ	꼬마 파란 복어	小藍豚	Blaudelfinchen	Petit dauphin bleu	Малый голубой дельфин	Pequeño delfín azul	Baiacu Azul	ปักเป้าสีฟ้าน้อย	Lumba-lumba Biru Kecil	Ikan buntal biru kecil
+幻紫澜	幻紫澜	Mystic Purple	ゲンシりん	환상 보라	幻紫瀾	Phantom-Lila	Huan Zilan	Хуан Зилань	Huan Zilan	Onda Violeta	คลื่นม่วงมายา	Huan Zilan	Ungu misteri
+彩尾鳞	彩尾鳞	Rainbow Scale	ニジウロコ	무지개 꼬리 비늘	彩尾鱗	Farbschwanz	Écailles de queue arc-en-ciel	Радужная чешуя хвоста	Escamas de cola arcoíris	Escama Íris	เกล็ดหางรุ้ง	Sisik Ekor Pelangi	Sisik ekor pelangi
+彩岚汐	彩岚汐	Iris Tide	ニジシオ	오색 바람 물결	彩嵐汐	Farbnebel	Cai Lanxi	Цай Ланьси	Cai Lanxi	Brisa Colorida	สายหมอกรุ้ง	Cai Lanxi	Pasang surut pelangi
+星海鳞	星海鳞	Starry Scale	ホシウロコ	별바다 비늘	星海鱗	Sternenschuppe	Échelle de la mer étoilée	Звездная морская шкала	Escala del mar estrellado	Escama Estelar	เกล็ดทะเลดาว	Skala Laut Berbintang	Sisik laut berbintang
+暖光斑	暖光斑	Glow Spot	ダンコウはん	따스한 빛 반점	暖光斑	Lichtfleck	point lumineux chaud	теплое световое пятно	punto de luz cálida	Brilho Solar	จุดแสงอบอุ่น	titik cahaya hangat	Bintik sinar
+暖汐鱼	暖汐鱼	Sunny Tide	アタシオ	따스한 물결 피시	暖薰魚	Glühfisch	Poisson de marée chaude	Рыба теплого прилива	Peces de marea cálida	Peixe Aurora	ปลาสายอบอุ่น	Ikan Pasang Hangat	Ikan pasang surut
+橘泡泡	橘泡泡	Orange Pop	ミカンバブル	오렌지 방울	橘子泡泡	Orangenblase	Bulles orange	Оранжевый пузырь	Burbuja naranja	Bolha Laranja	ออเรนจ์บับเบิ้ล	Gelembung Oranye	Buih oren
+橙光斑	橙光斑	Orange Spot	オレコウはん	주황빛 반점	橙光斑	Orangefleck	Tache orange	Оранжевое пятно	mancha naranja	Ponto Laranja	จุดแสงส้ม	Bintik oranye	Bintik sinar oren
+橙条纹	橙条纹	Orange Stripes	オレストライプ	주황 줄무늬	橙條紋	Orangestreif	rayures orange	Оранжевые полосы	rayas naranjas	Lista Laranja	แถบลายสีส้ม	Garis-garis oranye	Jalur oren
+橙汐波	橙汐波	Orange Wave	オレウェーブ	주황빛 파도	橙汐波	Orangenwelle	Vague de marée orange	Оранжевая волна прилива	Ola de marea naranja	Onda Laranja	คลื่นสายสีส้ม	Gelombang Pasang Oranye	Ombak pasang surut oren
+橙焰丸	橙焰丸	Flame Blob	オレフレイムまる	주황 불꽃 구슬	橙焰丸	Feuerkugel	Pilule de Flamme Orange	Таблетка «Оранжевое пламя»	Píldora de llama naranja	Brasa Laranja	บอลเปลวไฟสีส้ม	Pil Api Oranye	Bola api oren
+橙焰涟	橙焰涟	Flame Ripple	オレフレイムレン	주황 불꽃 물결	橙焰漣	Feuerwelle	Ondulation de flamme orange	Оранжевая рябь пламени	Ondulación de llama naranja	Chama Laranja	ระลอกเปลวไฟสีส้ม	Riak Api Oranye	Ombak api oren
+沧青涟	沧青涟	Teal Ripple	ソウセイレン	푸른 바다 물결	滄青漣	Aquamarin	Cang Qinglian	Цан Цинлянь	Cang Qinglian	Onda Profunda	ระลอกคราม	Cang Qinglian	Ombak biru teal
+注意！泡泡内出现石头障碍物，无法消除	注意！泡泡内出现石头障碍物，无法消除	Watch out! Stones in bubbles can't be cleared	注意！バブルの中に石があり、消せません。	주의! 버블 안에 돌 장애물이 나타나며, 제거할 수 없습니다.	注意！泡泡內出現石頭障礙物，無法消除	Achtung! Stein-Hindernis in der Blase. Kann nicht entfernt werden	Attention ! Des obstacles de pierre sont apparus à l'intérieur de la bulle et ne peuvent pas être éliminés.	Внимание! Внутри пузыря появились каменные препятствия, которые невозможно устранить.	¡Atención! Han aparecido obstáculos de piedra dentro de la burbuja que no se pueden eliminar.	Atenção! Pedras presas em bolhas não podem ser removidas.	ขอเตือน! มีหินปรากฏขึ้นภายในฟองอากาศและไม่สามารถกำจัดได้	Peringatan! Rintangan batu telah muncul di dalam gelembung dan tidak dapat dihilangkan.	Berhati-hati! Batu di dalam buih tidak boleh dihilangkan.
+浅汐鳞	浅汐鳞	Pale Tide	アサシオウロコ	옅은 물결 비늘	淺汐鱗	Helle Schuppe	échelle de marée peu profonde	масштаб мелководных приливов	escala de mareas poco profundas	Escama Clara	เกล็ดน้ำตื้น	skala pasang surut dangkal	Sisik pasang surut muda
+浅澜晴	浅澜晴	Sky Fin	アサナギ	맑고 옅은 파도	淺瀾晴	Lichtwelle	Qian Lanqing	Цянь Ланьцин	Qian Lanqing	Céu Sereno	คลื่นใสตื้น	Qian Lanqing	Langit cerah
+浅绿豚	浅绿豚	Minty Puffer	ウスミドルカ	연두색 복어	淺綠豚	Hellgrün-Delfin	Dauphin vert clair	Светло-зелёный дельфин	Delfín verde claro	Baiacu Lima	ปักเป้าเขียวอ่อน	Lumba-lumba Hijau Muda	Ikan buntal hijau muda
+浪蓝豚	浪蓝豚	Wavey Blue	ナミイルカ	파도빛 파란 복어	浪藍豚	Wellenblau	Dauphin bleu	Голубой дельфин	Delfín azul	Baiacu Onda	ปักเป้าคลื่นน้ำเงิน	Lumba-lumba Biru	Ikan buntal biru ombak
+海蓝汐	海蓝汐	Seablue Tide	マリンシオ	바다빛 파란 물결	海藍汐	Meeresblau	Hailanxi	Хайланси	Hailanxi	Maré Azul	สายน้ำเงินทะเล	Hailanxi	Pasang surut biru laut
+海蓝豚	海蓝豚	Seablue Puffer	マリンイルカ	바다빛 파란 복어	海藍豚	Meeresdelfin	dauphin bleu de mer	морской голубой дельфин	delfín azul marino	Baiacu Marinho	ปักเป้าน้ำเงินทะเล	lumba-lumba biru laut	Ikan buntal biru laut
+深海橙	深海橙	Deepsea Orange	ディープオレンジ	심해 주황 피시	深海橙	Tiefsee-Orange	Orange des profondeurs	Глубоководный апельсин	Naranja de mar profundo	Laranja Abissal	ส้มทะเลลึก	Jeruk Laut Dalam	Oren laut dalam
+深紫仔	深紫仔	Purple Pup	フカムラくん	진보라 꼬마	深紫仔	Dunkellila	Garçon violet profond	Deep Purple Boy	Chico de púrpura profundo	Roxinho	น้องสีม่วงเข้ม	Anak Laki-Laki Ungu Tua	Ungu tua kecil
+深紫晴	深紫晴	Deep Purple	フカムラナギ	맑은 진보라	深紫晴	Tiefpurpur	Soleil violet profond	Глубокое фиолетовое солнце	Luz del sol de color púrpura intenso	Céu Violeta	แสงสีม่วงเข้ม	Sinar Matahari Ungu Tua	Ungu tua cerah
+深绿豚	深绿豚	Dark Green Fin	フカミドルカ	진초록 복어	深綠豚	Dunkelgrün-Delfin	Dauphin vert foncé	Темно-зеленый дельфин	Delfín verde oscuro	Baiacu Musgo	ปักเป้าเขียวเข้ม	Lumba-lumba Hijau Tua	Ikan buntal hijau tua
+渐变紫	渐变紫	Purple Fade	グラデパープル	그라데이션 보라	漸變紫	Farbverlauf Lila	Dégradé violet	Градиентный фиолетовый	Morado degradado	Degradê Roxo	สีม่วงไล่ระดับ	Gradien Ungu	Ungu pudar
+灯笼焰	灯笼焰	Lantern Flame	ランタンフレイム	등불 불꽃	燈籠焰	Laternenflamme	Flamme de la lanterne	Пламя фонаря	Llama de linterna	Lanterna de Fogo	ไฟโคม	Nyala Api Lentera	Api tanglung
+点击即可解锁里面的鱼	点击即可解锁里面的鱼	Tap to unlock the fish inside	タップして中の魚を解放	터치하여 안의 물고기 잠금 해제	點擊即可解鎖裡面的魚	Tippen, um den Fisch darin freizuschalten	Cliquez pour déverrouiller le poisson à l'intérieur.	Нажмите, чтобы открыть доступ к рыбе внутри.	Haz clic para desbloquear el pez que hay dentro.	Toque para desbloquear o peixe	คลิกเพื่อปลดล็อกปลาด้านใน	Klik untuk membuka kunci ikan di dalamnya.	Klik untuk membuka kunci ikan di dalamnya
+焰橙岚	焰橙岚	Flame Mist	フレイムオレン	붉은 주황 바람	焰橙嵐	Flammenorange	Brume orange flamme	Огненно-оранжевый туман	Niebla naranja llama	Brisa Ígnea	หมอกเพลิงสีส้ม	Kabut Oranye Api	Kabus oren api
+焰橙汐	焰橙汐	Flame Tide	ホノオシオ	붉은 주황 물결	焰橙汐	Glutorange	Marée orange flamme	Огненно-оранжевый прилив	Marea naranja llama	Maré de Fogo	กระแสน้ำเพลิงสีส้ม	Pasang Surut Oranye Api	Pasang surut oren api
+焰波鱼	焰波鱼	Flame Wave	ホノオウェーブ	불꽃 파도 피시	焰波魚	Flammenwelle	Poisson à vague de flamme	Рыба Огненная Волна	Pez Ola de Fuego	Peixe Onda	ปลาเฟลมเวฟ	Ikan Gelombang Api	Ikan ombak api
+独角鱼	独角鱼	Unifish	イッカクウオ	유니콘 피시	獨角魚	Einhornfisch	Licorne	Единорог	Unicornio	Peixe Unicórnio	ยูนิคอร์น	Unicorn	Ikan unikorn
+第一天	第一天	Day 1	1日目	1일 차	第一天	Tag 1	Jour 1	День 1	Día 1	Dia 1	วันที่ 1	Hari ke-1	Hari 1
+第七天	第七天	Day 7	7日目	7일 차	第七天	Tag 7	Jour 7	День 7	Día 7	Dia 7	วันที่ 7	Hari ke-7	Hari 7
+第三天	第三天	Day 3	3日目	3일 차	第三天	Tag 3	Jour 3	День 3	Día 3	Dia 3	วันที่ 3	Hari ke-3	Hari 3
+第二天	第二天	Day 2	2日目	2일 차	第二天	Tag 2	Jour 2	День 2	al día siguiente	Dia 2	วันที่ 2	hari berikutnya	Hari 2
+第五天	第五天	Day 5	5日目	5일 차	第五天	Tag 5	Jour 5	День 5	Día 5	Dia 5	วันที่ 5	Hari ke-5	Hari 5
+第六天	第六天	Day 6	6日目	6일 차	第六天	Tag 6	Jour 6	День 6	Día 6	Dia 6	วันที่ 6	Hari ke-6	Hari 6
+第四天	第四天	Day 4	4日目	4일 차	第四天	Tag 4	Jour 4	День 4	Día 4	Dia 4	วันที่ 4	Hari ke-4	Hari 4
+粉桃鱼	粉桃鱼	Peach Fin	モモウオ	복숭아 핑크 피시	粉紅桃魚	Pfirsichfisch	Poisson pêche rose	Розовая персиковая рыбка	pez melocotón rosa	Peixe Pêssego	ปลาสีพีช	Ikan Persik Merah Muda	Ikan pic merah jambu
+粉霓角	粉霓角	Neon Pinky	ピンクレインボー	핑크 네온 뿔	粉紅霓角	Neonhorn	Coin néon rose	Розовый неоновый уголок	Rincón de neón rosa	Chifre Neon	เขี้ยวพีช	Sudut Neon Merah Muda	Sudut neon merah jambu
+紫幽波	紫幽波	Ghostly Wave	シユウは	그윽한 보라 파도	紫幽波	Schattenwelle	Vagues violettes	Фиолетовые волны	Olas púrpuras	Onda Sombria	คลื่นม่วงลึก	Gelombang Ungu	Ombak ungu sunyi
+紫影鱼	紫影鱼	Purple Shadow	シエイギョ	보라 그림자 피시	紫影魚	Schattenfisch	Poisson de l'ombre violette	Фиолетовая теневая рыба	Pez sombra púrpura	Peixe Espectro	ปลาเงาม่วง	Ikan Bayangan Ungu	Ikan bayangan ungu
+紫斑鱼	紫斑鱼	Purple Spot	ムラマダラ	보라 반점 피시	紫斑魚	Purpurfleck	Poisson à taches violettes	Рыба с фиолетовыми пятнами	pez de manchas moradas	Peixe Malhado	ปลาจุดม่วง	Ikan Berbintik Ungu	Ikan bintik ungu
+紫晶豚	紫晶豚	Crystal Purple	アメジストイルカ	자수정 복어	紫晶豚	Amethyst-Delfin	Dauphin améthyste	Аметистовый дельфин	Delfín amatista	Baiacu Ametista	ปักเป้าแก้วม่วง	Lumba-lumba Amethyst	Ikan buntal kristal ungu
+紫月鳞	紫月鳞	Purple Moon	シゲツウロコ	보라 달빛 비늘	紫月鱗	Mondschuppe	Écaille de lune violette	Весы Фиолетовой Луны	Escala de la Luna Púrpura	Escama Lunar	เกล็ดพระจันทร์ม่วง	Sisik Bulan Ungu	Sisik bulan ungu
+紫柔鳞	紫柔鳞	Purple Soft	ソフトパープル	부드러운 보라 비늘	紫柔鱗	Sanftschuppe	Écailles molles violettes	Фиолетовые мягкие чешуйки	Escamas suaves de color púrpura	Escama Suave	เกล็ดนุ่มสีม่วง	Sisik Lembut Ungu	Sisik lembut ungu
+紫涟纹	紫涟纹	Violet Ripple	ムラサキレン	보라 물결 무늬	紫漣紋	Purpurwelle	Motif ondulé violet	Фиолетовый волнистый узор	Patrón de ondas púrpuras	Trama Violeta	ลายระลอกคลื่นม่วง	Pola Riak Ungu	Jalur ombak ungu
+紫虹涟	紫虹涟	Rainbow Ripple	シコウレン	보라 무지개 물결	紫虹漣	Irispurpur	Ondulation arc-en-ciel violette	Фиолетовая радужная рябь	Ondulación de arcoíris púrpura	Onda Arco-Íris	ระลอกคลื่นรุ้งสีม่วง	Riak Pelangi Ungu	Ombak pelangi ungu
+绯云汐	绯云汐	Crimson Tide	ヒウンシオ	붉은 구름 물결	緋雲汐	Wolkenflut	Fei Yunxi	Фэй Юньси	Fei Yunxi	Maré Carmim	สายแดงอมส้ม	Fei Yunxi	Pasang surut merah
+绯紫怪	绯紫怪	Purple Freak	ヒシカイ	붉은 보라 몬스터	緋紫怪	Purpurkreatur	Monstre Écarlate	Алый Монстр	Monstruo Escarlata	Fera Púrpura	มอนสเตอร์สีแดงม่วง	Monster Merah	Raksana ungu merah
+绿虹波	绿虹波	Green Iris	リョクコウは	초록 무지개 파도	綠虹波	Irisgrün	Vague arc-en-ciel verte	Зеленая радужная волна	Onda arcoíris verde	Onda Esmeralda	คลื่นรุ้งเขียว	Gelombang Pelangi Hijau	Ombak pelangi hijau
+翠虹晴	翠虹晴	Jade Rainbow	スイコウナギ	맑은 에메랄드 무지개	翠虹晴	Jadeglanz	Émeraude Rainbow	Изумрудная радуга	Arcoíris esmeralda	Brilho Verde	รุ้งมรกต	Pelangi Zamrud	Pelangi zamrud cerah
+蓝团团	蓝团团	Blue Blob	アオだんご	파란 동글이	藍團團	Blauknäuel	Tuan Tuan bleu	Синий Туан Туан	Tuan Tuan azul	Bolota Azul	ก้อนกลมสีฟ้า	Tuan Tuan Biru	Bulatan biru
+蓝橙岚	蓝橙岚	Blue Ember	アオオレン	파랑 주황 바람	藍橙嵐	Blau-Orange Nebel	Brume bleu-orange	Сине-оранжевый туман	Niebla azul anaranjada	Brisa Bicolor	หมอกสีฟ้าส้ม	Kabut Biru Oranye	Bara biru oren
+蓝白怪	蓝白怪	Bluey Freak	アオシロカイ	파랑 하양 몬스터	藍白怪	Blau-Weiß-Kreatur	Monstre bleu et blanc	Сине-белый монстр	Monstruo azul y blanco	Fera Azulada	มอนสเตอร์สีน้ำเงินขาว	Monster Biru dan Putih	Raksasa biru putih
+蓝霓汐	蓝霓汐	Neon Tide	ブルーレインボー	파란 네온 물결	藍霓汐	Neonflut	Lan Nixi	Лан Никси	Lan Nixi	Maré Neon	กระแสแสงฟ้า	Lan Nixi	Pasang surut neon biru
+虹彩汐	虹彩汐	Rainbow Tide	コウサイシオ	무지개빛 물결	虹彩汐	Regenbogenflut	Marée arc-en-ciel	Радужный прилив	marea arcoíris	Maré Íris	กระแสน้ำสีรุ้ง	Gelombang pelangi	Pasang surut pelangi
+视频未完整播放	视频未完整播放	Please watch the full video to claim your reward	動画が最後まで再生されませんでした	동영상 재생이 완료되지 않았습니다	影片未完整播放	Wiedergabe unvollständig	La vidéo n'est pas lue complètement	Видео не полностью воспроизведено	El vídeo no se reprodujo en su totalidad.	Vídeo incompleto	วีดีโอไม่ได้เล่นสมบูรณ์	Video tersebut tidak diputar secara keseluruhan.	Sila tonton video penuh untuk ganjaran.
+视频未拉取到，请稍后再试	视频未拉取到，请稍后再试	Failed to load the video. Please try again later	動画を取得できませんでした。しばらくしてからもう一度お試しください	동영상 로드 실패, 잠시 후 다시 시도해 주세요	影片未拉取到，請稍後再試	Video konnte nicht geladen werden. Bitte später versuchen.	La vidéo n'a pas pu être récupérée. Veuillez réessayer plus tard.	Видео не удалось загрузить. Пожалуйста, попробуйте позже.	No se pudo recuperar el vídeo. Inténtelo de nuevo más tarde.	Falha ao carregar vídeo. Tente mais tarde.	ไม่สามารถโหลดวิดีโอได้ โปรดลองใหม่อีกครั้งในภายหลัง	Video tidak berhasil ditemukan. Silakan coba lagi nanti.	Video tidak tersedia. Sila cuba sebentar lagi.
+赤心波	赤心波	Heart Wave	セキシンは	붉은 마음 파도	赤心波	Herzwelle	Vague du Cœur Rouge	Волна Красного Сердца	Ola de Corazón Rojo	Onda Rubra	คลื่นหัวใจแดง	Gelombang Hati Merah	Ombak hati merah
+赤焰晴	赤焰晴	Crimson Sunshine	セキエンナギ	맑은 붉은 불꽃	赤焰晴	Feuerglanz	Flamme Rouge Ensoleillée	Красное пламя Санни	Llama carmesí del sol	Brilho Ígneo	แสงไฟแดง	Sinar Matahari Api Merah	Api merah cerah
+赤焰鱼	赤焰鱼	Red Flame	セキエンギョ	붉은 불꽃 피시	赤焰魚	Feuerfisch	Poisson à flamme rouge	Рыба с красным пламенем	Pez llama roja	Peixe Fogo	ปลาเปลวไฟแดงเข้ม	Ikan Api Merah	Ikan api merah
+赤焰鳞	赤焰鳞	Flame Scale	セキエンウロコ	붉은 불꽃 비늘	赤焰鱗	Feuerschuppe	Écailles de flamme cramoisie	Весы багрового пламени	Escamas de llama carmesí	Escama Flamante	เกล็ดเพลิงแดงเข้ม	Sisik Api Merah	Sisik api merah
+赤虹豚	赤虹豚	Red Iris Puffer	セキコウイルカ	붉은 무지개 복어	赤虹豚	Roter Delfin	dauphin rouge	красный дельфин	delfín rojo	Baiacu Carmim	ปักเป้ารุ้งแดง	lumba-lumba merah	Ikan buntal merah
+赤须波	赤须波	Whisker Wave	アカヒゲウェーブ	붉은 수염 파도	赤鬚波	Rotbartfisch	Vague de Barbe-Rouge	Волна рыжей бороды	Onda de barba roja	Onda de Fogo	คลื่นหนวดแดง	Gelombang Jenggot Merah	Ombak janggut merah
+金暖阳	金暖阳	Golden Sun	ゴルドサン	금빛 따스한 햇살	金暖陽	Goldsonne	Soleil doré et chaud	Золотое теплое солнце	Sol cálido y dorado	Sol Dourado	แสงทองอบอุ่น	Sinar Matahari Keemasan yang Hangat	Matahari hangat emas
+金橙仔	金橙仔	Golden Orange	キンオレくん	금빛 주황 꼬마	金橙仔	Goldling	Orange doré	Золотистый апельсин	Naranja dorado	Pequeno Ouro	น้องสีส้มทอง	Jeruk Emas	Oren emas kecil
+金汐鱼	金汐鱼	Golden Tide	キンシオ	금빛 물결 피시	金汐魚	Goldflutfisch	Poisson de la marée dorée	Рыба Золотого Прилива	Peces de marea dorada	Peixe Áureo	ปลาสายทอง	Ikan Pasang Emas	Ikan pasang surut emas
+金涟豚	金涟豚	Goldy Ripple	キンレンイルカ	금빛 물결 복어	金澇豚	Goldringel	dauphin doré	золотой дельфин	delfín dorado	Baiacu de Ouro	ปักเป้าระลอกทอง	lumba-lumba emas	Ikan buntal ombak emas
+金紫涟	金紫涟	Gold-Purple Wave	キンシレン	금빛 보라 물결	金紫漣	Gold-Lila-Welle	Jin Zilian	Джин Зилиан	Jin Zilian	Onda Realeza	ระลอกทองม่วง	Jin Zilian	Ombak emas ungu
+金纹鳞	金纹鳞	Goldy Scale	キンモンウロコ	금빛 무늬 비늘	金紋鱗	Goldstreifen	Écailles à rayures dorées	Золотисто-полосатая чешуя	Escamas con rayas doradas	Escama Nobre	เกล็ดลายทอง	Sisik bergaris emas	Sisik jalur emas
+金鳞汐	金鳞汐	Goldscale Tide	キンリンシオ	금빛 비늘 물결	金鱗汐	Goldschuppe	Jin Linxi	Цзинь Линьси	Jin Linxi	Maré Dourada	กระแสน้ำเกล็ดทอง	Jin Linxi	Pasang surut sisik emas
+青岚鳞	青岚鳞	Teal Mist	セイランウロコ	맑은 바람 비늘	青嵐鱗	Azurschuppe	Qinglanlin	Цинланьлинь	Qinglanlin	Escama Turquesa	เกล็ดหมอกเขียวฟ้า	Qinglanlin	Sisik biru nila
+青柠晴	青柠晴	Limey Sky	ライムナギ	맑은 라임빛	青檸晴	Limettenglanz	Qingning Qing	Циннин Цин	Qingning Qing	Limão Radiante	แสงมะนาว	Qingning Qing	Limau cerah
+青虹晴	青虹晴	Teal Iris	セイコウナギ	맑은 청색 무지개	青虹晴	Smaragdglanz	Qinghongqing	Цинхунцин	Qinghongqing	Verde Aurora	แสงรุ้งมะนาว	Qinghongqing	Pelangi hijau cerah
+黄绿豚	黄绿豚	Limey Puffer	キミドリイルカ	노란 초록 복어	黃綠豚	Gelbgrün-Delfin	Dauphin jaune-vert	Желто-зеленый дельфин	delfín amarillo verdoso	Baiacu Cítrico	ปักเป้าเขียวเหลือง	Lumba-lumba hijau kekuningan	Ikan buntal kuning hijau
+黄鳍波	黄鳍波	Yellowfin Wave	キイヒレウェーブ	노란 지느러미 파도	黃鰭波	Gelbflossenwelle	Vague à nageoires jaunes	Волна Желтопера	Ola de aleta amarilla	Barbatana Amarela	คลื่นครีบเหลือง	Gelombang Sirip Kuning	Ombak sirip kuning
+位置不够	位置不够	Out of Space	スペース不足	빈자리 부족	位置不夠	Nicht genug Platz	Place insuffisante	Недостаточно места	No hay suficiente espacio	Sem Espaço	พื้นที่ไม่เพียงพอ	Ruang tidak cukup	Ruang tidak cukup
+特殊泡泡出现，消除小鱼会再生新的鱼	特殊泡泡出现，消除小鱼会再生新的鱼	Special Bubble: spawns new fish until counter reaches 0.	特殊なバブルが登場！魚を消すと、新しい魚が生まれるよ	특수 방울 출현, 작은 물고기 없애면 새 물고기 재생 가능	特殊泡泡出現，消除小魚會再生新的魚	Spezialblase! Entfernte Fische spawnen sofort neu.	Bulle spéciale : éliminer les poissons en fait réapparaître de nouveaux.	Появляются особые пузырьки; удаление мелкой рыбы приведет к нересту новой рыбы.	Aparecen burbujas especiales; al eliminar los peces pequeños, aparecerán nuevos peces.	Bolha especial! Limpe peixes para gerar novos	ฟองอากาศพิเศษปรากฏขึ้น การกำจัดปลาจะได้ปลาตัวใหม่	Gelembung khusus akan muncul; membasmi ikan kecil akan menyebabkan ikan baru bertelur.	Buih khusus termuncul, padamkan ikan untuk menghasilkan ikan baharu.
+小心连体小鱼来啦！点一条鱼带多条鱼	小心连体小鱼来啦！点一条鱼带多条鱼	Watch out! Linked fish are here! Tapping one fish will catch multiple.	くっつき魚が登場！一匹を選ぶと、繋がっている仲間も一緒だよ！	이어진 물고기 조심! 물고기 한 마리 탭하면 여러 마리가 이어짐	小心連體小魚來啦！點一條魚帶多條魚	Achtung, Kettenfische! Tippst du auf einen, nimmst du die ganze Kette mit.	Attention, poissons siamois ! Touchez-en un pour en emporter plusieurs.	Осторожно, сросшиеся рыбы! Закажите одну рыбу и получите вместе с ней несколько!	¡Cuidado con los peces siameses! ¡Pide un pez y te traen varios!	Peixes conectados! Toque em um e leve vários	ระวังปลาตัวติดกันมาแล้ว!แตะที่ปลาตัวหนึ่งเพื่อรับตัวอื่นๆ	Hati-hati dengan ikan yang menyatu! Pesan satu ikan dan dapatkan beberapa ikan sekaligus!	Berhati-hati, Ikan Berpautan datang! Ketik satu, dan lebih banyak lagi akan termuncul.
+云端存档	云端存档	Cloud Save	クラウドセーブ	클라우드 저장	雲端存檔	Cloud-Daten	Sauvegarde Cloud	Облако	Nube	Nuvem	บนคลาวด์	Cloud Save	Simpanan Awan
+保留云端	保留云端	Choose Cloud	クラウドのデータ	클라우드 유지	保留雲端	Cloud behalten	Version Cloud	Оставить облако	Usar nube	Manter Nuvem	เก็บเซฟคลาวด์	Pilih Cloud	Awan
+保留本地	保留本地	Choose Local	ローカルのデータ	로컬 유지	保留本地	Lokal behalten	Version Locale	Оставить лок	Usar local	Manter Local	เก็บเซฟในเครื่อง	Pilih Local	Tempatan
+本地存档	本地存档	Local Save	ローカルセーブ	로컬 저장	本地存檔	Lokale Daten	Sauvegarde Locale	На устройстве	Local	Local	ในเครื่อง	Local Save	Simpanan Tempatan
+选择想保留的存档	选择想保留的存档	Select the progress you want to keep.	使用するデータを選択	유지할 데이터를 선택해 주세요	選擇想保留的存檔	Wähle den zu behaltenden Spielstand	Choisir la version à conserver	Выбери сохранение	Elige tu partida	Escolha o arquivo a manter	เลือกเซฟที่ต้องเก็บ	Pilih Data Game	Pilih kemajuan yang anda ingin simpan.
+跳过订单	跳过订单	Skip Order	オーダーをスキップ	주문 스킵	跳過訂單	Auftrag überspringen	Passer la Commnade	Пропустить заказы	Saltar pedidos	Pular Pedido	ข้ามออเดอร์	Lewati Pesanan	Langkau Pesanan
+订单超时	订单超时	Order Expired	時間切れ	주문 시간 초과	訂單超時	Auftrag abgelaufen	Temps écoulé	Время ожидания заказа истекло	Tiempo de espera del pedido	Pedido Expirado	ออเดอร์หมดเวลา	Batas waktu pesanan	Pesanan Tamat Tempoh
+需要消除小鱼才能解锁被冰冻的鱼	需要消除小鱼才能解锁被冰冻的鱼	Clear fish to free the frozen ones!	魚を消して、凍った仲間を助けよう！	물고기를 제거해야 언 물고기 잠금 해제 가능	需要消除小魚才能解鎖冰凍的魚	Entferne andere Fische, um den gefrorenen Fisch freizuschalten	Éliminez des poissons pour débloquer les poissons gelés	Чтобы разблокировать замороженную рыбу, нужно убрать мелкую рыбу.	Debes eliminar los peces pequeños para desbloquear los peces congelados.	Elimine peixes para liberar os congelados	เคลียร์ปลาเล็ก เพื่อปลดล็อคปลาแช่แข็ง	Anda perlu menyingkirkan ikan-ikan kecil untuk membuka kunci ikan beku.	Padamkan ikan untuk membebaskan ikan beku
+需要消除指定的小鱼才能看见泡泡里的鱼	需要消除指定的小鱼才能看见泡泡里的鱼	Clear the target fish to reveal the fish inside the bubbles!	指定の魚を消して、バブルの中をのぞいてみよう！	지정된 물고기를 없애야 거품 속의 물고기를 볼 수 있어요	需要消除指定的小魚才能看見泡泡裡的魚	Entferne die bestimmten Fische, um den Inhalt der Blase zu enthüllen	Éliminez les poissons indiqués pour révéler les poissons dans les bulles	Чтобы увидеть рыбок внутри пузыря, нужно убрать определённых мелких рыбок.	Necesitas eliminar los peces pequeños específicos para poder ver los peces dentro de la burbuja.	Elimine os peixes certos para revelar os peixes das bolhas	เคลียร์ปลาเป้าหมายถึงจะเห็นปลาในฟอง	Anda perlu menyingkirkan ikan-ikan kecil tertentu untuk melihat ikan di dalam gelembung.	Padamkan ikan yang tertentu untuk mendedahkan ikan di dalam buih
+优秀	优秀	Cool	エクセレント	훌륭해요	優秀	Ausgezeichnet	Excellent.	Превосходно	¡excelente	Excelente	ยอดเยี่ยม	Luar biasa	Hebat
+伞桌	伞桌	Umbrella Table	傘付きテーブル	파라솔 테이블	傘桌	Schirmtisch	Table parasol	Столик с зонтом	Mesa con sombrilla	Mesa com Guarda-sol	โต๊ะร่ม	Meja Payung	Meja payung
+传奇	传奇	Legendary	レジェンド	전설	傳奇	Legendär	Légendaire	Легендарный	Legendario	Lendário	ตำนาน	Legenda	Legenda
+假山	假山	Rockery	築山	석가산	假山	Felsformation	rocaille	каменистый сад	jardincito rocoso	Rocha Artificial	ภูเขาจำลอง	Bebatuan	Gunung palsu
+冰蓝鱼	冰蓝鱼	Ice-Blue Fish	アイスブルー	아이스 블루 피쉬	冰藍魚	Eisblaufisch	Poisson bleu glacé	Ледяная голубая рыба	Pez azul hielo	Azul Glacial	ปลาสีฟ้าไอซ์	Ikan Biru Es	Ikan biru ais
+冰鳍鱼	冰鳍鱼	Icefin Fish	アイスフィン	얼음 지느러미 피쉬	冰鰭魚	Eisflosse	Poisson à nageoires glacées	рыба ледяной плавник	pez de aleta de hielo	Barbatana de Gelo	ปลาครีบไอซ์	Ikan Icefin	Ikan sirip ais
+史诗	史诗	Epic	エピック	에픽	史詩	Episch	épique	эпический	épico	Épico	มหากาพย์	Epik+	Epik
+圆舱	圆舱	Pod	円形ポッド	원형 캡슐	圓艙	Runde Kabine	Cyclone	Циклон	Ciclón	Cabine	พ็อด	Topan	Kabin bulat
+地板	地板	Flooring	床	바닥	地板	Boden	Sol	пол	Piso	Piso	พื้น	Lantai	Lantai
+场景	场景	Scene	シーン	테마	場景	Szene	Scène	Сцена	Escena	Cenário	ฉาก	Pemandangan	Adegan
+场景回顾	场景回顾	Scene Review	シーン回想	테마 다시보기	場景回顧	Szenen-Rückblick	Critique de scène	Обзор сцены	Análisis de la escena	Revisão de Cenário	บทวิจารณ์ฉาก	Ulasan Adegan	Semakan Adegan
+场景进度	场景进度	Scene Progress	シーンの進捗	테마 진행도	場景進度	Szenen-Fortschritt	Progression de la scène	Развитие сцены	Progreso de la escena	Progresso do Cenário	ความคืบหน้าของฉาก	Perkembangan adegan	Kemajuan Adegan
+城堡	城堡	Castle	お城	성	城堡	Schloss	château	замок	castillo	Castelo	ปราสาท	kastil	Istana
+完成关卡，获得鱼票	完成关卡，获得鱼票	Clear levels to earn Fish Tickets!	レベルをクリアして、魚チケットをゲット！	스테이지를 클리어하여 물고기 티켓을 획득하세요	完成關卡，獲得魚票	Schließe Level ab für Fischtickets!	Terminez le niveau pour gagner des tickets de pêche.	Пройдите уровень, чтобы заработать рыбные билеты.	Completa el nivel para ganar boletos de pesca.	Complete os níveis e ganhe Bilhetes de Peixe	ผ่านด่านเพื่อรับตั๋วปลา	Selesaikan level untuk mendapatkan tiket ikan.	Selesaikan tahap untuk mendapatkan tiket ikan.
+宝冠鱼	宝冠鱼	Crownfish	ホウカンウオ	보석 왕관 피쉬	寶冠魚	Kronenfisch	Poisson couronné	Коронованная рыба	pez coronado	Peixe Coroa	ปลามงกุฎ	Ikan Bermahkota	Ikan bermahkota
+宝藏	宝藏	Treasure	宝物	보물	寶藏	Schatz	trésor	сокровище	tesoro	Tesouro	สมบัติ	harta karun	Harta karun
+小床	小床	Small Bed	ミニベッド	작은 침대	小床	Bettchen	petit lit	маленькая кровать	cama pequeña	Cama Pequena	เตียงเล็ก	tempat tidur kecil	Katil kecil
+岩石	岩石	Rock	岩	바위	岩石	Felsen	rocher	камень	roca	Rocha	หิน	batu	Batu
+工具箱	工具箱	Toolbox	ツールボックス	공구함	工具箱	Werkzeugbox	boîte à outils	Ящик с инструментами	Caja de instrumento	Caixa de Ferramentas	กล่องเครื่องมือ	Kotak Peralatan	Kotak peralatan
+已完成！	已完成！	Completed!	クリア！	완료!	已完成！	Abgeschlossen!	Complété!	Завершенный!	¡Terminado!	Concluído!	เสร็จสมบูรณ์!	Selesai!	Selesai!
+帐篷	帐篷	Tent	テント	텐트	帳篷	Zelt	tente	палатка	Toldo	Tenda	เต็นท์	Tenda	Khemah
+彩球	彩球	Colorful Balls	カラーボール	컬러볼	彩球	Bunter Ball	Boule Colorée	Цветной мяч	Bola de Color	Bola Colorida	บอลหลากสี	Bola Berwarna	Bola berwarna
+彩紫鱼	彩紫鱼	Vibrant Violet	ニジムラサキ	컬러 퍼플 피쉬	著色紫魚	Prachtlila-Fisch	Poisson arc-en-ciel	Радужная рыбка	pez arcoíris	Peixe Violeta	ปลาสีรุ้งม่วง	Ikan Pelangi	Ikan ungu pelangi
+彩蓝丸	彩蓝丸	Rainbow Guppy	ニジマル	컬러 블루 볼	彩藍丸	Bunte Blau-Kugel	Pilule Cai Lan	Пилюля Цай Лань	Píldora Cai Lan	Esfera Azul	บอลสีรุ้งน้ำเงิน	Pil Cai Lan	Bola biru pelangi
+探险鱼	探险鱼	Explorer Fish	タンケンウオ	탐험 피쉬	探險魚	Entdeckerfisch	Poissons aventuriers	Рыба-путешественник	Peces aventureros	Peixe Aventureiro	ปลาผจญภัย	Ikan Petualangan	Ikan pengembaraan
+放置{0}	放置{0}	Place {0}	{0}を配置	{0} 배치	放置{0}	Platziere {0}	Place {0}	Место {0}	Lugar {0}	Colocar {0}	วาง {0}	Tempatkan {0}	Letakkan {0}
+斑赤瑶	斑赤瑶	Scarlet Ray	マダラセキヨウ	스팟 레드 가오리	斑赤瑤	Rubinfleck	Ban Chiyao	Пан Чияо	Ban Chiyao	Raia Vermelha	หยกจุดแดงเข้ม	Ban Chiyao	Sinar merah bintik
+时间	时间	Time	時間	시간	時間	Zeit	Temps	Время	Tiempo	Tempo	เวลา	Waktu	Masa
+望远镜	望远镜	Telescope	望遠鏡	망원경	望遠鏡	Teleskop	Télescope	Телескоп	Telescopio	Telescópio	โทรทรรศน์	Telekskop	Teleskop
+木屋	木屋	Log Cabin	木の小屋	통나무집	木屋	Holzhütte	Style Cabane en Bois	Деревянный домик	Hogar de Estilo Maderero	Cabana de Madeira	บ้านไม้	Rumah Gaya Kayu	Rumah kayu
+木架	木架	Wooden Rack	木の棚	나무 선반	木架	Holzregal	cadre en bois	деревянная рама	marco de madera	Prateleira de Madeira	โครงสร้างไม้	bingkai kayu	Rangka kayu
+木桶宝	木桶宝	Barrel Chest	木樽の宝	나무통 보물	木桶寶	Schatzfass	Trésor du seau en bois	Сокровища в деревянном ведёрке	Tesoro del cubo de madera	Barril de Tesouro	สมบัติถังไม้	Harta Karun Ember Kayu	Bayi Baldi Kayu
+木梯	木梯	Wooden Ladder	木の梯子	나무 사다리	木梯	Holzleiter	échelle en bois	деревянная лестница	escalera de madera	Escada de Madeira	บันไดไม้	tangga kayu	Tangga kayu
+木阶	木阶	Wooden Steps	木の階段	나무 계단	木階	Holzstufen	Escaliers en bois	Деревянные ступеньки	escalones de madera	Degrau de Madeira	ขั้นไม้	Tangga kayu	Peringkat kayu
+机台	机台	Console	作業台	기계 장치	機台	Maschine	machine	машина	máquina	Máquina	เครื่องจักร	mesin	Mesin
+栏杆	栏杆	Railings	柵	난간	欄桿	Geländer	balustrade	перила	barandilla	Corrimão	ราวบันได	pagar pembatas	Pagar
+桃绯鱼	桃绯鱼	Peach Anthias	モモヒウオ	피치 핑크 피쉬	桃緋魚	Pfirsich-Fisch	Poisson couleur pêche	Рыба персикового цвета	Peces de color melocotón	Peixe Blush	ปลาสีพีชอมแดง	Ikan berwarna peach	Ikan merah tua pic
+桌子	桌子	Table	テーブル	테이블	桌子	Tisch	tableau	стол	mesa	Mesa	โต๊ะ	Meja	Meja
+梯台	梯台	Platform	階段台	단상	梯台	Podest	échelle	платформа	plataforma	Plataforma	แท่นโชว์	tangga	Platform
+橙宝鱼	橙宝鱼	Amber Tang	オレンジジュエル	오렌지 젬 피쉬	橙寶魚	Bernstein-Fisch	Poisson-trésor orange	Оранжевая рыбка-сокровище	Pez tesoro naranja	Peixe Laranja Real	ปลาแก้วสีส้ม	Ikan Harta Karun Oranye	Ikan Bayi Oren
+橙紫豚	橙紫豚	Sunset Puffer	オレムラドルフィン	오렌지 퍼플 복어	橘子紫豚	Orange Lila Delfin	dauphin orange et violet	оранжевый фиолетовый дельфин	delfín naranja morado	Baiacu Crepúsculo	ปลาปักเป้าสีส้มม่วง	lumba-lumba ungu oranye	Ikan buntal ungu oren
+汽车	汽车	Car	車	자동차	汽車	Auto	voiture	машина	auto	Carro	รถ	mobil	Kereta
+沧蓝丸	沧蓝丸	Abyss Tetra	ソウランまる	오션 블루 볼	滄藍丸	Azur-Kugel	pilule Canglan	Таблетка Цанлан	Píldora Canglan	Esfera Abissal	บอลฟ้าคราม	Pil Canglan	Bola biru jambu
+浅蓝丸	浅蓝丸	Cyan Tetra	ライトブルーまる	라이트 블루 볼	淺藍丸	Hellblau-Kugel	Asahi Maru	Асахи Мару	Asahi Maru	Esfera Azul Claro	บอลฟ้าอ่อน	Asahi Maru	Bola biru muda
+浅蓝角	浅蓝角	Azure Hornfish	ライトブルーツノ	라이트 블루 뿔 피쉬	淺藍角	Himmelshorn	coin bleu clair	Светло-голубой уголок	Esquina azul claro	Chifre Azul Claro	เขาฟ้าอ่อน	Sudut biru muda	Tanduk biru muda
+海底乐园	海底乐园	Ocean Paradise	海底パーク	해저 테마파크	海底樂園	Unterwasserpark	Paradis sous-marin	Подводный рай	Paraíso submarino	Paraíso Submarino	สวรรค์ใต้น้ำ	Surga Bawah Laut	Syurga lautan
+海底宫殿	海底宫殿	Ocean Palace	海底宮殿	해저 궁전	海底宮殿	Unterwasserpalast	Palais sous-marin	Подводный дворец	Palacio Submarino	Palácio Submarino	พระราชวังใต้น้ำ	Istana Bawah Laut	Istana lautan
+海底小镇	海底小镇	Ocean Town	海底タウン	해저 마을	海底小鎮	Unterwasserstadt	Ville sous-marine	Подводный город	Ciudad submarina	Vila Submarina	ทาวน์ใต้น้ำ	Kota Bawah Laut	Bandar lautan
+海底市集	海底市集	Ocean Market	海底マーケット	해저 마켓	海底市集	Unterwassermarkt	Marché sous-marin	Подводный рынок	Mercado submarino	Mercado Submarino	ตลาดใต้น้ำ	Pasar Bawah Laut	Pasar lautan
+海底营地	海底营地	Ocean Camp	海底キャンプ	해저 캠프	海底營地	Unterwasserlager	Camp sous-marin	Подводный лагерь	Campamento Submarino	Base Submarina	แคมป์ใต้น้ำ	Perkemahan Bawah Air	Kem lautan
+海草	海草	Seagrass	海草	해초	海草	Seegras	Algue	водоросли	Alga Marina	Erva Marinha	สาหร่าย	Rumput Laut	Rumpai Laut
+海藻	海藻	Kelp	海藻	바닷말	海藻	Algen	algue	водоросли	alga	Alga	หญ้าทะเล	rumput laut	Lumut laut
+海螺	海螺	Conch	巻貝	소라	海螺	Seeschnecke	Conque	раковина	Caracola	Concha	หอยสังข์	Keong	Siput laut
+漂流瓶	漂流瓶	Message in a Bottle	メッセージボトル	유리병 편지	漂流瓶	Flaschenpost	Bouteille à la Mer	дрейфующая бутылка	Botella de Deriva	Garrafa à Deriva	ขวดลอย	Botol Melayang	Botol hanyut
+潜水盔	潜水盔	Diving Helmet	潜水ヘルメット	잠수 헬멧	潛水盔	Taucherhelm	casque de plongée	водолазный шлем	casco de buceo	Capacete de Mergulho	หมวกดำน้ำ	helm selam	Topi menyelam
+灯笼怪	灯笼怪	Angler Monster	ランタンかい	랜턴 몬스터	燈籠怪	Laternenmonster	Monstre Lanterne	Фонарный монстр	Monstruo de la linterna	Monstro Lanterna	มอนสเตอร์โคมไฟ	Monster Lentera	Raksasa tanglung
+灯笼紫	灯笼紫	Purple Angler	ランタンパープル	퍼플 랜턴 피쉬	燈籠紫	Laternenlila	Lanterne violette	Фиолетовый фонарь	Linterna morada	Lanterna Violeta	ม่วงโคมไฟ	Ungu Lentera	Tanglung ungu
+玫冠鱼	玫冠鱼	Rose Crownfish	ローズクラウン	로즈 크라운 피쉬	玫冠魚	Rosenkronenfisch	Poisson à couronne de rose	Рыба в короне розы	Pez corona de rosas	Peixe Coroa de Rosa	ปลามงกุฎกุหลาบ	Ikan Mahkota Mawar	Ikan mahkota mawar
+珊瑚	珊瑚	Coral	サンゴ	산호	珊瑚	Koralle	corail	коралл	coral	Coral	ปะการัง	karang	Batu Karang
+珊瑚怪	珊瑚怪	Coral Monster	サンゴかい	산호 몬스터	珊瑚怪	Korallenmonster	Monstre Corail	Коралловый монстр	Monstruo de coral	Monstro de Coral	มอนสเตอร์ปะการัง	Monster Karang	Raksasa batu karang
+琉蓝尾	琉蓝尾	Glaze Blue-Tail	ルリブルーテール	글라스 블루 테일	琉藍尾	Saphirschwanz	Liu Lanwei	Лю Ланвэй	Liu Lan Wei	Cauda Azul Cristal	หางฟ้าคริสตัล	Liu Lanwei	Ekor biru penyepuh
+白发鱼	白发鱼	Silver Strand	ハクハツウオ	화이트 헤어 피쉬	白髮魚	Silberbart	Poisson à poils blancs	Беловолосая рыба	pez de pelo blanco	Peixe Nevasca	ปลาขนขาว	Ikan berbulu putih	Ikan rambut puih
+白珍珠	白珍珠	White Pearl	白パール	화이트 펄	白珍珠	Weiße Perle	Perle blanche	Белая жемчужина	perla blanca	Pérola Branca	ไข่มุกขาว	Mutiara putih	Mutiara putih
+石丘	石丘	Mound	石の丘	돌 언덕	石丘	Steinhügel	colline de pierre	каменный холм	colina de piedra	Colina de Pedra	เนินหิน	bukit batu	Bukit batu
+石堆	石堆	Rock Pile	石積み	돌더미	石堆	Steinhaufen	tas de pierres	груда камней	montón de piedras	Pilha de Pedra	กองหิน	Tumpukan Batu	Tumpukan batu
+石塔	石塔	Stone Tower	石の塔	돌탑	石塔	Steinturm	Pagode de pierre	Каменная пагода	Pagoda de piedra	Torre de Pedra	เจดีย์หิน	Pagoda Batu	Menara batu
+石墩	石墩	Stone Pillar	石の墩	돌받침	石墩	Steinsockel	Shidun	Шидун	shidún	Bloco de Pedra	เสาหินเตี้ย	Shidun	Batu tongkol
+石屋	石屋	Stone Cottage	石の家	돌집	石屋	Steinhaus	Maison de pierre	Каменный дом	Casa de piedra	Casa de Pedra	บ้านหิน	Rumah Batu	Rumah batu
+石屋顶	石屋顶	Stone Roof	石の屋根	돌지붕	石屋頂	Steindach	Toit en pierre	Каменная крыша	Techo de piedra	Telhado de Pedra	หลังคาหิน	Atap batu	Bumbung batu
+石柱	石柱	Stone Column	石柱	돌기둥	石柱	Steinsäule	pilier de pierre	Каменный столб	Pilar de piedra	Pilar de Pedra	เสาหิน	Tiang batu	Tiang batu
+石藻	石藻	Stonewort	石の藻	돌해초	石藻	Steinalge	Choux	каменная трава	Hierba de piedra	Alga de Pedra	สาหร่ายปูน	Rumput batu	Lumut batu
+碧海鳞	碧海鳞	Aquamarine Scale	ヘキカイウロコ	오션 비늘 피쉬	碧海鱗	Meeresjade	Écailles de la mer bleue	Чешуя синего моря	Escamas de mar azul	Escama Esmeralda	เกล็ดทะเลเขียวน้ำเงิน	Sisik Laut Biru	Sisik laut biru
+碧瑶鳞	碧瑶鳞	Jade Scale	ヘキヨウウロコ	에메랄드 비늘 피쉬	碧瑤鱗	Jade-Schuppe	Écailles de jade	Нефритовые чешуйки	Escala Biyao	Escama de Jade	เกล็ดหยกเขียวน้ำเงิน	Sisik Giok	Sisik giok
+礁屋	礁屋	Reef Hut	岩礁の家	암초집	礁屋	Riffhaus	maison récifale	рифовый дом	casa del arrecife	Casa de Recife	บ้านปะการัง	rumah terumbu karang	Pondok terumbu karang
+礁石	礁石	Reef	岩礁	암초	礁石	Riff	récif	риф	arrecife	Recife	หินโสโครก	terumbu karang	Terumbu karang
+篝火	篝火	Bonfire	焚き火	모닥불	篝火	Lagerfeuer	feu	костер	hoguera	Fogueira	กองไฟ	api unggun	Api unggun
+粉晶簇	粉晶簇	Pink Crystal	ピンククリスタル	핑크 크리스탈 송이	粉晶簇	Rosa Kristallcluster	Amas de cristaux roses	Розовые кристаллические скопления	Racimos de cristales rosas	Quartzo Rosa	พวงผลึกสีชมพู	Gugusan Kristal Merah Muda	Kristal merah jambu
+粉珍珠	粉珍珠	Pink Pearl	ピンクパール	핑크 펄	粉紅珍珠	Rosa Perle	Perle rose	Розовая жемчужина	Perla rosa	Pérola Coral	ไข่มุกสีชมพู	Mutiara Merah Muda	Mutiara merah jambu
+粉紫丸	粉紫丸	Plum Guppy	ピンムラまる	핑크 퍼플 볼	粉紅紫丸	Rosa-Kugler	Pilule rose violette	Розовая фиолетовая таблетка	Pastilla rosa púrpura	Orbe Rosa-Violeta	บอลสีชมพูม่วง	Pil Ungu Merah Muda	Bola ungu merah jambu
+紫冠鱼	紫冠鱼	Purple Crownfish	パープルクラウン	퍼플 크라운 피쉬	紫冠魚	Amethyst-Krone	Poisson à couronne violette	Фиолетовая Корона Рыба	pez corona púrpura	Peixe Coroa Violeta	ปลามงกุฎม่วง	Ikan Mahkota Ungu	Ikan mahkota ungu
+紫尾煌	紫尾煌	Violet Emperor	シビコウ	퍼플 테일 피쉬	紫尾煌	Purpurschweif	Queue Pourpre Flamme	Фиолетовая хвостовая вспышка	Llama de cola púrpura	Cauda Violeta	หางสีม่วงรุ่งโรจน์	Api Ekor Ungu	Raja ekor ungu
+紫尾蝶	紫尾蝶	Purple Butterfly	ムラオチョウ	퍼플 나비고기	紫尾蝶	Falterflosse	Papillon à queue violette	Бабочка с пурпурным хвостом	Mariposa de cola púrpura	Borboleta Violeta	ผีเสื้อหางม่วง	Kupu-kupu berekor ungu	Rama-rama ekor ungu
+紫珊瑚	紫珊瑚	Purple Coral	パープルサンゴ	보라 산호	紫珊瑚	Lila Koralle	corail violet	фиолетовый коралл	coral púrpura	Coral Violeta	ปะการังสีม่วง	karang ungu	Batu Karang ungu
+紫琉鱼	紫琉鱼	Amethyst Glaze	シリュウギョ	퍼플 글라스 피쉬	紫琉魚	Amethyst-Kristall	Poisson violet	Фиолетовая рыба	Pez morado	Peixe Vidro Violeta	ปลาม่วงคริสตัล	Ikan Ungu	Ikan penyepuh ungu
+紫管花	紫管花	Purple Pipewort	パープルチューブ	보라 관산호	紫管花	Lila Röhrenblume	Fleur tubulaire violette	Фиолетовый трубчатый цветок	Flor tubular púrpura	Flor Violeta	ดอกไม้ท่อม่วง	Bunga tabung ungu	Bunga tiub ungu
+紫蓝豚	紫蓝豚	Indigo Puffer	ムラアオドルフィン	퍼플 블루 복어	紫藍豚	Indigo-Delfin	Dauphin bleu violet	Фиолетовый синий дельфин	Delfín azul púrpura	Baiacu Azul-Violeta	ปักเป้าม่วงน้ำเงิน	Lumba-lumba Biru Ungu	Ikan buntal biru ungu
+紫雾豚	紫雾豚	Mist Puffer	シムドルフィン	퍼플 포그 복어	紫霧豚	Nebeldelfin	Dauphin de brume violette	Дельфин в фиолетовом тумане	delfín de niebla púrpura	Baiacu Névoa	ปักเป้าหมอกสีม่วง	Lumba-lumba kabut ungu	Ikan buntal kabus ungu
+紫霞鱼	紫霞鱼	Purple Sunset	シカウオ	퍼플 선셋 피쉬	紫霞魚	Dämmerlicht	Poisson violet	Фиолетовая рыба	Pez morado	Peixe Crepúsculo	ปลาอรุณรุ่งสีม่วง	Ikan Ungu	Ikan senja ungu
+红焰丸	红焰丸	Flame Guppy	アカフレイムまる	레드 플레임 볼	紅焰丸	Glutkugel	Pilule de la Flamme Rouge	Пилюля «Красное пламя»	Píldora de la Llama Roja	Orbe Chama	บอลไฟสีแดง	Pil Api Merah	Bola api merah
+红须仙	红须仙	Red-Whiskered Angel	アカヒゲエンゼル	레드 수염 요정	紅須仙	Rotbart	L'immortel de Barbe-Rouge	Рыжебородый Бессмертный	Inmortal de barba roja	Barba Vermelha	นางฟ้าหนวดแดง	Janggut Merah Abadi	Malaikat janggut merah
+绯纹鱼	绯纹鱼	Scarlet Stripe	ヒモンウオ	크림슨 스트라이프 피쉬	緋紋魚	Glutmuster	Poisson écarlate	Алая Рыба	pez escarlata	Peixe Carmesim	ลายแดงอมม่วง	Ikan Merah	Ikan merah tua
+绯霞鱼	绯霞鱼	Crimson Sunset	ヒカウオ	크림슨 선셋 피쉬	緋霞魚	Glutschimmer	Poisson écarlate	Алая Рыба	pez escarlata	Peixe Estelar	ปลาอรุณรุ่งแดงอมม่วง	Ikan Merah	Ikan senja merah
+绿丛	绿丛	Green Bush	緑の叢	녹색 수풀	綠叢	Grüner Busch	buissons verts	Зеленые кусты	arbustos verdes	Arbusto Verde	พุ่มไม้สีเขียว	Semak-semak hijau	Belukar hijau
+绿草簇	绿草簇	Grass Tuft	草むら	녹초 송이	綠草簇	Grasbüschel	touffes d'herbe verte	пучки зеленой травы	mechones de hierba verde	Moita de Grama	กลุ่มหญ้าสีเขียว	rumpun rumput hijau	Gugusan rumput
+罗兰斑	罗兰斑	Orchid Anthias	ローランマダラ	바이올렛 스팟	羅蘭斑	Viola-Fleck	Loran Spot	Лоран Спот	Loran Spot	Mancha Lavanda	จุดโรลองด์	Titik Loran	Bintik orkid anthias
+翠冠金	翠冠金	Golden Emerald	スイカンキン	에메랄드 크라운 골드	翠冠金	Smaragdkrone	Cuiguanjin	Цуйгуаньцзинь	Cuiguanjín	Coroa Esmeralda	มรกตมงกุฎทอง	Cuiguanjin	Emas mahkota hijau
+翠卷蓝	翠卷蓝	Emerald Blue	スイマキブルー	에메랄드 롤 블루	翠卷藍	Jade-Welle	Bleu émeraude	Изумрудно-синий	Azul esmeralda	Espiral Azul	มรกตเขียวขดน้ำเงิน	Biru Zamrud	Biru hijau
+翠琉丸	翠琉丸	Jade Tetra	スイリュウまる	에메랄드 글라스 볼	翠琉丸	Jade-Kristallkugel	Suiryū Maru	Суйрю Мару	Suiryu Maru	Orbe Esmeralda	บอลมรกตคริสตัล	Suiryu Maru	Bola penyepuh hijau
+翠紫琉	翠紫琉	Emerald Violet	スイシリュウ	에메랄드 퍼플 글라스	翠紫琉	Jade-Amethyst	Glaçure violet émeraude	Изумрудно-фиолетовая глазурь	Esmalte púrpura esmeralda	Esmeralda Violeta	มรกตคริสตัลสีม่วง	Glasir Ungu Zamrud	Penyepuh ungu hijau
+翡翠鱼	翡翠鱼	Jade Fish	ヒスイウオ	제이드 피쉬	翡翠魚	Smaragdfisch	Poisson de jade	Нефритовая рыба	pez jade	Peixe Esmeralda	ปลาหยก	Ikan Giok	Ikan zumrud
+胭紫绯	胭紫绯	Magenta Tang	エンシヒ	루즈 퍼플 피쉬	胭紫緋	Purpur-Rouge	Rouge violet	Красный фиолетовый	Rojo púrpura	Carmesim Violeta	แดงอมม่วง	Ungu Merah	Ungu merah tua
+胭绯朵	胭绯朵	Blush Petal-Fish	エンヒフラワー	루즈 핑크 피쉬	胭緋朵	Karminblüte	Fleur rouge	Цветок Руж	Flor de colorete	Flor Carmesim	แดงหม่นอมม่วง	Bunga Merah	Bunga merah tua
+花簇	花簇	Flower Bush	花の叢	꽃송이	花簇	Blüten-Cluster	grappes de fleurs	Соцветия	racimos de flores	Canteiro de Flores	ช่อดอกไม้	Gugusan bunga	Gugusan bunga
+草亭	草亭	Grass Pavilion	藁葺きの小屋	초가지붕 정자	草亭	Gras-Pavillon	pavillon au toit de chaume	павильон с соломенной крышей	pabellón con techo de paja	Quiosque de Palha	ศาลามุงจาก	paviliun beratap jerami	Pavilion rumput
+获得奖励	获得奖励	Reward Unlocked	報酬ゲット	보상 획득	獲得獎勵	Belohnung erhalten	Recevez des récompenses	Получайте вознаграждения	Reciba recompensas	Ganhar Recompensa	ได้รับรางวัล	Dapatkan hadiah	Dapatkan ganjaran
+蓝兜兜	蓝兜兜	Blue Bonnet	ブルーキャップ	블루 포켓 피쉬	藍兜兜	Blaue Tasche	Poche bleue	Синий карман	Bolsillo azul	Capuz Azul	โดนัทสีฟ้า	Saku Biru	Poket Biru
+蓝晶鱼	蓝晶鱼	Crystal Blue	ブルークリスタル	블루 크리스탈 피쉬	藍晶魚	Kristallblau	Poisson cristal bleu	Голубая кристальная рыба	Pez de cristal azul	Peixe Cristal Azul	ปลาคริสตัลสีฟ้า	Ikan Kristal Biru	Ikan kristal biru
+蓝珊瑚	蓝珊瑚	Blue Coral	ブルーサンゴ	파랑 산호	藍色珊瑚	Blaue Koralle	Corail bleu	Синий коралл	Coral azul	Coral Azul	ปะการังสีน้ำเงิน	Karang Biru	Batu Karang biru
+蓝粉帽	蓝粉帽	Pink-Cap Blue	ブルピンハット	블루 핑크 햇	藍粉帽	Rosahut	Chapeau bleu et rose	Синяя и розовая шляпа	Sombrero azul y rosa	Chapéu Rosa-Azul	หมวกสีฟ้าชมพู	Topi biru dan merah muda	Topi merah jambu biru
+蓝紫汐	蓝紫汐	Blue Twilight	ランシシオ	블루 퍼플 타이드	藍紫羅蘭	Amethyst-Gezeit	Lan Zixi	Лан Цзыси	Lan Zixi	Maré Violeta	สายสีน้ำเงินม่วง	Lan Zixi	Pasang surut ungu biru
+蓝须鱼	蓝须鱼	Blue Whisker	アオヒゲウオ	블루 수염 피쉬	藍鬚魚	Azur-Bart	Barbe-Bleue	Синяя Борода	Barba Azul	Peixe Barba Azul	ปลาหนวดสีน้ำเงิน	Janggut Biru	Ikan janggut biru
+解锁一个鱼缸	解锁一个鱼缸	Unlock a Fish Tank	水槽を1つアンロック	어항 1개 해제	解鎖一個魚缸	Ein Aquarium freischalten	Déverrouiller un aquarium	Откройте аквариум	Desbloquea una pecera	Desbloqueie um aquário	ปลดล็อกตู้ปลาอันหนึ่ง	Buka kunci akuarium	Buka kunci 1 tangki ikan
+赤盔鱼	赤盔鱼	Scarlet Helmet	アカカブトウオ	레드 헬멧 피쉬	赤盔魚	Rothelm	Poisson à casque rouge	Рыба в красном шлеме	Pez casco rojo	Elmo Vermelho	ปลาเฮลเม็ตแดง	Ikan Helm Merah	Ikan topi merah
+赤绒鳞	赤绒鳞	Crimson Velvet	セキジュウウロコ	레드 벨벳 피쉬	赤絨鱗	Samtschuppe	Écailles de velours rouge	Чешуя красного бархата	Escamas de terciopelo rojo	Escama Veludo	เกล็ดกำมะหยี่แดง	Sisik Beludru Merah	Sisik baldu merah
+赤胭斑	赤胭斑	Ruby Spots	セキエンまだら	레드 루즈 스팟	赤胭斑	Erdbeerkaiser	taches rouges	Красные пятна	manchas rojas	Mancha Carmesim	จุดแดงหม่นม้วนเข้ม	Bintik-bintik merah	Bintik merah
+赤金斑	赤金斑	Red-Gold Dot	アカキンまだら	레드 골드 스팟	赤金斑	Goldfleck-Barsch	Tache d'or rouge	Красное золотое пятно	Punto de oro rojo	Mancha Ouro	จุดทองแดง	Titik Emas Merah	Bintik emas merah
+赤须彤	赤须彤	Scarlet Barb	セキシュトウ	레드 통 수염	赤須彤	Flammenbart	Chixutong	Чиксутонг	Chixutong	Barba Escarlate	หนวดแดงแสด	Chixutong	Janggut merah
+路灯	路灯	Streetlamp	街灯	가로등	路燈	Weglaterne	Éclairage public	Уличные фонари	Farolas	Posto de Luz	ไฟถนน	Lampu jalan	Lampu jalan
+酋长鱼	酋长鱼	Chieftain Fish	酋長フィッシュ	추장 피쉬	酋長魚	Häuptling Fisch	Poisson chef	Шеф Фиш	Jefe Pez	Peixe Chefe	หัวหน้าปลา	Kepala Ikan	Ketua ikan
+金泡泡	金泡泡	Gold Bubble	ゴールドバブル	골드 버블	金泡泡	Goldblase	Bulle dorée	Золотой пузырь	Burbuja dorada	Bolha Dourada	บับเบิ้ลสีทอง	Gelembung Emas	Buih emas
+金点点	金点点	Gold Dot	ゴルてんてん	골드 닷 피쉬	金點點	Goldpunkt	Points dorés	Золотые точки	Puntos dorados	Estrela Dourada	จุดเล็กสีทอง	Titik Emas	Titik emas
+金纹斑	金纹斑	Golden Streak	キンモンまだら	골드 스트라이프 피쉬	金紋斑	Goldstreifen	rayures dorées	Золотые полосы	rayas doradas	Mancha Dourada	จุดลายสีทอง	Garis-garis emas	Jalur emas
+金船锚	金船锚	Golden Anchor	金の錨	황금 닻	金船錨	Goldener Anker	Ancre dorée	Золотой якорь	Ancla de oro	Âncora Dourada	สมอเรือสีทอง	Jangkar Emas	Sauh emas
+青柠豚	青柠豚	Lime Puffer	ライムドルフィン	라임 복어	青檸豚	Limettendelfin	Lime Pig	Лайм Пиг	Cerdo de lima	Baiacu de Limão	ปักเป้ามะนาว	Babi Jeruk Nipis	Ikan buntal limau
+青琉鱼	青琉鱼	Teal Glaze	セイリュウギョ	청록 글라스 피쉬	青勞魚	Türkis-Kristall	Poisson-lézard bleu	Синяя ящерица	pez lagarto azul	Peixe Vidro Verde	ปลาเขียวฟ้าคริสตัล	Ikan kadal biru	Ikan penyepuh hijau
+青碧绯	青碧绯	Cyan Tang	セイヘキヒ	청록 에메랄드 피쉬	青碧緋	Jade-Karmin	Écarlate Azur	Лазурный Алый	Azul escarlata	Jade Carmesim	เขียวฟ้าม้วนแดงม่วง	Biru Merah Tua	Merah tua hijau
+青绿涟	青绿涟	Aqua Ripple	セイリョクレン	청록 물결 피쉬	青綠漣	Grün-Welle	Ondulations vertes	Зеленые волны	Ondulaciones verdes	Ondulação Verde	ระลอกเขียวฟ้า	Riak Hijau	Ombak hijau
+飞船	飞船	Spaceship	飛行船	비행선	太空船	Luftschiff	Vaisseau spatial	Космический корабль	Avión	Nave Espacial	ยานอวกาศ	Kapal Terbang	Kapal angkasa
+骑士	骑士	Knight	騎士	기사	騎士	Ritter	chevalier	рыцарь	caballero	Cavaleiro	อัศวิน	Ksatria	Kesateria
+鱼票不足	鱼票不足	Not Enough Fish Tickets	魚チケットが不足しています	물고기 티켓 부족	魚票不足	Nicht genug Fischtickets	Billets de pêche insuffisants	Недостаточное количество рыбных билетов	Boletos de pesca insuficientes	Bilhetes de Peixe Insuficientes	ตั๋วปลาไม่เพียงพอ	Tiket ikan tidak mencukupi	Tiket ikan tidak cukup
+黄蓝丸	黄蓝丸	Yellow-Blue Guppy	キアオまる	옐로우 블루 볼	黃藍丸	Gelb-Blau-Kugler	Pilule Huanglan	Пилюля Хуанлань	Píldora Huanglan	Orbe Amarelo Azul	บอลสีเหลืองฟ้า	Pil Huanglan	Bola biru kuning
+黄蓝豚	黄蓝豚	Yellow-Blue Puffer	キアオドルフィン	옐로우 블루 복어	黃藍豚	Gelbblau-Delfin	Dauphin jaune et bleu	Желтый синий дельфин	Delfín amarillo azul	Baiacu Amarelo Azul	ปักเป้าสีเหลืองฟ้า	Lumba-lumba Biru Kuning	Ikan buntal biru kuning
+黄角鱼	黄角鱼	Yellow Hornfish	キーツノウオ	옐로우 혼 피쉬	黃角魚	Gelber Hornfisch	Croaker jaune	Желтый горбыль	corvina amarilla	Chifre Amarelo	ปลาเขาเหลือง	Ikan croaker kuning	Ikan tanduk kuning
+下次再说	下次再说	Maybe Later	また今度	나중에 하기	下次再說	Später	La prochaine fois	Не сейчас	Ahora no	Mais tarde	ไม่ใช่ตอนนี้	Lain Kali	Bukan Sekarang
+丹绒鱼	丹绒鱼	Tanjung Fish	タンジュウギョ	벨벳 피쉬	丹絨魚	Roter Samtfisch	Poisson de Tanjung	Рыба Танджунг	Pez Tanjung	Peixe-tanjung	ปลาปุยแดงอมส้ม	Ikan Tanjung	Ikan tanjung
+为我们评分	为我们评分	Rate Us	レビューを書く	별점 남기기	為我們評分	Bewerte uns	Évaluez-nous	Оцените нас	Califícanos	Avalie-nos	ให้คะแนนเรา	Beri kami nilai	Nilaikan kami
+乘凉床	乘凉床	Daybed	サマーベッド	썬베드	乘涼床	Kühlbett	Lit de refroidissement	Охлаждающий слой	Cama de enfriamiento	Espreguiçadeira	เตียงนั่งเล่น	Tempat tidur pendingin	Katil
+乘凉椅	乘凉椅	Lounge Chair	デッキチェア	휴식 의자	乘涼椅	Liegestuhl	Banc froid	Классная скамейка	Banco fresco	Cadeira de Descanso	เก้าอี้นั่งเล่น	Bangku yang keren	Bangku
+休息区	休息区	Lounge Area	休憩エリア	휴식 구역	休息區	Ruhebereich	Salle de séjour	зона отдыха	Área de Descanso	Área de Descanso	โซนพักผ่อน	area istirahat	Kawasan rehat
+出现新障碍物，通过消除小鱼消除障碍物	出现新障碍物，通过消除小鱼消除障碍物	New obstacle spotted! Match fish to clear it.	新しい障害物が出現！魚を消して壊そう	새로운 장애물 등장, 물고기를 매치해 장애물을 제거하세요	出現新障礙物，透過消除小魚消除障礙物	Neues Hindernis! Kombiniere Fische, um es zu entfernen.	De nouveaux obstacles apparaissent ; éliminez-les en éliminant les petits poissons.	Появляются новые препятствия; устраните препятствия, избавившись от мелкой рыбы.	Aparecen nuevos obstáculos; elimina los obstáculos eliminando los peces pequeños.	Novo obstáculo apareceu! Elimine peixes para removê-lo	อุปสรรคใหม่ปรากฏขึ้น เคลียร์ปลาเล็กเพื่อกำจัดมัน	Rintangan baru muncul; singkirkan rintangan tersebut dengan menyingkirkan ikan-ikan kecil.	Halangan baharu bermuncul! Padamkan ikan untuk menghilangkannya.
+取消	取消	Cancel	キャンセル	취소	取消	Abbrechen	Annuler	Отменить	Cancelar	Cancelar	ยกเลิก	BATAL	Batal
+告示牌	告示牌	Signboard	立て札	표지판	告示牌	Schild	Tableau d'affichage	Доска объявлений	Tablón de anuncios	Placa de Aviso	ป้ายประกาศ	Papan pengumuman	Papan tanda
+喷泉	喷泉	Fountain	噴水	분수	噴泉	Brunnen	fontaine	фонтан	fuente	Fonte	น้ำพุ	air mancur	Air Pancut
+大嘴豚	大嘴豚	Bigmouth Puffer	デカクチイルカ	큰입 복어	大嘴豚	Großmaul	Cochon à grosse gueule	Свинья с большим ртом	Cerdo Boca Grande	Boca Grande	ปักเป้าปากใหญ่	Babi Bermulut Besar	Ikan buntal mulut besar
+大树	大树	Big Tree	大木	큰 나무	大樹	Großer Baum	Grand arbre	Большое дерево	Secoya	Árvore Grande	ต้นไม้ใหญ่	Pohon Besar	Pokok besar
+天蓝丸	天蓝丸	Sky Skipper	スカイまる	하늘 동글이	天藍丸	Azurball	Pilule de Tianlan	Тяньлань Таблетка	Píldora Tianlan	Esfera Azul-Céu	บอลสีฟ้า	Pil Tianlan	Bola langit biru
+天蓝鱼	天蓝鱼	Sky Blue Fish	スカイウオ	스카이블루 피쉬	天藍魚	Azurfisch	Poisson bleu ciel	Небесно-голубая рыба	pez azul cielo	Peixe Azul-Céu	ปลาสีฟ้า	Ikan Biru Langit	Ikan langit biru
+如果你喜欢我们的App，请给我们5星好评！	如果你喜欢我们的App，请给我们5星好评！	Loving the game? Support us with a 5-star rating!	ゲームを気に入ったら、ぜひ星5つの評価をお願いします！	저희 게임이 마음에 드신다면, 5점 별점을 남겨주세요!	如果你喜歡我們的App，請給我們5星好評！	Gefällt dir unsere App? Bitte gib uns 5 Sterne!	Si vous aimez notre application, merci de nous laisser un avis 5 étoiles !	Если вам понравилось наше приложение, пожалуйста, оставьте нам 5-звездочный отзыв!	Si te gusta nuestra aplicación, ¡por favor, déjanos una reseña de 5 estrellas!	Se você gosta do nosso app, dê 5 estrelas!	ถ้าคุณชอบแอปของเรา โปรดให้คะแนนรีวิว 5 ดาวแก่เรานะคะ!	Jika Anda menyukai aplikasi kami, mohon berikan ulasan bintang 5!	Jika anda menyukai aplikasi kami, sila berikan kami 5 bintang!
+嬉水池	嬉水池	Wading Pool	水遊びプール	물놀이 풀장	嬉水池	Planschbecken	pataugeoire	детский бассейн	piscina infantil	Piscina de Diversão	สระน้ำเล่น	kolam dangkal	Kolam bersimbur-simbur
+小丑鱼	小丑鱼	Clownfish	クマノミ	흰동가리	小丑魚	Clownfisch	Poisson-clown	Рыба-клоун	pez payaso	Peixe-palhaço	ปลาการ์ตูน	Ikan badut	Ikan badut
+小椰子树	小椰子树	Mini Coconut Tree	小さなヤシの木	꼬마 야자수	小椰子樹	Kleine Palme	petit cocotier	Небольшая кокосовая пальма	pequeño cocotero	Coqueiro Pequeno	ต้นมะพร้าวเล็ก	Pohon kelapa kecil	Pokok kelapa kecil
+岩丘	岩丘	Rock Hill	岩山	바위 언덕	岩丘	Felsenhügel	Colline rocheuse	скалистый холм	colina rocosa	Colina Rochosa	เนินหิน	bukit batu	Bukit batu
+岩石堆	岩石堆	Stone Pile	積み岩	바위 더미	岩石堆	Felsenhaufen	tas de pierres	груда камней	montón de rocas	Pilha de Rochas	กองหิน	tumpukan batu	Longgokan batu
+彩糖鱼	彩糖鱼	Candy Swirl	ニジキャンディ	캔디 피쉬	白糖魚	Bonbonfisch	Poisson sucrier	Радужная рыбка	pez arcoíris	Peixe Colorido	ปลาเรนโบว์หวาน	Ikan Pelangi	Ikan gula pelangi
+戏水亭	戏水亭	Splash Pavilion	アクアガゼボ	물놀이 정자	戲水亭	Wasserpavillon	Pavillon de jeux d'eau	Павильон водных развлечений	Pabellón de juegos acuáticos	Quiosque Aquático	ศาลาเล่นน้ำ	Paviliun Permainan Air	Pavilion bersimbur-simbur
+拱门	拱门	Archway	アーチ	아치형 문	拱門	Torbogen	cambre	арка	arco	Arco	ซุ้มประตู	lengkungan	Gerbang
+提琴亭	提琴亭	Violin Pavilion	バイオリンのあずまや	바이올린 정자	提琴亭	Geigenpavillon	Pavillon des violons	Скрипичный павильон	Pabellón del Violín	Quiosque do Violino	ศาลาไวโอลิน	Paviliun Biola	Pavilion biola
+暖橙丸	暖橙丸	Sunny Amber	ダンオレまる	따스한 오렌지 동글이	暖橙丸	Orangenball	Pilules orange chaudes	Теплая апельсиновая таблетка	Pastilla de naranja caliente	Esfera Laranja	บอลสีส้มอุ่น	Pil Jeruk Hangat	Bola oren hangat
+木乃伊	木乃伊	Mummy	ミイラ	미라	木乃伊	Mumie	momie	мама	momia	Múmia	มัมมี่	mumi	Mumi
+朱霞须	朱霞须	Rosy Whisker	シュカヒゲ	노을 수염 피쉬	朱霞須	Abendrot-Barbe	Zhu Xiaxu	Чжу Сясюй	Zhu Xiaxu	Peixe Barba Rubra	หนวดแดงอมส้ม	Zhu Xiaxu	Janggut merah jambu
+树屋台	树屋台	Treehouse Deck	ツリーハウスデッキ	트리하우스 데크	樹屋台	Baumhausterrasse	Terrasse de la cabane dans les arbres	Терраса домика на дереве	Terraza de la casa del árbol	Casa na Árvore	แท่นบ้านต้นไม้	Teras Rumah Pohon	Dek rumah pokok
+栖阁	栖阁	Cozy Perch	休息の小屋	쉼터 누각	棲閣	Rastpavillon	Qige	Циге	Qige	Pavilhão	หอพักเงาจันทร์	Qige	Loteng
+橙条宝	橙条宝	Orange Stripe	オレシマちゃん	오렌지 줄무늬 피쉬	橙條寶	Oranger Streifen	Trésor de la bande orange	Сокровище оранжевой полосы	Tesoro de la Franja Naranja	Peixe Listrado Laranja	แก้วแถบสีส้ม	Harta Karun Bergaris Oranye	Bayi jalur oren
+橙焰豚	橙焰豚	Flame Puffer	オレフレイルカ	오렌지 불꽃 복어	橙焰豚	Flammenball	Cochon à flamme orange	Оранжевая Огненная Свинья	Cerdo de llama naranja	Baiacu Chama Laranja	ปักเป้าเปลวไฟสีส้ม	Babi Api Oranye	Ikan buntal api oren
+气球	气球	Balloons	風船	풍선	氣球	Ballon	ballon	воздушный шар	Globo	Balão	ลูกโป่ง	balon	Belon
+水上乐园	水上乐园	Water Park	ウォーターパーク	워터파크	水上樂園	Wasserpark	parc aquatique	Аквапарк	Parque Acuático	Parque Aquático	สวนน้ำ	Taman Air	Taman tema air
+浅蓝豚	浅蓝豚	Aqua Puffer	ライトアオイルカ	연하늘 복어	淺藍豚	Hellblau Delfin	Cochon bleu clair	Светло-голубая свинья	Cerdo azul claro	Baiacu Azul-Claro	ปักเป้าฟ้าอ่อน	Babi Biru Muda	Ikan buntal biru muda
+浪梯	浪梯	Wave Slide	波の階段	파도 미끄럼틀	浪梯	Wellenleiter	Échelle de vagues	Волноход	Escalera de olas	Escada de Ondas	บันไดคลื่น	Tangga Gelombang	Tangga ombak
+海底丛林	海底丛林	Aqua Jungle	海底ジャングル	해저 정글	海底叢林	Unterwasserdschungel	Jungle sous-marine	Подводные джунгли	Jungla submarina	Selva Submarina	ป่าใต้น้ำ	Hutan Bawah Laut	Hutan Bawah Air
+海底音乐台	海底音乐台	Sunken Music Stage	海底ステージ	해저 음악 무대	海底音樂台	Unterwasser-Bühne	Scène musicale sous-marine	Подводная музыкальная сцена	Escenario musical submarino	Palco Musical Submarino	เวทีดนตรีใต้น้ำ	Panggung Musik Bawah Air	Pentas Muzik Bawah Air
+滩亭	滩亭	Beach Pavilion	ビーチガゼボ	해변 정자	灘亭	Strandpavillon	Tanting	Танцование	Tanting	Quiosque na Praia	ศาลาชายหาด	Tanting	Paviliun Pantai
+焰圆鳞	焰圆鳞	Flame Scaly	ホノマルウロコ	불꽃 비늘 피쉬	焰圓鱗	Flammenschuppe	Écailles de flamme	Шкала пламени	Escala de llama	Esfera Flamejante	เกล็ดเปลวไฟกลม	Skala Api	Sisik api bulat
+焰尾橙	焰尾橙	Flame Tail	ホノオテイルオレ	불꽃 꼬리 오렌지	焰尾橙	Flammenschwanz	Queue de flamme orange	Огненный хвост Оранжевый	Cola de llama naranja	Peixe Cauda Flamejante	ส้มหางไฟ	Ekor Api Oranye	Oren ekor api
+玫粉鱼	玫粉鱼	Rosy Pink Fish	ローズウオ	로즈핑크 피쉬	玫粉魚	Rosafisch	Poisson rose	Розовая Рыбка	pez rosa	Peixe Rosa	ปลาสีชมพูกุหลาบ	Ikan Merah Muda Mawar	Ikan merah jambu mawar
+确定	确定	Confirm	OK	확인	確定	OK	Confirmer	Да	Confirmar	Confirmar	ยืนยัน	Konfirmasi	Sahkan
+碉堡	碉堡	Bunker	砦	요새	碉堡	Festung	Bunker	Бункер	Búnker	Castelo	บังเกอร์	Bunker	Rumah batu
+糖果摊	糖果摊	Candy Stall	キャンディ屋台	사탕 가판대	糖果攤	Süßwarenstand	stand de bonbons	Стенд со сладостями	puesto de dulces	Banca de Doces	แผงขายขนม	Kios permen	Gerai gula-gula
+红条背	红条背	Red Striper	アカスジセナ	붉은 등줄 피쉬	紅條背	Rotstreifen	dos rayé rouge	Красная полосатая спина	espalda a rayas rojas	Peixe Listrado Vermelho	หลังแถบแดง	punggung bergaris merah	Belakang jalur merah
+红火鱼	红火鱼	Fiery Red Fish	レッドファイア	레드 파이어 피쉬	紅火魚	Rotfeuerfisch	Poisson de feu rouge	Красная Огненная Рыба	Pez de fuego rojo	Peixe Fogo Vermelho	ปลาไฟแดง	Ikan Api Merah	Ikan api merah
+红珊瑚	红珊瑚	Red Coral	赤サンゴ	붉은 산호	紅珊瑚	Rote Koralle	Corail Rouge	Красный коралл	Coral Rojo	Coral Vermelho	ปะการังแดง	Kacang Merah	Batu karang merah
+红背豚	红背豚	Redback Puffer	アカセナイルカ	붉은 등 복어	紅背豚	Rotrückendelfin	dauphin à dos rouge	дельфин-красноспинка	delfín de lomo rojo	Baiacu de Dorso Vermelho	ปักเป้าหลังแดง	lumba-lumba punggung merah	Ikan buntal belakang merah
+舞台	舞台	Stage	ステージ	무대	舞台	Bühne	scène	этап	escenario	Palco	เวที	panggung	Pentas
+舞台帐篷	舞台帐篷	Stage Tent	ステージテント	무대 텐트	舞台帳篷	Bühnenzelt	Tente de scène	Сценический шатер	Carpa de escenario	Tenda de Palco	เต็นท์เวที	Tenda panggung	Khemah pentas
+航海鱼	航海鱼	Sailor Fish	セーラーウオ	마린 피쉬	航海魚	Seefahrer-Fisch	Poissons nautiques	Морские рыбы	Peces náuticos	Peixe Náutico	ปลาเดินเรือ	Ikan Laut	Ikan pelayaran
+茶桌	茶桌	Tea Table	ティーテーブル	티 테이블	茶桌	Teetisch	table à thé	чайный столик	mesa de té	Mesa de Chá	โต๊ะน้ำชา	Meja Kopi	Meja teh
+草丛	草丛	Algae	茂み	수풀	草叢	Gebüsch	Herbe	Трава	Hierba	Arbustos	พุ่มหญ้า	Rumput	Rumput
+藻岩	藻岩	Algae Rock	苔むす岩	이끼 바위	藻岩	Algenfels	Roche algale	Водорослевая порода	roca de algas	Rocha com Algas	หินสาหร่าย	Batuan alga	Batu lumut
+蜜橘鱼	蜜橘鱼	Tangerine Fish	ミカンウオ	달콤 귤 피쉬	蜜橘魚	Mandarinfisch	Poisson à l'orange et au miel	Мандариновая рыба	Pescado de miel y naranja	Peixe Laranja Mel	ปลาส้มน้ำผึ้ง	Ikan Jeruk Madu	Ikan oren madu
+蜜橙斑	蜜橙斑	Citrus Spotty	ミツオレまだら	오렌지 점박이	蜜橙斑	Orangen-Punktfisch	Taches orange miel	Медово-оранжевые пятна	Manchas de color naranja miel	Manchas de Laranja	จุดสีส้มน้ำผึ้ง	Bintik-bintik Oranye Madu	Bintik oren madu
+观众席	观众席	Seating Area	観客席	관람석	觀眾席	Tribüne	Places assises pour les spectateurs	Зрительские места	Asientos para espectadores	Plateia	ที่นั่งผู้ชม	Tempat Duduk Penonton	Kawasan penonton
+赤斑鱼	赤斑鱼	Crimson Spot	アカマダラウオ	붉은 점박이 피쉬	赤斑魚	Rotpunktfisch	Poisson à taches rouges	Рыба с красными пятнами	Peces de manchas rojas	Peixe Mancha Vermelha	ปลาจุดแดงเข้ม	Ikan Berbintik Merah	Ikan bintik merah
+超难	超难	Super Hard	激ムズ	매우 어려움	超難	Extrem	Extrêmement difficile	Чрезвычайно сложно	Extremadamente difícil	Super Difícil	ยากมาก	SUPER SULIT	Sangat Susah
+通过消除小鱼才能解锁泡泡	通过消除小鱼才能解锁泡泡	Match fish to pop the bubbles!	魚を消してバブルを解放しよう	물고기를 매치해야 방울을 해제할 수 있어요	透過消除小魚才能解鎖泡泡	Kombiniere Fische, um Blasen freizuschalten.	Vous devez éliminer les petits poissons pour débloquer les bulles.	Чтобы открыть пузырьки, нужно убрать маленьких рыбок.	Debes eliminar los peces pequeños para desbloquear las burbujas.	Elimine peixes para liberar bolhas	เคลียร์ปลาเล็กเพื่อปลดล็อกฟอง	Anda perlu menyingkirkan ikan-ikan kecil untuk membuka gelembung-gelembung tersebut.	Padamkan ikan untuk membuka kunci buih
+金珀鱼	金珀鱼	Golden Amber	ゴルドアンバー	골든 앰버 피쉬	金珀魚	Bernsteinfisch	Poisson ambré doré	Золотисто-янтарная рыба	Pez ámbar dorado	Peixe Âmbar Dourado	ปลาอำพันทอง	Ikan Amber Emas	Ikan ambar emas
+金鳍丸	金鳍丸	Goldfin	キンヒレまる	금빛 지느러미 동글이	金鰭丸	Goldflossen-Kugel	Pilule Golden Fin	Таблетка «Золотой плавник»	Píldora Golden Fin	Nadadeira Dourada	บอลครีบทอง	Pil Sirip Emas	Bola sirip emas
+钢琴	钢琴	Piano	ピアノ	피아노	鋼琴	Klavier	piano	фортепиано	piano	Piano	เปียโน	piano	Piano
+需要钥匙解锁被困在笼子的小鱼	需要钥匙解锁被困在笼子的小鱼	Find the key to free the trapped fish!	檻の魚を救出するには鍵が必要です	철창에 갇힌 물고기를 구하려면 열쇠가 필요해요	需要鑰匙解鎖被困在籠子的小魚	Nutze Schlüssel, um Fische zu befreien.	Il faut une clé pour libérer les petits poissons prisonniers de la cage.	Чтобы открыть ловушку для мелких рыбок, застрявших в садке, нужен ключ.	Se necesita una llave para liberar a los pequeños peces atrapados en la jaula.	Use chaves para libertar peixes presos em gaiolas	ต้องใช้กุญแจเพื่อช่วยปลาเล็กที่ติดอยู่ในกรง	Diperlukan kunci untuk membuka kunci ikan kecil yang terperangkap di dalam sangkar.	Gunakan kunci untuk membuka kunci ikan kecil yang terperangkap di dalam sangkar.
+青瑙鱼	青瑙鱼	Blue Agate Fish	シアンメノウ	푸른 마노 피쉬	青瑙魚	Türkis-Achatfisch	Poisson en agate bleue	Рыба из синего агата	Pez de ágata azul	Peixe Ágata Azul	ปลาโมราคราม	Ikan Agate Biru	Ikan agat biru
+青草	青草	Green Grass	草	잔디	青草	Gras	herbe	трава	césped	Grama	หญ้า	rumput	Rumput hijau
+音乐城	音乐城	Music City	ミュージックシティ	뮤직 시티	音樂城	Musikstadt	La ville de la musique	Музыкальный город	Ciudad de la música	Cidade Musical	เมืองแห่งเสียงเพลง	Kota Musik	Bandar muzik
+饰台	饰台	Display Stand	飾り台	장식대	飾台	Podest	table de décoration	Украшение стола	Mesa de decoración	Palco Decorativo	โต๊ะตกแต่ง	Meja dekorasi	Pameran hiasan
+魔术师	魔术师	Magician	マジシャン	마술사	魔術師	Magier	magicien	фокусник	Mágico	Mágico	นักมายากล	Pesulap	Ahli silap mata
+全新推出	全新推出	New	新登場	새롭게 등장	全新推出	Brandneu	Nouveau	Новинка	Nuevo	Novo	ใหม่ล่าสุด	Baru	Baharu
+凳子	凳子	Stool	スツール	의자	凳子	Hocker	tabouret	стул	heces	Banco	ม้าอั่ง	bangku	Kerusi
+吊灯	吊灯	Chandelier	シャンデリア	샹들리에	吊燈	Kronleuchter	lustre	люстра	araña	Lustre	โคมระย้า	Lampu Gantung	Lampu Gantung
+墙	墙	Wall	壁	벽	牆	Wand	mur	стена	muro	Parede	กำแพง	dinding	Dinding
+放映机	放映机	Film Projector	映写機	영사기	放映機	Projektor	projecteur	проектор	proyector	Projetor	โปรเจ็กเตอร์	proyektor	Projektor Filem
+板凳	板凳	Bench	ベンチ	벤치	板凳	Bank	banc	лавка	banco	Banquinho	ม้านั่ง	bangku	Bangku
+沙发	沙发	Sofa	ソファ	소파	沙發	Sofa	canapé	диван	sofá	Sofá	โซฟา	sofa	Sofa
+泳池	泳池	Swimming Pool	プール	수영장	泳池	Schwimmbad	piscine	бассейн	piscina	Piscina	สระว่ายน้ำ	kolam renang	Kolam Renang
+游乐场	游乐场	Playground	遊園地	놀이공원	遊樂場	Spielplatz	Parc d'Attractions	Парк Развлечений	parque de atracciones	Parquinho	สวนสนุก	Taman Bermain	Taman Permainan
+滑滑梯	滑滑梯	Slide	滑り台	미끄럼틀	滑滑梯	Rutsche	glisser	слайд	deslizar	Escorregador	สไลด์	menggeser	Gelongsor
+灌木丛	灌木丛	Bushes	茂み	덤불	灌木叢	Busch	buisson	куст	arbusto	Arbusto	ไม้พุ่ม	semak-semak	Belukar
+灰色街机	灰色街机	Gray Arcade Machine	グレーのゲーム機	회색 오락기	灰色街機	Graue Arcade	Arcade grise	Серый Аркада	Sala de juegos gris	Arcade Cinza	ตู้เกมสีเทา	Arkade Abu-abu	Mesin Arked Kelabu
+电影院	电影院	Movie Theater	映画館	영화관	電影院	Kino	Cinéma	Кино	Cine	Cinema	โรงหนัง	Bioskop	Pawagam
+粉色街机	粉色街机	Pink Arcade Machine	ピンクのゲーム機	핑크색 오락기	粉紅色街機	Pinke Arcade	Pink Arcade	Розовый аркадный зал	Sala de juegos rosa	Arcade Rosa	ตู้เกมสีชมพู	Arkade Merah Muda	Mesin Arked Merah Jambu
+草地	草地	Seaweed	草地	풀밭	草地	Wiese	prairie	Луг	Pradera	Campo	ทุ่งหญ้า	Padang Rumput	Padang Rumput
+草坪	草坪	Lawn	芝生	잔디밭	草坪	Rasen	pelouse	лужайка	césped	Gramado	สนามหญ้า	halaman rumput	Rumput
+跷跷板	跷跷板	Seesaw	シーソー	시소	蹺蹺板	Wippe	bascule	качели	balancín	Gangorra	กระดานหก	jungkat jungkit	Jongkang-jongket
+蹦床	蹦床	Trampoline	トランポリン	트램펄린	彈跳床	Trampolin	trampoline	батут	trampolín	Cama Elástica	แทรมโพลีน	trampolin	Trampolin
+过山车	过山车	Roller Coaster	ジェットコースター	롤러코스터	雲霄飛車	Achterbahn	montagnes russes	американские горки	Montaña Rusa	Montanha-Russa	รถไฟเหาะ	Roller Coaster	Roller Coaster
+金色街机	金色街机	Golden Arcade Machine	金のゲーム機	금색 오락기	金街	Goldene Arcade	Arcade dorée	Золотой аркадный зал	Golden Arcade	Arcade Dourado	ตู้เกมสีทอง	Arkade Emas	Mesin Arked Emas
+餐车	餐车	Food Truck	キッチンカー	푸드 트럭	餐車	Foodtruck	wagon-restaurant	вагон-ресторан	vagón restaurante	Podrão	ตู้เสบียงอาหาร	gerbong makan	Kereta Makan
+一把通关	一把通关	First-Try Win	一発クリア	한 번에 클리어	一把通關	Direkt-Sieg	Mort instantanée	Убийство одним выстрелом	Muerte de un solo disparo	Vencer de Primeira	ผ่านในครั้งเดียว	Langsung mati	Menang 1 Cubaan
+保存	保存	Save	保存	저장	儲存	Speichern	Sauvegarder	Сохранить	Guardar	Salvar	บันทึก	Simpan	Simpan
+储蓄仓	储蓄仓	Silo	サイロ	저장고	儲蓄倉	Lager	Entrepôt d'épargne	Склад сбережений	Almacén de ahorros	Armazém	คลังเก็บ	Gudang tabungan	Silo
+农场	农场	Farm	ファーム	농장	農場	Farm	ferme	ферма	granja	Fazenda	ฟาร์ม	peternakan	Ladang
+农家小屋	农家小屋	Farmhouse	ファームハウス	농가 오두막	農家小屋	Farmhaus	Ferme	Фермерский дом	Cortijo	Casa da Fazenda	กระท่อมไร่	Rumah pertanian	Rumah Ladang
+初始登录{0}	初始登录{0}	First Login: {0}	初回ログイン{0}	초기 로그인 {0}	初始登入{0}	Erster Login: {0}	Connexion initiale {0}	Первоначальный вход {0}	Inicio de sesión inicial {0}	Login inicial {0}	เข้าสู่ระบบ{0}ครั้งแรก	Login awal {0}	Log Masuk Pertama: {0}
+南瓜	南瓜	Pumpkin	カボチャ	호박	南瓜	Kürbis	Citrouille	тыква	Calabaza	Abóbora	ฟักทอง	Labu	Labu
+场景图鉴	场景图鉴	Scene Gallery	シーン図鑑	배경 도감	場景圖鑑	Szenengalerie	Atlas des scènes	Атлас сцен	Atlas de escenas	Cenários	สมุดภาพฉาก	Atlas Adegan	Galeri Latar
+大风车	大风车	Windmill	風車	큰 풍차	強風車	Windmühle	Grand moulin à vent	Большая ветряная мельница	Gran molino de viento	Moinho de Vento	กังหันลม	Kincir Angin Besar	Kincir Angin
+头像	头像	Avatar	アイコン	프로필 사진	頭像	Avatar	Avatar	Аватар	Avatar	Avatar	อวตาร์	Avatar	Avatar
+头像框	头像框	Avatar Frame	アイコン枠	프로필 프레임	頭像框	Avatarrahmen	Cadre d'Avatar	Рамка для аватара	MARCO DE AVATAR	Moldura	กรอบอวตาร์	BINGKAI	Bingkai Avatar
+我的资料	我的资料	My Profile	プロフィール	내 프로필	我的資料	Mein Profil	Mon profil	Мой профиль	Mi perfil	Meu Perfil	โปรไฟล์ของฉัน	Profil Saya	Profil Saya
+拖拉机	拖拉机	Tractor	トラクター	트랙터	聯結機	Traktor	tracteur	трактор	tractor	Trator	รถแทรกเตอร์	traktor	Traktor
+收藏图鉴	收藏图鉴	Collection Gallery	コレクション図鑑	수집 도감	收藏圖鑑	Sammlung	Collection	Коллекция	Guía de la colección	Coleção	สมุดคอลเลกชัน	Panduan Koleksi	Galeri Koleksi
+数据统计	数据统计	Stats	データ	플레이 통계	數據統計	Statistik	Statistiques des données	Статистика данных	Estadísticas	Estatísticas	สถิติข้อมูล	Statistik data	Stat
+更改名称	更改名称	Change Name	名前変更	닉네임 변경	更改名稱	Name ändern	Changer le nom	Изменить имя	Cambiar nombre	Alterar Nome	เปลี่ยนชื่อ	Ubah nama	Tukar Nama
+木栏杆	木栏杆	Wooden Fence	木の柵	나무 울타리	木欄桿	Holzzaun	balustrades en bois	деревянные перила	barandillas de madera	Cerca de Madeira	ราวไม้	pagar kayu	Pagar Kayu
+木桶堆	木桶堆	Wooden Barrels	樽の山	나무통 더미	木桶堆	Fassstapel	empilement de tonneaux en bois	Деревянная штабель бочек	Pila de barriles de madera	Pilha de Barris	กองถังไม้	Tumpukan tong kayu	Tong Kayu
+杂草	杂草	Weeds	雑草	잡초	雜草	Unkraut	mauvaises herbes	сорняки	malas hierbas	Ervas Daninhas	วัชพืช	gulma	Rumpai
+树	树	Tree	木	나무	樹	Baum	Arbre	Дерево	Árbol	Árvore	ต้นไม้	Pohon	Pokok
+编辑	编辑	Edit	編集	편집	編輯	Bearbeiten	Modifier	Редактировать	Editar	Editar	แก้ไข	Sunting	Edit
+编辑个人资料	编辑个人资料	Edit Profile	プロフィール編集	프로필 편집	編輯個人資料	Profil bearbeiten	Modifier mon profil personnel	Редактировать личный профиль	Editar perfil personal	Editar Perfil	แก้ไขโปรไฟล์	Edit Profil Pribadi	Edit Profil
+花盆	花盆	Flowerpot	植木鉢	화분	花盆	Blumentopf	pot à fleurs	цветочный горшок	maceta	Vaso de Flores	กระถางดอกไม้	Pot Bunga	Pasu Bunga
+草堆	草堆	Haystack	干し草	건초 더미	草堆	Heuhaufen	meule de foin	стог сена	almiar	Pilha de Feno	กองฟาง	tumpukan jerami	Jerami
+输入您的名称然后请点击	输入您的名称然后请点击	Enter your name and tap to confirm	名前を入力して、タップしてください	닉네임을 입력한 후 클릭해 주세요	輸入您的名稱然後請點擊	Namen eingeben und bestätigen	Saisissez votre nom puis cliquez.	Введите свое имя и нажмите.	Introduce tu nombre y haz clic.	Digite seu nome e toque	กรอกชื่อของคุณแล้วคลิก	Masukkan nama Anda, lalu klik.	Isi nama, ketik sah
+运输车	运输车	Delivery Truck	運搬車	운반차	運輸車	Transporter	véhicule de transport	транспортное средство	vehículo de transporte	Caminhão de Transporte	รถขนส่ง	kendaraan pengangkut	Lori Hantar
+{0}天 {1}时	{0}天 {1}时	{0}d {1}h	{0}日 {1}時間	{0}일 {1}시간	{0}天{1}時	{0}T {1}Std.	{0}d{1}h	{0}Д{1}Ч	{0}d{1}h	{0}d {1}h	{0} วัน {1} ชม.	{0}hari{1}jam	{0}h {1}j
+你	你	You	あなた	나	你	Du	toi	ты	tú	Você	คุณ	Anda	awak
+你赢得了比赛！领取你的奖励！	你赢得了比赛！领取你的奖励！	You won the race! Claim your reward!	レースに勝利！報酬を受け取ろう！	승리했습니다! 보상을 수령하세요!	你贏得了比賽！領取你的獎勵！	Du hast gewonnen! Hol dir deine Belohnung!	Vous avez gagné le concours ! Réclamez votre récompense !	Вы выиграли конкурс! Заберите свой приз!	¡Has ganado la competición! ¡Reclama tu premio!	Você venceu a corrida! Resgate sua recompensa!	คุณชนะการแข่งขัน! รับรางวัลของคุณได้เลย!	Anda memenangkan kompetisi! Klaim hadiah Anda!	Anda memenangi pertandingan ini! Tuntut ganjaran anda!
+你输了！	你输了！	You Lost!	残念！	패배했습니다!	你輸了	Du hast verloren!	Tu as perdu !	Вы проиграли!	¡Perdiste!	Você perdeu!	คุณแพ้!	Kamu kalah!	Anda kalah!
+你输掉了比赛...	你输掉了比赛...	You lost the race...	レースに敗北…	경기에서 패배했습니다…	你輸掉了比賽...	Du hast das Rennen verloren…	Vous avez perdu la partie...	Вы проиграли игру...	Perdiste el juego...	Você perdeu a corrida...	คุณแพ้เกมแล้ว...	Kamu kalah dalam permainan...	Awak kalah dalam permainan...
+全球	全球	Global	グローバル	글로벌	全球	Global	Mondial	по всему миру	Mundial	Global	ทั่วโลก	seluruh dunia	seluruh dunia
+即可赢得丰厚奖品	即可赢得丰厚奖品	To win awesome rewards!	豪華報酬をゲット！	푸짐한 보상을 획득할 수 있습니다.	即可贏得豐厚獎品	Gewinne tolle Preise!	Gagnez de super prix !	Выиграйте отличные призы!	¡Gana fantásticos premios!	Para ganhar ótimas recompensas!	ลุ้นรับรางวัลใหญ่	Menangkan hadiah menarik!	Menangi hadiah-hadiah hebat!
+本地	本地	Local	ローカル	로컬	本地	Lokal	Local	Local	Local	Local	ท้องถิ่น	Lokal	Lokal
+完成	完成	Finished	クリア	완료	完成	Fertig	(Compléter)	(Завершено)	(Completado)	Concluir	เสร็จสิ้น	(Selesai)	(Selesai)
+开始	开始	Start	スタート	시작	開始	Start	C'est parti !	Начать!	¡Activar!	Iniciar	เริ่ม	Mulai!	MULA
+开始与其他玩家竞争！	开始与其他玩家竞争！	Compete against other players!	他のプレイヤーと競争しよう！	다른 유저들과 경쟁을 시작해 보세요!	開始與其他玩家競爭！	Tritt gegen andere Spieler an!	Commencez à affronter d'autres joueurs !	Начните соревноваться с другими игроками!	Empezar competir con otros jugadores	Comece a competir com outros jogadores!	เริ่มแข่งขันกับผู้เล่นคนอื่นๆ ได้เลย!	Mulailah berkompetisi melawan pemain lain!	Mula bersaing dengan pemain lain!
+打开	打开	Open	オープン	열기	打開	Öffnen	Ouvrir	Открыть	Abierto	Abrir	เปิด	Membuka	Buka
+抢先他人通关<color=#FFBE55> {0} 关</color>	抢先他人通关<color=#FFBE55> {0} 关</color>	Beat <color=green>{0} levels</color> first	誰よりも早く<color=#FFBE55>{0}レベル</color>をクリアしよう	다른 유저보다 먼저 <color=#FFBE55>{0} 스테이지</color>를 클리어하세요.	搶先他人通關<color=#FFBE55>{0} 關</color>	Schaffe <color=#FFBE55>{0} Level</color> vor den anderen	Terminez le niveau avant les autres.<color=#FFBE55> {0} Fermer</color>	Пройдите уровень раньше остальных.<color=#FFBE55> {0} Закрыть</color>	Completa el nivel antes que los demás.<color=#FFBE55> {0} Cerrar</color>	Conclua <color=green>{0} níveis</color> primeiro	ผ่าน<color=#FFBE55> {0} ด่าน</color>ก่อนคนอื่น	Selesaikan level sebelum yang lain.<color=#FFBE55> {0} Tutup</color>	Kosongkan tahap sebelum orang lain<color=#FFBE55> {0} Tutup</color>
+排行榜	排行榜	Leaderboard	ランキング	랭킹	排行榜	Rangliste	Classement	РЕЙТИНГ	Clasificación	Ranking	ลีดเดอร์บอร์ด	Papan Peringkat	Ranking
+排名越高奖励越高！	排名越高奖励越高！	Higher rank, better rewards!	上位になるほど報酬が豪華に！	순위가 높을수록 보상도 커집니다!	排名越高獎勵越高！	Höherer Rang, bessere Belohnung!	Plus le classement est élevé, plus la récompense est importante !	Чем выше рейтинг, тем больше награда!	¡Cuanto mayor sea la clasificación, mayor será la recompensa!	Quanto maior o ranking, maiores os prêmios!	อันดับยิ่งสูง รางวัลก็ยิ่งหรู!	Semakin tinggi peringkatnya, semakin besar hadiahnya!	Semakin tinggi kedudukan, semakin kaya ganjaran!
+排行榜按每周过关总数排名	排行榜按每周过关总数排名	Ranked by weekly levels cleared	ランキングは毎週のクリア数で決定されます	랭킹은 매주 클리어한 스테이지 총합을 기준으로 산정됩니다.	排行榜按每週過關總數排名	Rangfolge nach wöchentlich geschafften Leveln	Le classement est établi en fonction du nombre total de niveaux réussis chaque semaine.	В таблице лидеров ранжирование осуществляется по общему количеству пройденных уровней за каждую неделю.	La clasificación se basa en el número total de niveles superados cada semana.	O ranking é baseado no total de níveis concluídos por semana	ลีดเดอร์บอร์ดจัดตามจำนวนด่านที่ผ่านในแต่ละสัปดาห์	Papan peringkat diurutkan berdasarkan jumlah total level yang berhasil diselesaikan setiap minggu.	Papan pendahulu disusun mengikut jumlah tahap yang diluluskan setiap minggu.
+正在匹配对手...	正在匹配对手...	Finding opponents...	マッチング中...	상대 매칭 중…	正在匹配對手...	Gegnersuche…	Des adversaires de taille...	Подбор соперников...	Oponentes a la altura...	Procurando adversários...	การจับคู่กับคู่ต่อสู้...	Mencocokkan lawan...	Lawan yang sepadan...
+比其他人更快过关！	比其他人更快过关！	Beat levels faster than the rest!	誰よりも早くクリアしよう！	누구보다 빠르게 스테이지를 클리어하세요!	比其他人更快過關！	Schaffe Level schneller als die anderen!\n	Terminez le niveau plus rapidement que tous les autres !	Пройдите уровень быстрее всех!	¡Supera el nivel más rápido que nadie!	Conclua os níveis mais rápido que os outros!	ผ่านเลเวลได้เร็วกว่าคนอื่นๆ!	Selesaikan level lebih cepat dari yang lain!	Selesaikan tahap lebih cepat daripada pemain lain!
+比其他玩家更快通过<color=green>{0}关</color>，即可赢得丰富奖励！	比其他玩家更快通过<color=green>{0}关</color>，即可赢得丰富奖励！	Beat <color=green>{0} levels</color> first to win awesome rewards!	他のプレイヤーより早く<color=green>{0}レベル</color>をクリアして、豪華報酬をゲットしよう！	다른 유저보다 먼저 <color=green>{0} 스테이지</color>를 클리어하고 푸짐한 보상을 획득하세요!	比其他玩家更快通過<color=green>{0}關</color>，即可贏得豐富獎勵！	Schaffe <color=green>{0} Level</color> schneller als andere für tolle Belohnungen!	Passez plus vite que les autres joueurs<color=green> {0}</color> Vous pouvez gagner de superbes récompenses !	Передавайте мяч быстрее, чем другие игроки.<color=green> {0}</color> Вы можете выиграть отличные призы!	Pasa más rápido que otros jugadores.<color=green> {0}</color> ¡Puedes ganar grandes premios!	Conclua <color=green>{0} níveis</color> primeiro para ganhar ótimas recompensas!	ผ่าน <color=green>{0} ด่าน</color>ให้เร็วกว่าผู้เล่นคนอื่น แล้วรับรางวัลมากมาย!	Mengoper lebih cepat daripada pemain lain<color=green> {0}</color> Anda bisa memenangkan hadiah menarik!	Hantaran lebih pantas daripada pemain lain<color=green> {0}</color> Anda boleh memenangi ganjaran yang hebat!
+点击屏幕继续	点击屏幕继续	Tap to continue	タップして続ける	화면을 탭하여 계속하세요	點擊螢幕繼續	Zum Fortfahren tippen	Tapez pour continuer	Нажмите, чтобы продолжить	Toca la pantalla para continuar	Toque para continuar	แตะหน้าจอเพื่อทำต่อ	Klik untuk lanjutkan	Klik untuk teruskan
+点击领取	点击领取	Tap to claim	タップして受取る	탭하여 받기	點擊領取	Zum Abholen tippen	Obtenir	Нажмите, чтобы собрать	Toca para Obtener	Toque para obter	แตะเพื่อรับ	Dapatkan	Klik Untuk Dapatkan
+第{0}关解锁	第{0}关解锁	Unlocks at Level {0}	レベル{0}で解放	{0} 스테이지에서 잠금 해제	第{0}關解鎖	Ab Level {0} freigeschaltet	Se débloque au niveau {0}	Уровень {0} Разблокирован	Desbloqueado en nivel {0}	Disponível no nível {0}	ปลดล็อกที่เลเวล {0}	Terbuka pada Level {0}	Buka kunci pada tahap {0}
+达到{0}关解锁	达到{0}关解锁	Reach Level {0} to unlock	レベル{0}到達で解放	{0} 스테이지 도달 시 잠금 해제	達到{0}關解鎖	Erreiche Level {0} zum Freischalten	Débloquer en atteignant le niveau {0}	Разблокируется при достижении уровня {0}	Desbloquea al alcanzar el nivel {0}.	Desbloqueado no nível {0}	ปลดล็อกเมื่อถึงเลเวล {0}	Terbuka dengan mencapai level {0}	Buka kunci dengan mencapai tahap {0}
+阶段	阶段	Stage	ステージ	단계	階段	Phase	scène	этап	escenario	Fase	ขั้น	panggung	pentas
+成为第一，赢得丰厚奖励！	成为第一，赢得丰厚奖励！	Finish 1st to win big rewards!	1位になって豪華報酬をゲットしよう！	1위를 달성하고 푸짐한 보상을 획득하세요!	成為第一，贏得豐厚獎勵！	Werde Erster für tolle Belohnungen!	Devenez numéro un et gagnez de superbes récompenses !	Станьте номером один и получите отличные награды!	¡Conviértete en el número uno y gana fantásticos premios!	Seja o primeiro e ganhe prêmios incríveis!	ได้ที่หนึ่งและรับรางวัลใหญ่!	Raih peringkat pertama dan menangkan hadiah menarik!	Jadil orang yang pertama dan menangi ganjaran besar!
+关卡	关卡	Level	レベル	스테이지	關卡	Level	Niveau	Уровень	Nivel	Nível	เลเวล	Level	Tahap
+x2倍奖励	x2倍奖励	2x Rewards	報酬2倍	보상x2	x2倍獎勵	2x Belohnung	x2 récompense	награда x2	recompensa x2	Recompensas x2	รางวัล x2	hadiah x2	ganjaran x2
+休息椅	休息椅	Lounge Chair	チェア	휴식 의자	休息椅	Ruhesessel	chaise de repos	стул для отдыха	silla de descanso	Banco de Descanso	เก้าอี้พักผ่อน	kursi istirahat	kerusi rehat
+会占用泡泡，不可点击	会占用泡泡，不可点击	Fills a bubble and can't be tapped	バブルを占領し、タップ不可	버블을 차지해 탭할 수 없습니다	會佔用泡泡，不可點擊	Besetzt Blasen, nicht anklickbar	Elle occupera la bulle et ne sera pas cliquable.	Она займет место в облачке и не сможет быть нажата.	Ocupará la burbuja y no se podrá hacer clic en ella.	Ocupa a bolha e impede o toque	จะใช้พื้นที่ฟอง แตะไม่ได้	Ini akan menempati gelembung dan tidak dapat diklik.	Ia akan memenuhi gelembung dan tidak boleh diklik.
+会妨碍泡泡下落	会妨碍泡泡下落	Blocks bubbles from falling	バブルの落下を妨害	버블이 떨어지는 걸 방해해요	會妨礙泡泡下落	Blockiert fallende Blasen	Cela empêchera les bulles de tomber.	Это помешает пузырькам опускаться.	Esto impedirá que las burbujas caigan.	Impede a queda das bolhas	จะขัดขวางฟองตก	Hal itu akan mencegah gelembung-gelembung tersebut jatuh.	Ia akan menghalang gelembung daripada jatuh.
+会附着在鱼的身上不让点击	会附着在鱼的身上不让点击	Attaches to fish and prevents taps	魚にくっついてタップ不可	물고기에 붙어 클릭할 수 없게 합니다	會附著在魚的身上不讓點擊	Haftet an Fischen und blockiert Klicks	Il s'accrochera au poisson et vous empêchera de cliquer dessus.	Оно прикрепится к рыбе и не позволит вам нажать на неё.	Se adherirá al pez y te impedirá hacer clic en él.	Fica preso ao peixe e impede o toque	ติดอยู่บนตัวปลา ทำให้แตะไม่ได้	Ini akan menempel pada ikan dan mencegah Anda mengkliknya.	Ia akan melekat pada ikan dan menghalang anda daripada mengklik padanya.
+伞	伞	Umbrella	傘	우산	傘	Schirm	parapluie	зонтик	paraguas	Guarda-chuva	ร่ม	payung	payung
+冰雪世界	冰雪世界	Snowy Realm	スノーワールド	눈꽃 세상	冰雪世界	Eiswelt	Monde de Neige	Снежный мир	Mundo de hielo y nieve	Mundo de Gelo	โลกหิมะ	Dunia Es dan Salju	Dunia Salji
+冰雪城堡	冰雪城堡	Ice Castle	アイスキャッスル	얼음 성	冰城堡	Eisschloss	château de glace	Ледяной замок	Castillo de Hielo	Castelo de Gelo	ปราสาทน้ำแข็ง	Kastil Salju	Istana Ais
+化妆台	化妆台	Vanity	ドレッサー	화장대	化妝台	Schminktisch	coiffeuse	туалетный столик	tocador	Penteadeira	โต๊ะเครื่องแป้ง	meja rias	meja solek
+升级木屋	升级木屋	Upgrade Cabin	木の小屋を強化	오두막 업그레이드	升級木屋	Holzhütte verbessern	Rénover la maison en bois	Обновите деревянный дом	Reformar la casa de madera	Melhorar Cabana	อัปเกรดบ้านไม้	Perbaiki rumah kayu	Naik taraf rumah kayu
+可以和任意鱼一起消除	可以和任意鱼一起消除	Matches with any fish	どの魚とも一緒に消せるよ！	모든 물고기와 매치할 수 있어요	可以和任意魚一起消除	Mit jedem Fisch kombinierbar	Peut être éliminé en même temps que n'importe quel poisson	Можно удалять вместе с любой рыбой.	Se puede eliminar junto con cualquier pez.	Pode combinar com qualquer peixe	กำจัดร่วมกับปลาชนิดไหนก็ได้	Dapat dihilangkan bersamaan dengan ikan apa pun.	Boleh dibuang bersama mana-mana ikan
+圣诞树	圣诞树	Christmas Tree	クリスマスツリー	크리스마스 트리	聖誕樹	Weihnachtsbaum	Arbre de Noël	Ёлка Рождества	Árbol de Navidad	Árvore de Natal	ต้นคริสต์มาส	Pohon Natal	Pokok Krismas
+圣诞礼物	圣诞礼物	Christmas Gift	クリスマスギフト	크리스마스 선물	聖誕禮物	Weihnachtsgeschenk	Cadeaux de Noël	Подарок Рождества	Regalo de Navidad	Presente de Natal	ของขวัญคริสต์มาส	Hadiah Natal	Hadiah Krismas
+大鱼缸里会有好多鱼游过	大鱼缸里会有好多鱼游过	A giant aquarium teeming with swimming fish!	大きな水槽ではたくさんの魚が泳ぐよ	큰 어항에 물고기들이 헤엄쳐 다녀요	大魚缸裡會好多魚遊過	Viele Fische schwimmen durchs große Aquarium	De nombreux poissons nageront dans le grand aquarium.	В большом аквариуме будет плавать множество рыб.	En la gran pecera nadarán muchos peces.	Muitos peixes nadarão pelo aquário grande	ในตู้ปลามีปลามากมายว่ายผ่าน	Banyak ikan akan berenang di akuarium besar itu.	Banyak ikan akan berenang di dalam tangki ikan yang besar.
+奖杯	奖杯	Trophy	トロフィー	트로피	獎盃	Trophäe	Trophée	Трофей	Trofeo	Troféu	ถ้วยรางวัล	Piala	Piala
+已完成	已完成	Completed	完了	완료	已完成	Abgeschlossen	Complété	Завершенный	Terminado	Concluído	เสร็จแล้ว	Selesai	Selesai
+您将丢失您的收集物	您将丢失您的收集物	You will lose your collected items!	集めたアイテムが失われます	수집품을 잃게 됩니다	您將會遺失您的收集物	Du verlierst deine Sammelobjekte	Vous perdrez votre collection.	Вы потеряете свою коллекцию.	Perderás tu colección.	Você perderá seus itens coletados	คุณจะสูญเสียของสะสมของคุณ	Anda akan kehilangan koleksi Anda.	Anda akan kehilangan koleksi anda.
+摄影机	摄影机	Camera	カメラ	카메라	攝影機	Kamera	caméra	камера	cámara	Câmera	กล้อง	Kamera	kamera
+收纳箱	收纳箱	Storage Box	収納ボックス	보관함	收納箱	Aufbewahrungsbox	Boîte de Rangement	Ящик для хранения	Caja de Almacenaje	Caixa Organizadora	กล่องเก็บของ	Kotak Penyimpan	Kotak Simpanan
+收集珍珠！	收集珍珠！	Collect pearls!	パールを集めよう！	진주 모으기!	收集珍珠！	Sammle Perlen!	Collectionnez les perles !	Собирайте жемчуг!	¡Colecciona perlas!	Colete as pérolas!	สะสมไข่มุก!	Kumpulkan mutiara!	Kumpul mutiara!
+极光	极光	Aurora	オーロラ	오로라	極光	Polarlichter	aurore	северное сияние	Aurora	Aurora	แสงเหนือ	aurora	aurora
+滑雪板	滑雪板	Snowboard	スノーボード	스노보드	滑雪板	Snowboard	skis	лыжи	esquís	Esqui	สกี	ski	ski
+滑雪橇	滑雪橇	Sled	そり	썰매	滑雪橇	Schlitten	traîneau	сани	trineo	Trenó	เลื่อน	kereta luncur	kereta luncur
+火炉	火炉	Fireplace	暖炉	난로	火爐	Kamin	poêle	печь	cocina	Lareira	เตา	kompor	dapur
+积雪木屋	积雪木屋	Snowy Cabin	雪の小屋	눈 덮인 오두막	積雪木屋	Verschneite Holzhütte	Maison en bois enneigée	Заснеженный деревянный дом	Casa de madera cubierta de nieve	Cabana Nevada	กระท่อมหิมะ	Rumah kayu yang tertutup salju	Rumah kayu yang dilitupi salji
+窗帘	窗帘	Curtains	カーテン	커튼	窗簾	Vorhang	rideau	занавес	cortina	Cortina	ม่าน	tirai	langsir
+背景	背景	Background	背景	배경	背景	Hintergrund	Arrière-plan	Тема	Tema	Fundo	พื้นหลัง	Latar	Latar Belakang
+节目表	节目表	Show Schedule	プログラム	프로그램 표	節目表	Programmplan	Programme	Расписание программы	Programación	Programação	ตารางการแสดง	Jadwal Program	Jadual Program
+花坛	花坛	Flowerbed	花壇	화단	花壇	Blumenbeet	parterre de fleurs	клумба	macizo de flores	Canteiro de Flores	แปลงดอกไม้	Petak Bunga	petak bunga
+衣柜	衣柜	Wardrobe	クローゼット	옷장	衣櫃	Kleiderschrank	Garde-robe	Гардероб	Armario	Guarda-roupa	ตู้เสื้อผ้า	Pakaian	Almari pakaian
+补光灯	补光灯	Ring Light	撮影用ライト	조명	補光燈	Aufhelllicht	Lumière d'appoint	Заполняющий свет	Luz de relleno	Luz de Apoio	ไฟเสริม	Lampu pengisi	Isi cahaya
+话剧制片厂	话剧制片厂	Drama Studio	ドラマスタジオ	연극 스튜디오	話劇製片廠	Theaterstudio	Studio de théâtre	Драматическая студия	Estudio de teatro	Estúdio de Teatro	โรงถ่ายละคร	Studio Drama	Studio Drama
+赢取丰厚奖励！	赢取丰厚奖励！	Win amazing rewards!	豪華報酬をゲット！	푸짐한 보상 획득!	贏取豐厚獎勵！	Gewinne tolle Belohnungen!	Gagnez des récompenses exceptionnelles !	Выиграйте потрясающие призы!	¡Gana premios increíbles!	Ganhe grandes recompensas!	รับรางวัลมากมาย!	Raih hadiah luar biasa!	Menangi ganjaran yang menakjubkan!
+通过关卡！	通过关卡！	Pass levels!	レベルをクリア！	스테이지 클리어!	通過關卡！	Schließe Level ab!	Terminez le niveau !	Пройдите уровни!	¡Nivel Completado!	Conclua os níveis!	ผ่านด่าน!	Lewati level ini!	Selesaikan tahap
+道具	道具	Item	アイテム	아이템	道具	Items	Objet	Реквизит	Objeto	Itens	ไอเทม	Alat	Item
+雪人	雪人	Snowman	スノーマン	눈사람	雪人	Schneemann	Bonhomme de Neige	Снеговик	Muñeco de Nieve	Boneco de Neve	ตุ๊กตาหิมะ	Manusia Salju	Orang Salji
+书籍推车	书籍推车	Book Cart	ブックカート	책 카트	書籍推車	Bücherwagen	Chariot à livres	тележка для книг	Carrito de libros	Carrinho de Livros	รถเข็นหนังสือ	Keranjang buku	Troli buku
+博物馆	博物馆	Museum	博物館	박물관	博物館	Museum	musée	музей	museo	Museu	พิพิธภัณฑ์	museum	muzium
+围栏柱	围栏柱	Stanchion	柵の柱	울타리 기둥	圍欄柱	Zaunpfosten	poteaux de clôture	столбы забора	postes de cerca	Poste de Cerca	เสารั้ว	tiang pagar	tiang pagar
+展示台	展示台	Display Pedestal	展示台	전시대	展示台	Ausstellungspodest	présentoir	Подставка для демонстрации	Soporte de exhibición	Expositor	แท่นจัดแสดง	Dudukan Pajangan	Pendirian paparan
+收集船锚！	收集船锚！	Collect the Anchors!	アンカーを集めよう！	닻 모으기!	收集船錨！	Anker sammeln!	Récupérez les ancres !	Соберите якоря!	¡Recojan las anclas!	Colete as âncoras!	เก็บสมอเรือ!	Kumpulkan jangkarnya!	Kumpulkan sauh!
+潜艇	潜艇	Submarine	潜水艦	잠수함	潛水艇	U-Boot	sous-marin	подводная лодка	submarino	Submarino	เรือดำน้ำ	kapal selam	kapal selam
+珊瑚标本	珊瑚标本	Coral Specimen	サンゴの標本	산호 표본	珊瑚標本	Korallenpräparat	spécimens de corail	образцы кораллов	ejemplares de coral	Espécime de Coral	ตัวอย่างปะการัง	spesimen karang	spesimen karang
+盆栽	盆栽	Potted Plant	鉢植え	화분	盆栽	Topfpflanze	Plantes en pot	Горшечные растения	Plantas en maceta	Vaso de Planta	บอนไซ	Pot Tanaman	Tumbuhan pasu
+菊石	菊石	Ammonite	アンモナイト	국석	菊石	Ammonit	ammonite	аммонит	amonita	Amonite	แอมโมไนต์	amonit	ammonit
+贝壳标本	贝壳标本	Seashell Specimen	貝殻の標本	조개 표본	貝殼標本	Muschelpräparat	spécimens de coquillages	образцы раковин	ejemplares de conchas	Espécime de Concha	ตัวอย่างเปลือกหอย	spesimen cangkang	spesimen cangkerang
+隔离柱	隔离柱	Fence Post	ガイドポール	차단봉	隔離柱	Absperrpfosten	colonne d'isolation	изоляционная колонка	columna de aislamiento	Poste de Isolamento	เสากั้น	kolom isolasi	lajur pengasingan
