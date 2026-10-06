@@ -28,3 +28,16 @@
       let cur = rows; const draw = ()=>{ const lim = cur.slice(0,600); box.innerHTML = `<p class="muted">${cur.length} level (hiển thị tối đa 600)</p><table class="wt"><thead><tr>${h.map(x=>`<th>${x}</th>`).join("")}</tr></thead><tbody>${lim.map(r=>`<tr>${r.map(c=>`<td>${c}</td>`).join("")}</tr>`).join("")}</tbody></table>`; };
       draw(); f.addEventListener("input", ()=>{ const v = f.value.trim().toLowerCase(); cur = !v ? rows : rows.filter(r=> r[1]===v || r.join("\t").toLowerCase().includes(v)); draw(); }); }).catch(()=>{ box.innerHTML = '<p class="muted">Không tải được levels.tsv (mở qua http:// hoặc GitHub Pages).</p>'; }); }
 })();
+
+(function(){
+  const links=[...document.querySelectorAll("a.lb")]; if(!links.length) return;
+  let box=null, idx=0;
+  function show(i){ idx=(i+links.length)%links.length; const a=links[idx];
+    if(!box){ box=document.createElement("div"); box.className="lbox"; box.innerHTML='<button class="x" aria-label="Đóng">✕</button><button class="prev" aria-label="Trước">‹</button><img alt=""><div class="cap"></div><button class="next" aria-label="Sau">›</button>';
+      document.body.appendChild(box);
+      box.addEventListener("click",e=>{ if(e.target.classList.contains("prev")) show(idx-1); else if(e.target.classList.contains("next")) show(idx+1); else if(e.target.tagName!=="IMG") close(); }); }
+    box.querySelector("img").src=a.href; box.querySelector(".cap").textContent=a.dataset.cap||""; box.hidden=false; }
+  function close(){ if(box) box.hidden=true; }
+  links.forEach((a,i)=>a.addEventListener("click",e=>{ e.preventDefault(); show(i); }));
+  document.addEventListener("keydown",e=>{ if(!box||box.hidden) return; if(e.key==="Escape") close(); if(e.key==="ArrowLeft") show(idx-1); if(e.key==="ArrowRight") show(idx+1); });
+})();

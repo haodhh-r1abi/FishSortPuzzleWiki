@@ -28,6 +28,7 @@
 <li>Unity 2022.3.62f3, IL2CPP. Export bằng HExportV2: AssetRipper dựng project Unity, Il2CppDumper lấy metadata, Ghidra giải mã 19.267 method thuộc 14 assembly.</li>
 <li>Dữ liệu thiết kế lấy từ 2.970 bundle YooAsset đóng kèm APK: 1.859 dòng cấu hình màn, 1.858 file layout bong bóng, 12 bảng config gốc.</li>
 <li>Phần do server quản lý đọc trực tiếp từ logcat khi khởi động game trên giả lập, cộng với việc gọi thật API bảng xếp hạng.</li>
+<li>Ảnh chụp màn hình, giá IAP thật và save thật đọc trên LDPlayer 9 (Android 9, 1080×1920) ngày 06/10/2026 với tài khoản test ở level 4. Mỗi trang tính năng có mục <b>Ảnh chụp màn hình</b>, <b>Bảng config gốc trong APK</b>, <b>Tham số server</b> và <b>Số liệu đo trên máy</b>.</li>
 </ul>
 <h2>Độ tin cậy</h2>
 <ul>
@@ -38,6 +39,7 @@
 </ul>
 <h2>Cách cập nhật</h2>
 <ul>
+<li>Ảnh chụp và bảng config gốc khai báo trong <code>feature_extras.json</code>; ảnh đặt ở <code>screenshots/</code>.</li>
 <li>Sửa <code>gdd/&lt;Feature&gt;.json</code> rồi chạy <code>python tools/gd_site.py</code> để dựng lại web và <code>python tools/gd_xlsx.py</code> để dựng lại Excel.</li>
 <li>Không sửa thẳng file HTML trong <code>site/</code>, mọi thay đổi sẽ mất khi dựng lại.</li>
 </ul>
