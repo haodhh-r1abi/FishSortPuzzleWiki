@@ -84,3 +84,14 @@ table.scores th{white-space:nowrap}td.sc{white-space:nowrap;min-width:150px}.bar
 .evbox{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:8px 12px;border-top:4px solid #999}.evbox ul{margin:4px 0;padding-left:18px}.evbox li{margin:3px 0}
 .evbox .evt{font-weight:800;margin-bottom:2px}.evbox.ok{border-top-color:#2e9d4f}.evbox.bad{border-top-color:#c0392b}.evbox.warn{border-top-color:#e0a72f}.evbox.tip{border-top-color:#2b6cd1}
 .chips .chip.an{background:#fff4d6;color:#7a5200}
+.legend{background:var(--panel);border:1px dashed var(--line);border-radius:8px;padding:6px 14px;margin:0 0 14px;font-size:13.5px}.legend ul{margin:4px 0;padding-left:18px}
+.intro{font-size:15.5px;margin:4px 0 10px}
+.tomlai{background:#f4f2ea;border-radius:6px;padding:6px 10px;margin:6px 0 10px}
+.ex{margin-top:6px;padding:6px 10px;border-radius:6px;font-size:13.5px;background:#f7f7fb;border-left:4px solid #b9b6d6}
+.ex.real{background:#eefaf1;border-left-color:#2e9d4f}.ex.demo{background:#fff8e6;border-left-color:#e0a72f}
+.ex .ext{display:inline-block;font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.3px;color:var(--muted);margin-right:4px}
+table.walk td:first-child{white-space:nowrap;font-weight:600}
+.fshots{flex:none;display:flex;gap:6px;align-items:flex-start}
+.fthumb{margin:0;width:92px}.fthumb img{width:92px;aspect-ratio:9/16;object-fit:cover;border-radius:6px;border:1px solid var(--line);display:block;cursor:zoom-in;box-shadow:0 1px 4px rgba(0,0,0,.12)}
+.fthumb.inl{display:inline-block;width:56px;margin:4px 4px 0 0;vertical-align:top}.fthumb.inl img{width:56px}
+@media (max-width:700px){.fstep{flex-wrap:wrap}.fshots{margin-left:48px}}
