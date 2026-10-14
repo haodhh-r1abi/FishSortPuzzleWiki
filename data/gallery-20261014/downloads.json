@@ -1,0 +1,47 @@
+[
+  {
+    "file": "gallery-art-ui.zip",
+    "bytes": 4388464,
+    "sha256": "e479d35a35037bd6287c01d099da39c7f1cc8ebe48bea8e602de015a1bc2db6f"
+  },
+  {
+    "file": "gallery-data-evidence.zip",
+    "bytes": 111671,
+    "sha256": "966ffd90fe4eda9f1c35daeccc550965fd419b06e1d463ed585f41feab82a8c3"
+  },
+  {
+    "file": "gallery-fish-a.zip",
+    "bytes": 14371138,
+    "sha256": "580e931fbfd9627c4430209a6d3882eda8323cd6802d742793df578e9db17c90"
+  },
+  {
+    "file": "gallery-fish-b.zip",
+    "bytes": 14315979,
+    "sha256": "2bc3ed8678a1a9104ce0098bce3ff31305f33184b2fe10da812b16a7b3a9d1c7"
+  },
+  {
+    "file": "gallery-screenshots-01.zip",
+    "bytes": 17874802,
+    "sha256": "b24fc92da08537b1e993a04b47b9a71c19459e824f8be15386d4576aba1976b7"
+  },
+  {
+    "file": "gallery-screenshots-02.zip",
+    "bytes": 17706666,
+    "sha256": "447f5af94f62996394720e5db80a52a6972a851da7e6e24f4878ce91a8d7501b"
+  },
+  {
+    "file": "gallery-screenshots-03.zip",
+    "bytes": 17433318,
+    "sha256": "9245637f168fb8ca416cf3d898ab24bfed958029288c72e74bb99545028237b5"
+  },
+  {
+    "file": "gallery-screenshots-04.zip",
+    "bytes": 17422031,
+    "sha256": "473270369c6f136f721c8e96e117b2fbdd5638af82a4a3946567ec1d96ff4eb3"
+  },
+  {
+    "file": "gallery-screenshots-05.zip",
+    "bytes": 4912188,
+    "sha256": "a2e1ce0fc013b86dfc0bf9b4893a9730a9140bb2206189f8a0bd5756c84425cb"
+  }
+]

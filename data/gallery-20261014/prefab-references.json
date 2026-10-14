@@ -1,0 +1,422 @@
+[
+  {
+    "node": "UIPanelIllustration",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindGroup.cs",
+    "fileID": 11500000,
+    "guid": "601aedb29c089b5911a18b859b91e00e"
+  },
+  {
+    "node": "UIPanelIllustration",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/LocalizationFont.cs",
+    "fileID": 11500000,
+    "guid": "0cbd8edcfd5df3fba0c644bdfcebad8d"
+  },
+  {
+    "node": "Image",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "fileID": 11500000,
+    "guid": "3cf5a44414476512e00c3e7a2569a919"
+  },
+  {
+    "node": "Bg",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "fileID": 11500000,
+    "guid": "3cf5a44414476512e00c3e7a2569a919"
+  },
+  {
+    "node": "Bg",
+    "field": "m_Sprite",
+    "source": "AssetRes/UITexture/collection/settlement/exhibition_hall_bg.asset",
+    "fileID": 21300000,
+    "guid": "bde029124c8a9044fbd7c877227c8307"
+  },
+  {
+    "node": "Up",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "fileID": 11500000,
+    "guid": "3cf5a44414476512e00c3e7a2569a919"
+  },
+  {
+    "node": "Up",
+    "field": "m_Sprite",
+    "source": "AssetRes/UITexture/home_/home_settlement/hmoe_navigation_baseplate_1.asset",
+    "fileID": 21300000,
+    "guid": "9a0f07ec4b23ab14887ec810f1a1b386"
+  },
+  {
+    "node": "Txt",
+    "field": "m_Script",
+    "source": "Scripts/Unity.TextMeshPro/TMPro/TextMeshProUGUI.cs",
+    "fileID": 11500000,
+    "guid": "3f96b1d166d19b209697e35b35d65c76"
+  },
+  {
+    "node": "Txt",
+    "field": "m_fontAsset",
+    "source": "AssetRes/Font/PaytoneOne-Regular/PaytoneOne-Regular SDF.asset",
+    "fileID": 11400000,
+    "guid": "507787c5f75012f47a2789a5a238fec3"
+  },
+  {
+    "node": "Txt",
+    "field": "m_sharedMaterial",
+    "source": "AssetRes/Font/PaytoneOne-Regular/PaytoneOne-Regular OutLine Black.mat",
+    "fileID": 2100000,
+    "guid": "3e4f9eb19aaa3f24187208795edd7e6b"
+  },
+  {
+    "node": "Txt",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/LocalizationText.cs",
+    "fileID": 11500000,
+    "guid": "0b0e8336b8806994409313390467085e"
+  },
+  {
+    "node": "BtnClose",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "fileID": 11500000,
+    "guid": "3cf5a44414476512e00c3e7a2569a919"
+  },
+  {
+    "node": "BtnClose",
+    "field": "m_Sprite",
+    "source": "AssetRes/UITexture/component_library/icon/icon_close.asset",
+    "fileID": 21300000,
+    "guid": "e03ac63652ddb014e8f698f6fbb3ee87"
+  },
+  {
+    "node": "BtnClose",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Button.cs",
+    "fileID": 11500000,
+    "guid": "18d0a90695249463551c00f45766e642"
+  },
+  {
+    "node": "BtnClose",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindNode.cs",
+    "fileID": 11500000,
+    "guid": "072e7948e256c9f2f705dbcb3d2bf116"
+  },
+  {
+    "node": "Tab",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "fileID": 11500000,
+    "guid": "3cf5a44414476512e00c3e7a2569a919"
+  },
+  {
+    "node": "Tab",
+    "field": "m_Sprite",
+    "source": "AssetRes/UITexture/component_library/pop/settlement/pop_up_tab_down_1.asset",
+    "fileID": 21300000,
+    "guid": "b3239e14c3ecf114d9b1da393bf374b1"
+  },
+  {
+    "node": "Tab",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/HorizontalLayoutGroup.cs",
+    "fileID": 11500000,
+    "guid": "19fbb4a32b59286cd89b624f52ff7943"
+  },
+  {
+    "node": "TabSelect",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "fileID": 11500000,
+    "guid": "3cf5a44414476512e00c3e7a2569a919"
+  },
+  {
+    "node": "TabSelect",
+    "field": "m_Sprite",
+    "source": "AssetRes/UITexture/component_library/pop/settlement/pop_up_tab_up_1.asset",
+    "fileID": 21300000,
+    "guid": "7a1a6e9dddd16794ca713961ed56f4b0"
+  },
+  {
+    "node": "TabSelect",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindNode.cs",
+    "fileID": 11500000,
+    "guid": "072e7948e256c9f2f705dbcb3d2bf116"
+  },
+  {
+    "node": "TabSelect",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/LayoutElement.cs",
+    "fileID": 11500000,
+    "guid": "4293fd42559bc8bb1c81715179adf536"
+  },
+  {
+    "node": "BtnTab1",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindNode.cs",
+    "fileID": 11500000,
+    "guid": "072e7948e256c9f2f705dbcb3d2bf116"
+  },
+  {
+    "node": "BtnTab1",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Button.cs",
+    "fileID": 11500000,
+    "guid": "18d0a90695249463551c00f45766e642"
+  },
+  {
+    "node": "Txt",
+    "field": "m_Script",
+    "source": "Scripts/Unity.TextMeshPro/TMPro/TextMeshProUGUI.cs",
+    "fileID": 11500000,
+    "guid": "3f96b1d166d19b209697e35b35d65c76"
+  },
+  {
+    "node": "Txt",
+    "field": "m_fontAsset",
+    "source": "AssetRes/Font/PaytoneOne-Regular/PaytoneOne-Regular SDF.asset",
+    "fileID": 11400000,
+    "guid": "507787c5f75012f47a2789a5a238fec3"
+  },
+  {
+    "node": "Txt",
+    "field": "m_sharedMaterial",
+    "source": "AssetRes/Font/PaytoneOne-Regular/PaytoneOne-Regular Atlas Material.mat",
+    "fileID": 2100000,
+    "guid": "8fd46af45bafe774e9386088e2e813ef"
+  },
+  {
+    "node": "Txt",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/LocalizationText.cs",
+    "fileID": 11500000,
+    "guid": "0b0e8336b8806994409313390467085e"
+  },
+  {
+    "node": "BtnTab2",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindNode.cs",
+    "fileID": 11500000,
+    "guid": "072e7948e256c9f2f705dbcb3d2bf116"
+  },
+  {
+    "node": "BtnTab2",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Button.cs",
+    "fileID": 11500000,
+    "guid": "18d0a90695249463551c00f45766e642"
+  },
+  {
+    "node": "Txt",
+    "field": "m_Script",
+    "source": "Scripts/Unity.TextMeshPro/TMPro/TextMeshProUGUI.cs",
+    "fileID": 11500000,
+    "guid": "3f96b1d166d19b209697e35b35d65c76"
+  },
+  {
+    "node": "Txt",
+    "field": "m_fontAsset",
+    "source": "AssetRes/Font/PaytoneOne-Regular/PaytoneOne-Regular SDF.asset",
+    "fileID": 11400000,
+    "guid": "507787c5f75012f47a2789a5a238fec3"
+  },
+  {
+    "node": "Txt",
+    "field": "m_sharedMaterial",
+    "source": "AssetRes/Font/PaytoneOne-Regular/PaytoneOne-Regular Atlas Material.mat",
+    "fileID": 2100000,
+    "guid": "8fd46af45bafe774e9386088e2e813ef"
+  },
+  {
+    "node": "Txt",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/LocalizationText.cs",
+    "fileID": 11500000,
+    "guid": "0b0e8336b8806994409313390467085e"
+  },
+  {
+    "node": "BtnTab3",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindNode.cs",
+    "fileID": 11500000,
+    "guid": "072e7948e256c9f2f705dbcb3d2bf116"
+  },
+  {
+    "node": "BtnTab3",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Button.cs",
+    "fileID": 11500000,
+    "guid": "18d0a90695249463551c00f45766e642"
+  },
+  {
+    "node": "Txt",
+    "field": "m_Script",
+    "source": "Scripts/Unity.TextMeshPro/TMPro/TextMeshProUGUI.cs",
+    "fileID": 11500000,
+    "guid": "3f96b1d166d19b209697e35b35d65c76"
+  },
+  {
+    "node": "Txt",
+    "field": "m_fontAsset",
+    "source": "AssetRes/Font/PaytoneOne-Regular/PaytoneOne-Regular SDF.asset",
+    "fileID": 11400000,
+    "guid": "507787c5f75012f47a2789a5a238fec3"
+  },
+  {
+    "node": "Txt",
+    "field": "m_sharedMaterial",
+    "source": "AssetRes/Font/PaytoneOne-Regular/PaytoneOne-Regular Atlas Material.mat",
+    "fileID": 2100000,
+    "guid": "8fd46af45bafe774e9386088e2e813ef"
+  },
+  {
+    "node": "Txt",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/LocalizationText.cs",
+    "fileID": 11500000,
+    "guid": "0b0e8336b8806994409313390467085e"
+  },
+  {
+    "node": "BtnTab4",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindNode.cs",
+    "fileID": 11500000,
+    "guid": "072e7948e256c9f2f705dbcb3d2bf116"
+  },
+  {
+    "node": "BtnTab4",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Button.cs",
+    "fileID": 11500000,
+    "guid": "18d0a90695249463551c00f45766e642"
+  },
+  {
+    "node": "Txt",
+    "field": "m_Script",
+    "source": "Scripts/Unity.TextMeshPro/TMPro/TextMeshProUGUI.cs",
+    "fileID": 11500000,
+    "guid": "3f96b1d166d19b209697e35b35d65c76"
+  },
+  {
+    "node": "Txt",
+    "field": "m_fontAsset",
+    "source": "AssetRes/Font/PaytoneOne-Regular/PaytoneOne-Regular SDF.asset",
+    "fileID": 11400000,
+    "guid": "507787c5f75012f47a2789a5a238fec3"
+  },
+  {
+    "node": "Txt",
+    "field": "m_sharedMaterial",
+    "source": "AssetRes/Font/PaytoneOne-Regular/PaytoneOne-Regular Atlas Material.mat",
+    "fileID": 2100000,
+    "guid": "8fd46af45bafe774e9386088e2e813ef"
+  },
+  {
+    "node": "Txt",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/LocalizationText.cs",
+    "fileID": 11500000,
+    "guid": "0b0e8336b8806994409313390467085e"
+  },
+  {
+    "node": "BtnTab5",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindNode.cs",
+    "fileID": 11500000,
+    "guid": "072e7948e256c9f2f705dbcb3d2bf116"
+  },
+  {
+    "node": "BtnTab5",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Button.cs",
+    "fileID": 11500000,
+    "guid": "18d0a90695249463551c00f45766e642"
+  },
+  {
+    "node": "Txt",
+    "field": "m_Script",
+    "source": "Scripts/Unity.TextMeshPro/TMPro/TextMeshProUGUI.cs",
+    "fileID": 11500000,
+    "guid": "3f96b1d166d19b209697e35b35d65c76"
+  },
+  {
+    "node": "Txt",
+    "field": "m_fontAsset",
+    "source": "AssetRes/Font/PaytoneOne-Regular/PaytoneOne-Regular SDF.asset",
+    "fileID": 11400000,
+    "guid": "507787c5f75012f47a2789a5a238fec3"
+  },
+  {
+    "node": "Txt",
+    "field": "m_sharedMaterial",
+    "source": "AssetRes/Font/PaytoneOne-Regular/PaytoneOne-Regular Atlas Material.mat",
+    "fileID": 2100000,
+    "guid": "8fd46af45bafe774e9386088e2e813ef"
+  },
+  {
+    "node": "Txt",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/LocalizationText.cs",
+    "fileID": 11500000,
+    "guid": "0b0e8336b8806994409313390467085e"
+  },
+  {
+    "node": "LoopVerticalScrollRect",
+    "field": "m_Script",
+    "source": "Scripts/LoopScrollRect.Runtime/UnityEngine/UI/LoopVerticalScrollRect.cs",
+    "fileID": 11500000,
+    "guid": "c0467acf10a7d1a8e81912a9a7988750"
+  },
+  {
+    "node": "LoopVerticalScrollRect",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindNode.cs",
+    "fileID": 11500000,
+    "guid": "072e7948e256c9f2f705dbcb3d2bf116"
+  },
+  {
+    "node": "LoopVerticalScrollRect",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "fileID": 11500000,
+    "guid": "3cf5a44414476512e00c3e7a2569a919"
+  },
+  {
+    "node": "Viewport",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/RectMask2D.cs",
+    "fileID": 11500000,
+    "guid": "69dacd7a039c12e90cde90bbae65247a"
+  },
+  {
+    "node": "Content",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/ContentSizeFitter.cs",
+    "fileID": 11500000,
+    "guid": "21c7954052da7655d96bff866c2b7662"
+  },
+  {
+    "node": "Content",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/GridLayoutGroup.cs",
+    "fileID": 11500000,
+    "guid": "8ffc7d923b31b10e81b381e1325ae677"
+  },
+  {
+    "node": "Pool",
+    "field": "m_Script",
+    "source": "Scripts/LoopScrollRect.Runtime/UnityEngine/UI/LoopViewPool.cs",
+    "fileID": 11500000,
+    "guid": "c9aa04183fd3cf4e6e3e547a802333f1"
+  },
+  {
+    "node": "Pool",
+    "field": "item",
+    "source": "AssetRes/UIPrefabs/Item/IllustrationItem.prefab",
+    "fileID": 1709254077376921,
+    "guid": "f4ddaeadbf89cc64498bc4cc39d5ddd9"
+  }
+]

@@ -1,0 +1,1181 @@
+{
+  "rows": 418,
+  "unique_fish_ids": 386,
+  "unique_levels": 418,
+  "duplicates": {
+    "183": [
+      {
+        "LevelID": 216,
+        "CollectFish": 183,
+        "CollectFishName_Localization": "金蓝鳍",
+        "Quality": 2
+      },
+      {
+        "LevelID": 264,
+        "CollectFish": 183,
+        "CollectFishName_Localization": "金蓝鳍",
+        "Quality": 2
+      }
+    ],
+    "184": [
+      {
+        "LevelID": 218,
+        "CollectFish": 184,
+        "CollectFishName_Localization": "棕白纹",
+        "Quality": 2
+      },
+      {
+        "LevelID": 266,
+        "CollectFish": 184,
+        "CollectFishName_Localization": "棕白纹",
+        "Quality": 2
+      }
+    ],
+    "185": [
+      {
+        "LevelID": 220,
+        "CollectFish": 185,
+        "CollectFishName_Localization": "红蓝纹",
+        "Quality": 2
+      },
+      {
+        "LevelID": 268,
+        "CollectFish": 185,
+        "CollectFishName_Localization": "红蓝纹",
+        "Quality": 2
+      }
+    ],
+    "363": [
+      {
+        "LevelID": 270,
+        "CollectFish": 363,
+        "CollectFishName_Localization": "宝冠鱼",
+        "Quality": 2
+      },
+      {
+        "LevelID": 576,
+        "CollectFish": 363,
+        "CollectFishName_Localization": "宝冠鱼",
+        "Quality": 2
+      }
+    ],
+    "367": [
+      {
+        "LevelID": 272,
+        "CollectFish": 367,
+        "CollectFishName_Localization": "白发鱼",
+        "Quality": 2
+      },
+      {
+        "LevelID": 578,
+        "CollectFish": 367,
+        "CollectFishName_Localization": "白发鱼",
+        "Quality": 2
+      }
+    ],
+    "368": [
+      {
+        "LevelID": 274,
+        "CollectFish": 368,
+        "CollectFishName_Localization": "紫琉鱼",
+        "Quality": 2
+      },
+      {
+        "LevelID": 580,
+        "CollectFish": 368,
+        "CollectFishName_Localization": "紫琉鱼",
+        "Quality": 2
+      }
+    ],
+    "369": [
+      {
+        "LevelID": 276,
+        "CollectFish": 369,
+        "CollectFishName_Localization": "胭紫绯",
+        "Quality": 2
+      },
+      {
+        "LevelID": 582,
+        "CollectFish": 369,
+        "CollectFishName_Localization": "胭紫绯",
+        "Quality": 2
+      }
+    ],
+    "371": [
+      {
+        "LevelID": 278,
+        "CollectFish": 371,
+        "CollectFishName_Localization": "碧瑶鳞",
+        "Quality": 2
+      },
+      {
+        "LevelID": 585,
+        "CollectFish": 371,
+        "CollectFishName_Localization": "碧瑶鳞",
+        "Quality": 2
+      }
+    ],
+    "372": [
+      {
+        "LevelID": 280,
+        "CollectFish": 372,
+        "CollectFishName_Localization": "翠紫琉",
+        "Quality": 2
+      },
+      {
+        "LevelID": 586,
+        "CollectFish": 372,
+        "CollectFishName_Localization": "翠紫琉",
+        "Quality": 2
+      }
+    ],
+    "373": [
+      {
+        "LevelID": 282,
+        "CollectFish": 373,
+        "CollectFishName_Localization": "赤盔鱼",
+        "Quality": 2
+      },
+      {
+        "LevelID": 588,
+        "CollectFish": 373,
+        "CollectFishName_Localization": "赤盔鱼",
+        "Quality": 2
+      }
+    ],
+    "149": [
+      {
+        "LevelID": 288,
+        "CollectFish": 149,
+        "CollectFishName_Localization": "青宝石",
+        "Quality": 1
+      },
+      {
+        "LevelID": 358,
+        "CollectFish": 149,
+        "CollectFishName_Localization": "青宝石",
+        "Quality": 1
+      }
+    ],
+    "152": [
+      {
+        "LevelID": 290,
+        "CollectFish": 152,
+        "CollectFishName_Localization": "青圆鱼",
+        "Quality": 1
+      },
+      {
+        "LevelID": 361,
+        "CollectFish": 152,
+        "CollectFishName_Localization": "青圆鱼",
+        "Quality": 1
+      }
+    ],
+    "153": [
+      {
+        "LevelID": 292,
+        "CollectFish": 153,
+        "CollectFishName_Localization": "橙红宝",
+        "Quality": 1
+      },
+      {
+        "LevelID": 362,
+        "CollectFish": 153,
+        "CollectFishName_Localization": "橙红宝",
+        "Quality": 1
+      }
+    ],
+    "155": [
+      {
+        "LevelID": 294,
+        "CollectFish": 155,
+        "CollectFishName_Localization": "红纹宝",
+        "Quality": 1
+      },
+      {
+        "LevelID": 364,
+        "CollectFish": 155,
+        "CollectFishName_Localization": "红纹宝",
+        "Quality": 1
+      }
+    ],
+    "157": [
+      {
+        "LevelID": 296,
+        "CollectFish": 157,
+        "CollectFishName_Localization": "金圆宝",
+        "Quality": 1
+      },
+      {
+        "LevelID": 366,
+        "CollectFish": 157,
+        "CollectFishName_Localization": "金圆宝",
+        "Quality": 1
+      }
+    ],
+    "158": [
+      {
+        "LevelID": 298,
+        "CollectFish": 158,
+        "CollectFishName_Localization": "红金鳍",
+        "Quality": 1
+      },
+      {
+        "LevelID": 368,
+        "CollectFish": 158,
+        "CollectFishName_Localization": "红金鳍",
+        "Quality": 1
+      }
+    ],
+    "160": [
+      {
+        "LevelID": 300,
+        "CollectFish": 160,
+        "CollectFishName_Localization": "蓝纹胖",
+        "Quality": 1
+      },
+      {
+        "LevelID": 370,
+        "CollectFish": 160,
+        "CollectFishName_Localization": "蓝纹胖",
+        "Quality": 1
+      }
+    ],
+    "161": [
+      {
+        "LevelID": 302,
+        "CollectFish": 161,
+        "CollectFishName_Localization": "蓝金宝",
+        "Quality": 1
+      },
+      {
+        "LevelID": 372,
+        "CollectFish": 161,
+        "CollectFishName_Localization": "蓝金宝",
+        "Quality": 1
+      }
+    ],
+    "163": [
+      {
+        "LevelID": 304,
+        "CollectFish": 163,
+        "CollectFishName_Localization": "蓝金胖",
+        "Quality": 1
+      },
+      {
+        "LevelID": 374,
+        "CollectFish": 163,
+        "CollectFishName_Localization": "蓝金胖",
+        "Quality": 1
+      }
+    ],
+    "166": [
+      {
+        "LevelID": 308,
+        "CollectFish": 166,
+        "CollectFishName_Localization": "青金斑",
+        "Quality": 1
+      },
+      {
+        "LevelID": 378,
+        "CollectFish": 166,
+        "CollectFishName_Localization": "青金斑",
+        "Quality": 1
+      }
+    ],
+    "169": [
+      {
+        "LevelID": 310,
+        "CollectFish": 169,
+        "CollectFishName_Localization": "蓝白宝",
+        "Quality": 1
+      },
+      {
+        "LevelID": 380,
+        "CollectFish": 169,
+        "CollectFishName_Localization": "蓝白宝",
+        "Quality": 1
+      }
+    ],
+    "170": [
+      {
+        "LevelID": 312,
+        "CollectFish": 170,
+        "CollectFishName_Localization": "蓝白鱼",
+        "Quality": 1
+      },
+      {
+        "LevelID": 382,
+        "CollectFish": 170,
+        "CollectFishName_Localization": "蓝白鱼",
+        "Quality": 1
+      }
+    ],
+    "172": [
+      {
+        "LevelID": 314,
+        "CollectFish": 172,
+        "CollectFishName_Localization": "蓝金纹",
+        "Quality": 1
+      },
+      {
+        "LevelID": 384,
+        "CollectFish": 172,
+        "CollectFishName_Localization": "蓝金纹",
+        "Quality": 1
+      }
+    ],
+    "176": [
+      {
+        "LevelID": 316,
+        "CollectFish": 176,
+        "CollectFishName_Localization": "红金纹",
+        "Quality": 1
+      },
+      {
+        "LevelID": 386,
+        "CollectFish": 176,
+        "CollectFishName_Localization": "红金纹",
+        "Quality": 1
+      }
+    ],
+    "178": [
+      {
+        "LevelID": 318,
+        "CollectFish": 178,
+        "CollectFishName_Localization": "粉红鳍",
+        "Quality": 1
+      },
+      {
+        "LevelID": 388,
+        "CollectFish": 178,
+        "CollectFishName_Localization": "粉红鳍",
+        "Quality": 1
+      }
+    ],
+    "186": [
+      {
+        "LevelID": 320,
+        "CollectFish": 186,
+        "CollectFishName_Localization": "橙棕鱼",
+        "Quality": 1
+      },
+      {
+        "LevelID": 390,
+        "CollectFish": 186,
+        "CollectFishName_Localization": "橙棕鱼",
+        "Quality": 1
+      }
+    ],
+    "187": [
+      {
+        "LevelID": 322,
+        "CollectFish": 187,
+        "CollectFishName_Localization": "橙黑纹",
+        "Quality": 1
+      },
+      {
+        "LevelID": 392,
+        "CollectFish": 187,
+        "CollectFishName_Localization": "橙黑纹",
+        "Quality": 1
+      }
+    ],
+    "190": [
+      {
+        "LevelID": 324,
+        "CollectFish": 190,
+        "CollectFishName_Localization": "青白鱼",
+        "Quality": 1
+      },
+      {
+        "LevelID": 394,
+        "CollectFish": 190,
+        "CollectFishName_Localization": "青白鱼",
+        "Quality": 1
+      }
+    ],
+    "191": [
+      {
+        "LevelID": 326,
+        "CollectFish": 191,
+        "CollectFishName_Localization": "红蓝鳍",
+        "Quality": 1
+      },
+      {
+        "LevelID": 396,
+        "CollectFish": 191,
+        "CollectFishName_Localization": "红蓝鳍",
+        "Quality": 1
+      }
+    ],
+    "239": [
+      {
+        "LevelID": 334,
+        "CollectFish": 239,
+        "CollectFishName_Localization": "金汐鱼",
+        "Quality": 2
+      },
+      {
+        "LevelID": 730,
+        "CollectFish": 239,
+        "CollectFishName_Localization": "金汐鱼",
+        "Quality": 4
+      }
+    ],
+    "165": [
+      {
+        "LevelID": 376,
+        "CollectFish": 165,
+        "CollectFishName_Localization": "蓝圆鳍",
+        "Quality": 1
+      },
+      {
+        "LevelID": 734,
+        "CollectFish": 165,
+        "CollectFishName_Localization": "蓝圆鳍",
+        "Quality": 1
+      }
+    ],
+    "374": [
+      {
+        "LevelID": 402,
+        "CollectFish": 374,
+        "CollectFishName_Localization": "胭绯朵",
+        "Quality": 2
+      },
+      {
+        "LevelID": 590,
+        "CollectFish": 374,
+        "CollectFishName_Localization": "胭绯朵",
+        "Quality": 2
+      }
+    ]
+  },
+  "quality": [
+    {
+      "quality": 1,
+      "rows": 220,
+      "unique_fish_ids": 200,
+      "min_level": 1,
+      "max_level": 740,
+      "max_gap": 50,
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        23,
+        24,
+        27,
+        28,
+        29,
+        30,
+        32,
+        61,
+        62,
+        65,
+        66,
+        68,
+        69,
+        70,
+        72,
+        73,
+        74,
+        77,
+        78,
+        80,
+        81,
+        82,
+        84,
+        85,
+        86,
+        88,
+        90,
+        122,
+        124,
+        126,
+        128,
+        130,
+        132,
+        133,
+        134,
+        136,
+        137,
+        138,
+        140,
+        141,
+        142,
+        144,
+        146,
+        148,
+        150,
+        152,
+        153,
+        154,
+        156,
+        157,
+        158,
+        160,
+        177,
+        178,
+        180,
+        182,
+        184,
+        185,
+        186,
+        188,
+        190,
+        192,
+        196,
+        198,
+        200,
+        202,
+        204,
+        206,
+        208,
+        210,
+        212,
+        240,
+        242,
+        244,
+        246,
+        248,
+        250,
+        252,
+        254,
+        257,
+        258,
+        288,
+        290,
+        292,
+        294,
+        296,
+        298,
+        300,
+        302,
+        304,
+        308,
+        310,
+        312,
+        314,
+        316,
+        318,
+        320,
+        322,
+        324,
+        326,
+        358,
+        361,
+        362,
+        364,
+        366,
+        368,
+        370,
+        372,
+        374,
+        376,
+        378,
+        380,
+        382,
+        384,
+        386,
+        388,
+        390,
+        392,
+        394,
+        396,
+        446,
+        448,
+        450,
+        452,
+        454,
+        456,
+        458,
+        460,
+        462,
+        464,
+        466,
+        468,
+        470,
+        472,
+        474,
+        476,
+        478,
+        480,
+        482,
+        484,
+        534,
+        536,
+        538,
+        540,
+        542,
+        544,
+        546,
+        548,
+        550,
+        552,
+        554,
+        556,
+        558,
+        560,
+        562,
+        564,
+        566,
+        568,
+        570,
+        573,
+        598,
+        601,
+        602,
+        605,
+        606,
+        608,
+        628,
+        630,
+        632,
+        634,
+        636,
+        653,
+        654,
+        657,
+        658,
+        660,
+        664,
+        666,
+        668,
+        670,
+        676,
+        678,
+        682,
+        685,
+        688,
+        690,
+        692,
+        698,
+        700,
+        702,
+        704,
+        706,
+        708,
+        710,
+        712,
+        714,
+        716,
+        732,
+        734,
+        736,
+        738,
+        740
+      ]
+    },
+    {
+      "quality": 2,
+      "rows": 149,
+      "unique_fish_ids": 138,
+      "min_level": 33,
+      "max_level": 752,
+      "max_gap": 72,
+      "levels": [
+        33,
+        35,
+        36,
+        38,
+        39,
+        40,
+        42,
+        43,
+        44,
+        45,
+        47,
+        49,
+        50,
+        52,
+        53,
+        54,
+        56,
+        57,
+        58,
+        93,
+        94,
+        96,
+        98,
+        100,
+        101,
+        102,
+        104,
+        105,
+        108,
+        109,
+        110,
+        112,
+        113,
+        114,
+        116,
+        117,
+        118,
+        120,
+        161,
+        162,
+        164,
+        165,
+        166,
+        168,
+        169,
+        170,
+        172,
+        173,
+        216,
+        218,
+        220,
+        224,
+        226,
+        228,
+        230,
+        232,
+        234,
+        236,
+        264,
+        266,
+        268,
+        270,
+        272,
+        274,
+        276,
+        278,
+        280,
+        282,
+        284,
+        330,
+        332,
+        334,
+        336,
+        338,
+        340,
+        342,
+        344,
+        346,
+        348,
+        400,
+        402,
+        404,
+        406,
+        408,
+        410,
+        412,
+        414,
+        416,
+        418,
+        420,
+        422,
+        424,
+        426,
+        428,
+        430,
+        432,
+        434,
+        436,
+        438,
+        490,
+        492,
+        494,
+        496,
+        498,
+        500,
+        502,
+        504,
+        506,
+        508,
+        510,
+        512,
+        514,
+        516,
+        518,
+        520,
+        522,
+        524,
+        526,
+        528,
+        576,
+        578,
+        580,
+        582,
+        585,
+        586,
+        588,
+        590,
+        612,
+        614,
+        617,
+        618,
+        620,
+        622,
+        624,
+        641,
+        642,
+        645,
+        646,
+        648,
+        720,
+        722,
+        724,
+        726,
+        728,
+        744,
+        746,
+        748,
+        750,
+        752
+      ]
+    },
+    {
+      "quality": 3,
+      "rows": 25,
+      "unique_fish_ids": 25,
+      "min_level": 12,
+      "max_level": 718,
+      "max_gap": 90,
+      "levels": [
+        12,
+        48,
+        92,
+        106,
+        121,
+        174,
+        194,
+        260,
+        262,
+        352,
+        354,
+        442,
+        444,
+        486,
+        488,
+        530,
+        532,
+        594,
+        597,
+        638,
+        650,
+        662,
+        686,
+        694,
+        718
+      ]
+    },
+    {
+      "quality": 4,
+      "rows": 19,
+      "unique_fish_ids": 19,
+      "min_level": 20,
+      "max_level": 754,
+      "max_gap": 153,
+      "levels": [
+        20,
+        60,
+        76,
+        145,
+        176,
+        214,
+        238,
+        286,
+        306,
+        328,
+        350,
+        356,
+        440,
+        593,
+        610,
+        674,
+        730,
+        742,
+        754
+      ]
+    },
+    {
+      "quality": 5,
+      "rows": 5,
+      "unique_fish_ids": 5,
+      "min_level": 25,
+      "max_level": 626,
+      "max_gap": 197,
+      "levels": [
+        25,
+        222,
+        398,
+        574,
+        626
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "current_level": 1,
+      "unlocked_rows": 0,
+      "unique_fish_ids": 0,
+      "by_quality": {}
+    },
+    {
+      "current_level": 4,
+      "unlocked_rows": 3,
+      "unique_fish_ids": 3,
+      "by_quality": {
+        "1": 3
+      }
+    },
+    {
+      "current_level": 5,
+      "unlocked_rows": 4,
+      "unique_fish_ids": 4,
+      "by_quality": {
+        "1": 4
+      }
+    },
+    {
+      "current_level": 12,
+      "unlocked_rows": 10,
+      "unique_fish_ids": 10,
+      "by_quality": {
+        "1": 10
+      }
+    },
+    {
+      "current_level": 13,
+      "unlocked_rows": 11,
+      "unique_fish_ids": 11,
+      "by_quality": {
+        "1": 10,
+        "3": 1
+      }
+    },
+    {
+      "current_level": 20,
+      "unlocked_rows": 18,
+      "unique_fish_ids": 18,
+      "by_quality": {
+        "1": 17,
+        "3": 1
+      }
+    },
+    {
+      "current_level": 21,
+      "unlocked_rows": 19,
+      "unique_fish_ids": 19,
+      "by_quality": {
+        "1": 17,
+        "3": 1,
+        "4": 1
+      }
+    },
+    {
+      "current_level": 25,
+      "unlocked_rows": 22,
+      "unique_fish_ids": 22,
+      "by_quality": {
+        "1": 20,
+        "3": 1,
+        "4": 1
+      }
+    },
+    {
+      "current_level": 26,
+      "unlocked_rows": 23,
+      "unique_fish_ids": 23,
+      "by_quality": {
+        "1": 20,
+        "3": 1,
+        "4": 1,
+        "5": 1
+      }
+    },
+    {
+      "current_level": 33,
+      "unlocked_rows": 28,
+      "unique_fish_ids": 28,
+      "by_quality": {
+        "1": 25,
+        "3": 1,
+        "4": 1,
+        "5": 1
+      }
+    },
+    {
+      "current_level": 34,
+      "unlocked_rows": 29,
+      "unique_fish_ids": 29,
+      "by_quality": {
+        "1": 25,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "2": 1
+      }
+    },
+    {
+      "current_level": 50,
+      "unlocked_rows": 41,
+      "unique_fish_ids": 41,
+      "by_quality": {
+        "1": 25,
+        "3": 2,
+        "4": 1,
+        "5": 1,
+        "2": 12
+      }
+    },
+    {
+      "current_level": 100,
+      "unlocked_rows": 75,
+      "unique_fish_ids": 75,
+      "by_quality": {
+        "1": 45,
+        "3": 3,
+        "4": 3,
+        "5": 1,
+        "2": 23
+      }
+    },
+    {
+      "current_level": 200,
+      "unlocked_rows": 143,
+      "unique_fish_ids": 143,
+      "by_quality": {
+        "1": 82,
+        "3": 7,
+        "4": 5,
+        "5": 1,
+        "2": 48
+      }
+    },
+    {
+      "current_level": 400,
+      "unlocked_rows": 243,
+      "unique_fish_ids": 221,
+      "by_quality": {
+        "1": 138,
+        "3": 11,
+        "4": 12,
+        "5": 3,
+        "2": 79
+      }
+    },
+    {
+      "current_level": 627,
+      "unlocked_rows": 357,
+      "unique_fish_ids": 327,
+      "by_quality": {
+        "1": 184,
+        "3": 19,
+        "4": 15,
+        "5": 5,
+        "2": 134
+      }
+    },
+    {
+      "current_level": 754,
+      "unlocked_rows": 417,
+      "unique_fish_ids": 385,
+      "by_quality": {
+        "1": 220,
+        "3": 25,
+        "4": 18,
+        "5": 5,
+        "2": 149
+      }
+    },
+    {
+      "current_level": 755,
+      "unlocked_rows": 418,
+      "unique_fish_ids": 386,
+      "by_quality": {
+        "1": 220,
+        "3": 25,
+        "4": 19,
+        "5": 5,
+        "2": 149
+      }
+    },
+    {
+      "current_level": 1301,
+      "unlocked_rows": 418,
+      "unique_fish_ids": 386,
+      "by_quality": {
+        "1": 220,
+        "3": 25,
+        "4": 19,
+        "5": 5,
+        "2": 149
+      }
+    }
+  ],
+  "source_sha256": "42607071711b6a0397adbca94970583b79abffd3a8e8a4c8ecbb136d9fce8f37",
+  "density": [
+    {
+      "from": 1,
+      "to": 50,
+      "rows": 42
+    },
+    {
+      "from": 51,
+      "to": 100,
+      "rows": 34
+    },
+    {
+      "from": 101,
+      "to": 200,
+      "rows": 68
+    },
+    {
+      "from": 201,
+      "to": 300,
+      "rows": 50
+    },
+    {
+      "from": 301,
+      "to": 400,
+      "rows": 50
+    },
+    {
+      "from": 401,
+      "to": 500,
+      "rows": 50
+    },
+    {
+      "from": 501,
+      "to": 600,
+      "rows": 49
+    },
+    {
+      "from": 601,
+      "to": 700,
+      "rows": 48
+    },
+    {
+      "from": 701,
+      "to": 754,
+      "rows": 27
+    },
+    {
+      "from": 755,
+      "to": 1300,
+      "rows": 0
+    }
+  ],
+  "cross_quality_duplicates": [
+    239
+  ]
+}

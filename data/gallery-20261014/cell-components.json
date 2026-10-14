@@ -1,0 +1,176 @@
+[
+  {
+    "node": "Bg",
+    "fileID": 114336590748365959,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  },
+  {
+    "node": "Tank",
+    "fileID": 114470112387431263,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  },
+  {
+    "node": "Bg",
+    "fileID": 114632457200066912,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  },
+  {
+    "node": "SpineFish",
+    "fileID": 114969106005120503,
+    "script": "Scripts/spine-unity/Spine/Unity/SkeletonGraphic.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  },
+  {
+    "node": "ImgFish",
+    "fileID": 114918264173551851,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "properties": {
+      "m_Color": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      }
+    }
+  },
+  {
+    "node": "Lock",
+    "fileID": 114694121525821480,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  },
+  {
+    "node": "Img",
+    "fileID": 114217368724061974,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  },
+  {
+    "node": "TmpTextDec",
+    "fileID": 114808113985169905,
+    "script": "Scripts/Unity.TextMeshPro/TMPro/TextMeshProUGUI.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "m_text": "名字",
+      "m_fontSize": 35,
+      "m_fontSizeBase": 30,
+      "m_enableAutoSizing": 1,
+      "m_fontSizeMin": 18,
+      "m_fontSizeMax": 35,
+      "m_fontColor": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "m_fontColor32": {
+        "serializedVersion": 2,
+        "rgba": 4294967295
+      },
+      "m_HorizontalAlignment": 2,
+      "m_VerticalAlignment": 512
+    }
+  },
+  {
+    "node": "Spine1",
+    "fileID": 114518489005915545,
+    "script": "Scripts/spine-unity/Spine/Unity/SkeletonGraphic.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  },
+  {
+    "node": "Spine2",
+    "fileID": 114291844617409189,
+    "script": "Scripts/spine-unity/Spine/Unity/SkeletonGraphic.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  },
+  {
+    "node": "Spine3",
+    "fileID": 114833703512093738,
+    "script": "Scripts/spine-unity/Spine/Unity/SkeletonGraphic.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  },
+  {
+    "node": "Spine4",
+    "fileID": 114436073260064126,
+    "script": "Scripts/spine-unity/Spine/Unity/SkeletonGraphic.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "node": "Image",
+    "fileID": 114969106005120503,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  },
+  {
+    "node": "Bg",
+    "fileID": 114918264173551851,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  },
+  {
+    "node": "Up",
+    "fileID": 114371939378208658,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  },
+  {
+    "node": "Txt",
+    "fileID": 114017697238300914,
+    "script": "Scripts/Unity.TextMeshPro/TMPro/TextMeshProUGUI.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "m_text": "图鉴",
+      "m_fontSize": 120,
+      "m_fontSizeBase": 120,
+      "m_enableAutoSizing": 1,
+      "m_fontSizeMin": 18,
+      "m_fontSizeMax": 120,
+      "m_fontColor": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "m_fontColor32": {
+        "serializedVersion": 2,
+        "rgba": 4294967295
+      },
+      "m_HorizontalAlignment": 2,
+      "m_VerticalAlignment": 512
+    }
+  },
+  {
+    "node": "BtnClose",
+    "fileID": 114672306508523268,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  },
+  {
+    "node": "BtnClose",
+    "fileID": 114808113985169905,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Button.cs",
+    "properties": {
+      "m_Interactable": 1
+    }
+  },
+  {
+    "node": "Tab",
+    "fileID": 114518489005915545,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  },
+  {
+    "node": "Tab",
+    "fileID": 114220653531496868,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/HorizontalLayoutGroup.cs",
+    "properties": {
+      "m_Spacing": 0,
+      "m_Padding": {
+        "m_Left": 0,
+        "m_Right": 0,
+        "m_Top": 0,
+        "m_Bottom": 0
+      }
+    }
+  },
+  {
+    "node": "TabSelect",
+    "fileID": 114291844617409189,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  },
+  {
+    "node": "BtnTab1",
+    "fileID": 114719342369648492,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Button.cs",
+    "properties": {
+      "m_Interactable": 1
+    }
+  },
+  {
+    "node": "Txt",
+    "fileID": 114693329660128220,
+    "script": "Scripts/Unity.TextMeshPro/TMPro/TextMeshProUGUI.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "m_text": "普通",
+      "m_fontSize": 50,
+      "m_fontSizeBase": 36,
+      "m_enableAutoSizing": 1,
+      "m_fontSizeMin": 18,
+      "m_fontSizeMax": 50,
+      "m_fontColor": {
+        "r": 0.07450981,
+        "g": 0.32156864,
+        "b": 0.47058827,
+        "a": 1
+      },
+      "m_fontColor32": {
+        "serializedVersion": 2,
+        "rgba": 4286075411
+      },
+      "m_HorizontalAlignment": 2,
+      "m_VerticalAlignment": 512
+    }
+  },
+  {
+    "node": "BtnTab2",
+    "fileID": 114581786255902400,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Button.cs",
+    "properties": {
+      "m_Interactable": 1
+    }
+  },
+  {
+    "node": "Txt",
+    "fileID": 114722951815217645,
+    "script": "Scripts/Unity.TextMeshPro/TMPro/TextMeshProUGUI.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "m_text": "优秀",
+      "m_fontSize": 50,
+      "m_fontSizeBase": 36,
+      "m_enableAutoSizing": 1,
+      "m_fontSizeMin": 18,
+      "m_fontSizeMax": 50,
+      "m_fontColor": {
+        "r": 0.07450981,
+        "g": 0.32156864,
+        "b": 0.47058827,
+        "a": 1
+      },
+      "m_fontColor32": {
+        "serializedVersion": 2,
+        "rgba": 4286075411
+      },
+      "m_HorizontalAlignment": 2,
+      "m_VerticalAlignment": 512
+    }
+  },
+  {
+    "node": "BtnTab3",
+    "fileID": 114743393880019028,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Button.cs",
+    "properties": {
+      "m_Interactable": 1
+    }
+  },
+  {
+    "node": "Txt",
+    "fileID": 114572839542275309,
+    "script": "Scripts/Unity.TextMeshPro/TMPro/TextMeshProUGUI.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "m_text": "稀有",
+      "m_fontSize": 50,
+      "m_fontSizeBase": 36,
+      "m_enableAutoSizing": 1,
+      "m_fontSizeMin": 18,
+      "m_fontSizeMax": 50,
+      "m_fontColor": {
+        "r": 0.07450981,
+        "g": 0.32156864,
+        "b": 0.47058827,
+        "a": 1
+      },
+      "m_fontColor32": {
+        "serializedVersion": 2,
+        "rgba": 4286075411
+      },
+      "m_HorizontalAlignment": 2,
+      "m_VerticalAlignment": 512
+    }
+  },
+  {
+    "node": "BtnTab4",
+    "fileID": 114693062532245359,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Button.cs",
+    "properties": {
+      "m_Interactable": 1
+    }
+  },
+  {
+    "node": "Txt",
+    "fileID": 114574304967836189,
+    "script": "Scripts/Unity.TextMeshPro/TMPro/TextMeshProUGUI.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "m_text": "史诗",
+      "m_fontSize": 50,
+      "m_fontSizeBase": 36,
+      "m_enableAutoSizing": 1,
+      "m_fontSizeMin": 18,
+      "m_fontSizeMax": 50,
+      "m_fontColor": {
+        "r": 0.07450981,
+        "g": 0.32156864,
+        "b": 0.47058827,
+        "a": 1
+      },
+      "m_fontColor32": {
+        "serializedVersion": 2,
+        "rgba": 4286075411
+      },
+      "m_HorizontalAlignment": 2,
+      "m_VerticalAlignment": 512
+    }
+  },
+  {
+    "node": "BtnTab5",
+    "fileID": 114574190619683098,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Button.cs",
+    "properties": {
+      "m_Interactable": 1
+    }
+  },
+  {
+    "node": "Txt",
+    "fileID": 114534704304255049,
+    "script": "Scripts/Unity.TextMeshPro/TMPro/TextMeshProUGUI.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "m_text": "传奇",
+      "m_fontSize": 50,
+      "m_fontSizeBase": 36,
+      "m_enableAutoSizing": 1,
+      "m_fontSizeMin": 18,
+      "m_fontSizeMax": 50,
+      "m_fontColor": {
+        "r": 0.07450981,
+        "g": 0.32156864,
+        "b": 0.47058827,
+        "a": 1
+      },
+      "m_fontColor32": {
+        "serializedVersion": 2,
+        "rgba": 4286075411
+      },
+      "m_HorizontalAlignment": 2,
+      "m_VerticalAlignment": 512
+    }
+  },
+  {
+    "node": "LoopVerticalScrollRect",
+    "fileID": 114208575754630950,
+    "script": "Scripts/LoopScrollRect.Runtime/UnityEngine/UI/LoopVerticalScrollRect.cs",
+    "properties": {
+      "m_Content": {
+        "fileID": 224499726237547504
+      },
+      "m_Viewport": {
+        "fileID": 224699617135816954
+      },
+      "m_Elasticity": 0.1,
+      "m_DecelerationRate": 0.135
+    }
+  },
+  {
+    "node": "LoopVerticalScrollRect",
+    "fileID": 114976365255789935,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "properties": {
+      "m_Color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 0
+      }
+    }
+  },
+  {
+    "node": "Viewport",
+    "fileID": 114264357844037074,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/RectMask2D.cs",
+    "properties": {
+      "m_Padding": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 0
+      }
+    }
+  },
+  {
+    "node": "Content",
+    "fileID": 114703931505913403,
+    "script": "Scripts/UnityEngine.UI/UnityEngine/UI/GridLayoutGroup.cs",
+    "properties": {
+      "m_Spacing": {
+        "x": 50,
+        "y": 80
+      },
+      "m_Padding": {
+        "m_Left": 40,
+        "m_Right": 0,
+        "m_Top": 0,
+        "m_Bottom": 100
+      },
+      "m_Constraint": 1,
+      "m_ConstraintCount": 3,
+      "m_CellSize": {
+        "x": 300,
+        "y": 300
+      }
+    }
+  }
+]

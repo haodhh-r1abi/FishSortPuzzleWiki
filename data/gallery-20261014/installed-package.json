@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-14",
+  "package": "triple.sorting.bubble.fish.match",
+  "version_name": "1.4111",
+  "version_code": 14111,
+  "base_apk_sha256": "060f518a7ad4ff653827398a0dbe1f750df5dc49eb19d59e35373d39c8dd6f91",
+  "split_apk_sha256": {
+    "arm64_v8a": "58457cd29530ebe1810129d925048932c4ca6536ff25177f56a1f5c392b590ea",
+    "vi": "951d15cde57cb810fbd851b729ff347f85ba83f6be04db96866e989c1bf1d5b6",
+    "xxhdpi": "b849c0c157ab30aa46faa5d863cc33daf1788c179c11eb8387a47f2dd96362a2"
+  },
+  "export_matches": true,
+  "note": "SHA-256 all four installed APKs read through ADB match export manifest; no claim that remote content is unchanged."
+}

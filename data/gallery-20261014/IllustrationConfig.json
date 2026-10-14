@@ -1,0 +1,2510 @@
+[
+  {
+    "LevelID": 1,
+    "CollectFish": 1,
+    "CollectFishName_Localization": "小粉豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 2,
+    "CollectFish": 2,
+    "CollectFishName_Localization": "金鳞仔",
+    "Quality": 1
+  },
+  {
+    "LevelID": 3,
+    "CollectFish": 3,
+    "CollectFishName_Localization": "黄纹宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 4,
+    "CollectFish": 4,
+    "CollectFishName_Localization": "蓝纹蝶",
+    "Quality": 1
+  },
+  {
+    "LevelID": 5,
+    "CollectFish": 5,
+    "CollectFishName_Localization": "圆滚滚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 6,
+    "CollectFish": 6,
+    "CollectFishName_Localization": "紫电鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 7,
+    "CollectFish": 7,
+    "CollectFishName_Localization": "绿泡泡",
+    "Quality": 1
+  },
+  {
+    "LevelID": 8,
+    "CollectFish": 8,
+    "CollectFishName_Localization": "黄盖仔",
+    "Quality": 1
+  },
+  {
+    "LevelID": 9,
+    "CollectFish": 9,
+    "CollectFishName_Localization": "橙纹宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 10,
+    "CollectFish": 11,
+    "CollectFishName_Localization": "金斑点",
+    "Quality": 1
+  },
+  {
+    "LevelID": 12,
+    "CollectFish": 31,
+    "CollectFishName_Localization": "红尾蝶",
+    "Quality": 3
+  },
+  {
+    "LevelID": 13,
+    "CollectFish": 12,
+    "CollectFishName_Localization": "粉紫灵",
+    "Quality": 1
+  },
+  {
+    "LevelID": 14,
+    "CollectFish": 13,
+    "CollectFishName_Localization": "蓝闪蝶",
+    "Quality": 1
+  },
+  {
+    "LevelID": 15,
+    "CollectFish": 14,
+    "CollectFishName_Localization": "银线鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 16,
+    "CollectFish": 16,
+    "CollectFishName_Localization": "绿鳍仔",
+    "Quality": 1
+  },
+  {
+    "LevelID": 17,
+    "CollectFish": 17,
+    "CollectFishName_Localization": "彩尾蝶",
+    "Quality": 1
+  },
+  {
+    "LevelID": 18,
+    "CollectFish": 23,
+    "CollectFishName_Localization": "紫灵鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 19,
+    "CollectFish": 25,
+    "CollectFishName_Localization": "绿斑宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 20,
+    "CollectFish": 58,
+    "CollectFishName_Localization": "小鲸宝",
+    "Quality": 4
+  },
+  {
+    "LevelID": 21,
+    "CollectFish": 26,
+    "CollectFishName_Localization": "紫纹兽",
+    "Quality": 1
+  },
+  {
+    "LevelID": 23,
+    "CollectFish": 27,
+    "CollectFishName_Localization": "棕纹条",
+    "Quality": 1
+  },
+  {
+    "LevelID": 24,
+    "CollectFish": 28,
+    "CollectFishName_Localization": "蓝条鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 25,
+    "CollectFish": 132,
+    "CollectFishName_Localization": "蓝肚豚",
+    "Quality": 5
+  },
+  {
+    "LevelID": 27,
+    "CollectFish": 30,
+    "CollectFishName_Localization": "蓝宝鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 28,
+    "CollectFish": 33,
+    "CollectFishName_Localization": "蓝鳍宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 29,
+    "CollectFish": 35,
+    "CollectFishName_Localization": "橙条鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 30,
+    "CollectFish": 36,
+    "CollectFishName_Localization": "蓝圆宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 32,
+    "CollectFish": 37,
+    "CollectFishName_Localization": "绿圆宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 33,
+    "CollectFish": 10,
+    "CollectFishName_Localization": "红纹蝶",
+    "Quality": 2
+  },
+  {
+    "LevelID": 35,
+    "CollectFish": 15,
+    "CollectFishName_Localization": "小黄宝",
+    "Quality": 2
+  },
+  {
+    "LevelID": 36,
+    "CollectFish": 18,
+    "CollectFishName_Localization": "粉纹鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 38,
+    "CollectFish": 19,
+    "CollectFishName_Localization": "彩条鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 39,
+    "CollectFish": 20,
+    "CollectFishName_Localization": "蓝胖墩",
+    "Quality": 2
+  },
+  {
+    "LevelID": 40,
+    "CollectFish": 21,
+    "CollectFishName_Localization": "黄金宝",
+    "Quality": 2
+  },
+  {
+    "LevelID": 42,
+    "CollectFish": 22,
+    "CollectFishName_Localization": "黄蓝宝",
+    "Quality": 2
+  },
+  {
+    "LevelID": 43,
+    "CollectFish": 24,
+    "CollectFishName_Localization": "紫纹蝶",
+    "Quality": 2
+  },
+  {
+    "LevelID": 44,
+    "CollectFish": 29,
+    "CollectFishName_Localization": "红焰鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 45,
+    "CollectFish": 32,
+    "CollectFishName_Localization": "黑白豚",
+    "Quality": 2
+  },
+  {
+    "LevelID": 47,
+    "CollectFish": 34,
+    "CollectFishName_Localization": "粉泡泡",
+    "Quality": 2
+  },
+  {
+    "LevelID": 48,
+    "CollectFish": 323,
+    "CollectFishName_Localization": "蓝粉帽",
+    "Quality": 3
+  },
+  {
+    "LevelID": 49,
+    "CollectFish": 49,
+    "CollectFishName_Localization": "紫条鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 50,
+    "CollectFish": 66,
+    "CollectFishName_Localization": "海螺宝",
+    "Quality": 2
+  },
+  {
+    "LevelID": 52,
+    "CollectFish": 68,
+    "CollectFishName_Localization": "珊瑚灵",
+    "Quality": 2
+  },
+  {
+    "LevelID": 53,
+    "CollectFish": 73,
+    "CollectFishName_Localization": "红焰宝",
+    "Quality": 2
+  },
+  {
+    "LevelID": 54,
+    "CollectFish": 76,
+    "CollectFishName_Localization": "紫纹蝶",
+    "Quality": 2
+  },
+  {
+    "LevelID": 56,
+    "CollectFish": 77,
+    "CollectFishName_Localization": "蓝纹条",
+    "Quality": 2
+  },
+  {
+    "LevelID": 57,
+    "CollectFish": 86,
+    "CollectFishName_Localization": "彩条鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 58,
+    "CollectFish": 88,
+    "CollectFishName_Localization": "小红帆",
+    "Quality": 2
+  },
+  {
+    "LevelID": 60,
+    "CollectFish": 133,
+    "CollectFishName_Localization": "尖牙鲨",
+    "Quality": 4
+  },
+  {
+    "LevelID": 61,
+    "CollectFish": 38,
+    "CollectFishName_Localization": "绿条纹",
+    "Quality": 1
+  },
+  {
+    "LevelID": 62,
+    "CollectFish": 39,
+    "CollectFishName_Localization": "蓝圆鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 65,
+    "CollectFish": 40,
+    "CollectFishName_Localization": "蓝胖宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 66,
+    "CollectFish": 42,
+    "CollectFishName_Localization": "蓝条宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 68,
+    "CollectFish": 43,
+    "CollectFishName_Localization": "蓝泡泡",
+    "Quality": 1
+  },
+  {
+    "LevelID": 69,
+    "CollectFish": 44,
+    "CollectFishName_Localization": "绿圆仔",
+    "Quality": 1
+  },
+  {
+    "LevelID": 70,
+    "CollectFish": 45,
+    "CollectFishName_Localization": "橙胖宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 72,
+    "CollectFish": 46,
+    "CollectFishName_Localization": "粉胖宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 73,
+    "CollectFish": 47,
+    "CollectFishName_Localization": "黄胖墩",
+    "Quality": 1
+  },
+  {
+    "LevelID": 74,
+    "CollectFish": 50,
+    "CollectFishName_Localization": "黄蓝鲨",
+    "Quality": 1
+  },
+  {
+    "LevelID": 76,
+    "CollectFish": 59,
+    "CollectFishName_Localization": "小蓝鲨",
+    "Quality": 4
+  },
+  {
+    "LevelID": 77,
+    "CollectFish": 242,
+    "CollectFishName_Localization": "金涟豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 78,
+    "CollectFish": 243,
+    "CollectFishName_Localization": "赤焰鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 80,
+    "CollectFish": 245,
+    "CollectFishName_Localization": "蓝白怪",
+    "Quality": 1
+  },
+  {
+    "LevelID": 81,
+    "CollectFish": 246,
+    "CollectFishName_Localization": "深海橙",
+    "Quality": 1
+  },
+  {
+    "LevelID": 82,
+    "CollectFish": 247,
+    "CollectFishName_Localization": "暖光斑",
+    "Quality": 1
+  },
+  {
+    "LevelID": 84,
+    "CollectFish": 249,
+    "CollectFishName_Localization": "金纹鳞",
+    "Quality": 1
+  },
+  {
+    "LevelID": 85,
+    "CollectFish": 251,
+    "CollectFishName_Localization": "紫月鳞",
+    "Quality": 1
+  },
+  {
+    "LevelID": 86,
+    "CollectFish": 252,
+    "CollectFishName_Localization": "紫晶豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 88,
+    "CollectFish": 254,
+    "CollectFishName_Localization": "绯紫怪",
+    "Quality": 1
+  },
+  {
+    "LevelID": 90,
+    "CollectFish": 255,
+    "CollectFishName_Localization": "橙焰丸",
+    "Quality": 1
+  },
+  {
+    "LevelID": 92,
+    "CollectFish": 41,
+    "CollectFishName_Localization": "橙胖墩",
+    "Quality": 3
+  },
+  {
+    "LevelID": 93,
+    "CollectFish": 89,
+    "CollectFishName_Localization": "尖嘴蓝",
+    "Quality": 2
+  },
+  {
+    "LevelID": 94,
+    "CollectFish": 93,
+    "CollectFishName_Localization": "墨蓝鳍",
+    "Quality": 2
+  },
+  {
+    "LevelID": 96,
+    "CollectFish": 97,
+    "CollectFishName_Localization": "粉嘟嘟",
+    "Quality": 2
+  },
+  {
+    "LevelID": 98,
+    "CollectFish": 99,
+    "CollectFishName_Localization": "蓝星鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 100,
+    "CollectFish": 102,
+    "CollectFishName_Localization": "粉橙宝",
+    "Quality": 2
+  },
+  {
+    "LevelID": 101,
+    "CollectFish": 107,
+    "CollectFishName_Localization": "紫尾蝶",
+    "Quality": 2
+  },
+  {
+    "LevelID": 102,
+    "CollectFish": 109,
+    "CollectFishName_Localization": "蓝金帆",
+    "Quality": 2
+  },
+  {
+    "LevelID": 104,
+    "CollectFish": 111,
+    "CollectFishName_Localization": "红细条",
+    "Quality": 2
+  },
+  {
+    "LevelID": 105,
+    "CollectFish": 112,
+    "CollectFishName_Localization": "红大鳍",
+    "Quality": 2
+  },
+  {
+    "LevelID": 106,
+    "CollectFish": 324,
+    "CollectFishName_Localization": "木桶宝",
+    "Quality": 3
+  },
+  {
+    "LevelID": 108,
+    "CollectFish": 127,
+    "CollectFishName_Localization": "青鳞仔",
+    "Quality": 2
+  },
+  {
+    "LevelID": 109,
+    "CollectFish": 140,
+    "CollectFishName_Localization": "绿眉鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 110,
+    "CollectFish": 147,
+    "CollectFishName_Localization": "粉圆球",
+    "Quality": 2
+  },
+  {
+    "LevelID": 112,
+    "CollectFish": 148,
+    "CollectFishName_Localization": "紫光球",
+    "Quality": 2
+  },
+  {
+    "LevelID": 113,
+    "CollectFish": 150,
+    "CollectFishName_Localization": "火焰鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 114,
+    "CollectFish": 151,
+    "CollectFishName_Localization": "青鳍宝",
+    "Quality": 2
+  },
+  {
+    "LevelID": 116,
+    "CollectFish": 154,
+    "CollectFishName_Localization": "金焰鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 117,
+    "CollectFish": 156,
+    "CollectFishName_Localization": "金纹鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 118,
+    "CollectFish": 162,
+    "CollectFishName_Localization": "蓝红鳍",
+    "Quality": 2
+  },
+  {
+    "LevelID": 120,
+    "CollectFish": 164,
+    "CollectFishName_Localization": "蓝金脊",
+    "Quality": 2
+  },
+  {
+    "LevelID": 121,
+    "CollectFish": 51,
+    "CollectFishName_Localization": "彩尾鱼",
+    "Quality": 3
+  },
+  {
+    "LevelID": 122,
+    "CollectFish": 54,
+    "CollectFishName_Localization": "蓝鳍鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 124,
+    "CollectFish": 60,
+    "CollectFishName_Localization": "绿胖宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 126,
+    "CollectFish": 61,
+    "CollectFishName_Localization": "蓝条鲨",
+    "Quality": 1
+  },
+  {
+    "LevelID": 128,
+    "CollectFish": 71,
+    "CollectFishName_Localization": "蓝白鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 130,
+    "CollectFish": 72,
+    "CollectFishName_Localization": "绿纹鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 132,
+    "CollectFish": 74,
+    "CollectFishName_Localization": "深蓝宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 133,
+    "CollectFish": 75,
+    "CollectFishName_Localization": "赤金斑",
+    "Quality": 1
+  },
+  {
+    "LevelID": 134,
+    "CollectFish": 78,
+    "CollectFishName_Localization": "紫圆宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 136,
+    "CollectFish": 79,
+    "CollectFishName_Localization": "蓝剑鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 137,
+    "CollectFish": 80,
+    "CollectFishName_Localization": "银条鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 138,
+    "CollectFish": 81,
+    "CollectFishName_Localization": "蓝胖鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 140,
+    "CollectFish": 82,
+    "CollectFishName_Localization": "银头鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 141,
+    "CollectFish": 83,
+    "CollectFishName_Localization": "紫胖宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 142,
+    "CollectFish": 84,
+    "CollectFishName_Localization": "紫尾鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 144,
+    "CollectFish": 85,
+    "CollectFishName_Localization": "蓝胖鲨",
+    "Quality": 1
+  },
+  {
+    "LevelID": 145,
+    "CollectFish": 57,
+    "CollectFishName_Localization": "水母灵",
+    "Quality": 4
+  },
+  {
+    "LevelID": 146,
+    "CollectFish": 87,
+    "CollectFishName_Localization": "黄嘴鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 148,
+    "CollectFish": 90,
+    "CollectFishName_Localization": "绿顶仙",
+    "Quality": 1
+  },
+  {
+    "LevelID": 150,
+    "CollectFish": 91,
+    "CollectFishName_Localization": "青纹斑",
+    "Quality": 1
+  },
+  {
+    "LevelID": 152,
+    "CollectFish": 92,
+    "CollectFishName_Localization": "翠尾蝶",
+    "Quality": 1
+  },
+  {
+    "LevelID": 153,
+    "CollectFish": 94,
+    "CollectFishName_Localization": "青鳞宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 154,
+    "CollectFish": 95,
+    "CollectFishName_Localization": "圆绿仔",
+    "Quality": 1
+  },
+  {
+    "LevelID": 156,
+    "CollectFish": 96,
+    "CollectFishName_Localization": "绿纹豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 157,
+    "CollectFish": 98,
+    "CollectFishName_Localization": "紫纹鳞",
+    "Quality": 1
+  },
+  {
+    "LevelID": 158,
+    "CollectFish": 100,
+    "CollectFishName_Localization": "深紫胖",
+    "Quality": 1
+  },
+  {
+    "LevelID": 160,
+    "CollectFish": 101,
+    "CollectFishName_Localization": "紫纹条",
+    "Quality": 1
+  },
+  {
+    "LevelID": 161,
+    "CollectFish": 167,
+    "CollectFishName_Localization": "蓝白纹",
+    "Quality": 2
+  },
+  {
+    "LevelID": 162,
+    "CollectFish": 168,
+    "CollectFishName_Localization": "金蓝纹",
+    "Quality": 2
+  },
+  {
+    "LevelID": 164,
+    "CollectFish": 171,
+    "CollectFishName_Localization": "蓝金鳍",
+    "Quality": 2
+  },
+  {
+    "LevelID": 165,
+    "CollectFish": 173,
+    "CollectFishName_Localization": "红白纹",
+    "Quality": 2
+  },
+  {
+    "LevelID": 166,
+    "CollectFish": 174,
+    "CollectFishName_Localization": "金红纹",
+    "Quality": 2
+  },
+  {
+    "LevelID": 168,
+    "CollectFish": 175,
+    "CollectFishName_Localization": "金红鳍",
+    "Quality": 2
+  },
+  {
+    "LevelID": 169,
+    "CollectFish": 177,
+    "CollectFishName_Localization": "橙金鳍",
+    "Quality": 2
+  },
+  {
+    "LevelID": 170,
+    "CollectFish": 179,
+    "CollectFishName_Localization": "金红宝",
+    "Quality": 2
+  },
+  {
+    "LevelID": 172,
+    "CollectFish": 180,
+    "CollectFishName_Localization": "红纹宝",
+    "Quality": 2
+  },
+  {
+    "LevelID": 173,
+    "CollectFish": 181,
+    "CollectFishName_Localization": "蓝金鳍",
+    "Quality": 2
+  },
+  {
+    "LevelID": 174,
+    "CollectFish": 52,
+    "CollectFishName_Localization": "粉鳍鱼",
+    "Quality": 3
+  },
+  {
+    "LevelID": 176,
+    "CollectFish": 67,
+    "CollectFishName_Localization": "绿龟宝",
+    "Quality": 4
+  },
+  {
+    "LevelID": 177,
+    "CollectFish": 103,
+    "CollectFishName_Localization": "紫白条",
+    "Quality": 1
+  },
+  {
+    "LevelID": 178,
+    "CollectFish": 104,
+    "CollectFishName_Localization": "粉圆宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 180,
+    "CollectFish": 105,
+    "CollectFishName_Localization": "紫圆胖",
+    "Quality": 1
+  },
+  {
+    "LevelID": 182,
+    "CollectFish": 106,
+    "CollectFishName_Localization": "紫白纹",
+    "Quality": 1
+  },
+  {
+    "LevelID": 184,
+    "CollectFish": 108,
+    "CollectFishName_Localization": "红灯泡",
+    "Quality": 1
+  },
+  {
+    "LevelID": 185,
+    "CollectFish": 110,
+    "CollectFishName_Localization": "绿皮球",
+    "Quality": 1
+  },
+  {
+    "LevelID": 186,
+    "CollectFish": 113,
+    "CollectFishName_Localization": "粉红纹",
+    "Quality": 1
+  },
+  {
+    "LevelID": 188,
+    "CollectFish": 114,
+    "CollectFishName_Localization": "玫红胖",
+    "Quality": 1
+  },
+  {
+    "LevelID": 190,
+    "CollectFish": 115,
+    "CollectFishName_Localization": "红白条",
+    "Quality": 1
+  },
+  {
+    "LevelID": 192,
+    "CollectFish": 116,
+    "CollectFishName_Localization": "粉红鳍",
+    "Quality": 1
+  },
+  {
+    "LevelID": 194,
+    "CollectFish": 389,
+    "CollectFishName_Localization": "木乃伊",
+    "Quality": 3
+  },
+  {
+    "LevelID": 196,
+    "CollectFish": 118,
+    "CollectFishName_Localization": "橙圆仔",
+    "Quality": 1
+  },
+  {
+    "LevelID": 198,
+    "CollectFish": 119,
+    "CollectFishName_Localization": "小黄灵",
+    "Quality": 1
+  },
+  {
+    "LevelID": 200,
+    "CollectFish": 120,
+    "CollectFishName_Localization": "黄纹蝶",
+    "Quality": 1
+  },
+  {
+    "LevelID": 202,
+    "CollectFish": 121,
+    "CollectFishName_Localization": "黄睡宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 204,
+    "CollectFish": 122,
+    "CollectFishName_Localization": "樱粉鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 206,
+    "CollectFish": 123,
+    "CollectFishName_Localization": "黄黑条",
+    "Quality": 1
+  },
+  {
+    "LevelID": 208,
+    "CollectFish": 124,
+    "CollectFishName_Localization": "棕纹胖",
+    "Quality": 1
+  },
+  {
+    "LevelID": 210,
+    "CollectFish": 125,
+    "CollectFishName_Localization": "金蓝顶",
+    "Quality": 1
+  },
+  {
+    "LevelID": 212,
+    "CollectFish": 128,
+    "CollectFishName_Localization": "绿纹胖",
+    "Quality": 1
+  },
+  {
+    "LevelID": 214,
+    "CollectFish": 129,
+    "CollectFishName_Localization": "蓝白鲸",
+    "Quality": 4
+  },
+  {
+    "LevelID": 216,
+    "CollectFish": 183,
+    "CollectFishName_Localization": "金蓝鳍",
+    "Quality": 2
+  },
+  {
+    "LevelID": 218,
+    "CollectFish": 184,
+    "CollectFishName_Localization": "棕白纹",
+    "Quality": 2
+  },
+  {
+    "LevelID": 220,
+    "CollectFish": 185,
+    "CollectFishName_Localization": "红蓝纹",
+    "Quality": 2
+  },
+  {
+    "LevelID": 222,
+    "CollectFish": 70,
+    "CollectFishName_Localization": "彩泡泡",
+    "Quality": 5
+  },
+  {
+    "LevelID": 224,
+    "CollectFish": 188,
+    "CollectFishName_Localization": "蓝红鳍",
+    "Quality": 2
+  },
+  {
+    "LevelID": 226,
+    "CollectFish": 189,
+    "CollectFishName_Localization": "黄黑纹",
+    "Quality": 2
+  },
+  {
+    "LevelID": 228,
+    "CollectFish": 194,
+    "CollectFishName_Localization": "红蓝豚",
+    "Quality": 2
+  },
+  {
+    "LevelID": 230,
+    "CollectFish": 195,
+    "CollectFishName_Localization": "玫红丸",
+    "Quality": 2
+  },
+  {
+    "LevelID": 232,
+    "CollectFish": 197,
+    "CollectFishName_Localization": "橙小胖",
+    "Quality": 2
+  },
+  {
+    "LevelID": 234,
+    "CollectFish": 198,
+    "CollectFishName_Localization": "彩虹鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 236,
+    "CollectFish": 220,
+    "CollectFishName_Localization": "渐变紫",
+    "Quality": 2
+  },
+  {
+    "LevelID": 238,
+    "CollectFish": 130,
+    "CollectFishName_Localization": "圆胖鲸",
+    "Quality": 4
+  },
+  {
+    "LevelID": 240,
+    "CollectFish": 136,
+    "CollectFishName_Localization": "棕背鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 242,
+    "CollectFish": 137,
+    "CollectFishName_Localization": "蓝圆鳍",
+    "Quality": 1
+  },
+  {
+    "LevelID": 244,
+    "CollectFish": 138,
+    "CollectFishName_Localization": "绿橙宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 246,
+    "CollectFish": 139,
+    "CollectFishName_Localization": "蓝脸鲨",
+    "Quality": 1
+  },
+  {
+    "LevelID": 248,
+    "CollectFish": 141,
+    "CollectFishName_Localization": "红胖鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 250,
+    "CollectFish": 142,
+    "CollectFishName_Localization": "青纹宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 252,
+    "CollectFish": 143,
+    "CollectFishName_Localization": "蓝白鲨",
+    "Quality": 1
+  },
+  {
+    "LevelID": 254,
+    "CollectFish": 144,
+    "CollectFishName_Localization": "蓝纹宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 257,
+    "CollectFish": 145,
+    "CollectFishName_Localization": "红纹鲨",
+    "Quality": 1
+  },
+  {
+    "LevelID": 258,
+    "CollectFish": 146,
+    "CollectFishName_Localization": "蓝圆宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 260,
+    "CollectFish": 53,
+    "CollectFishName_Localization": "海星宝",
+    "Quality": 3
+  },
+  {
+    "LevelID": 262,
+    "CollectFish": 55,
+    "CollectFishName_Localization": "八爪仔",
+    "Quality": 3
+  },
+  {
+    "LevelID": 264,
+    "CollectFish": 183,
+    "CollectFishName_Localization": "金蓝鳍",
+    "Quality": 2
+  },
+  {
+    "LevelID": 266,
+    "CollectFish": 184,
+    "CollectFishName_Localization": "棕白纹",
+    "Quality": 2
+  },
+  {
+    "LevelID": 268,
+    "CollectFish": 185,
+    "CollectFishName_Localization": "红蓝纹",
+    "Quality": 2
+  },
+  {
+    "LevelID": 270,
+    "CollectFish": 363,
+    "CollectFishName_Localization": "宝冠鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 272,
+    "CollectFish": 367,
+    "CollectFishName_Localization": "白发鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 274,
+    "CollectFish": 368,
+    "CollectFishName_Localization": "紫琉鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 276,
+    "CollectFish": 369,
+    "CollectFishName_Localization": "胭紫绯",
+    "Quality": 2
+  },
+  {
+    "LevelID": 278,
+    "CollectFish": 371,
+    "CollectFishName_Localization": "碧瑶鳞",
+    "Quality": 2
+  },
+  {
+    "LevelID": 280,
+    "CollectFish": 372,
+    "CollectFishName_Localization": "翠紫琉",
+    "Quality": 2
+  },
+  {
+    "LevelID": 282,
+    "CollectFish": 373,
+    "CollectFishName_Localization": "赤盔鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 284,
+    "CollectFish": 226,
+    "CollectFishName_Localization": "紫影鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 286,
+    "CollectFish": 134,
+    "CollectFishName_Localization": "紫海马",
+    "Quality": 4
+  },
+  {
+    "LevelID": 288,
+    "CollectFish": 149,
+    "CollectFishName_Localization": "青宝石",
+    "Quality": 1
+  },
+  {
+    "LevelID": 290,
+    "CollectFish": 152,
+    "CollectFishName_Localization": "青圆鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 292,
+    "CollectFish": 153,
+    "CollectFishName_Localization": "橙红宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 294,
+    "CollectFish": 155,
+    "CollectFishName_Localization": "红纹宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 296,
+    "CollectFish": 157,
+    "CollectFishName_Localization": "金圆宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 298,
+    "CollectFish": 158,
+    "CollectFishName_Localization": "红金鳍",
+    "Quality": 1
+  },
+  {
+    "LevelID": 300,
+    "CollectFish": 160,
+    "CollectFishName_Localization": "蓝纹胖",
+    "Quality": 1
+  },
+  {
+    "LevelID": 302,
+    "CollectFish": 161,
+    "CollectFishName_Localization": "蓝金宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 304,
+    "CollectFish": 163,
+    "CollectFishName_Localization": "蓝金胖",
+    "Quality": 1
+  },
+  {
+    "LevelID": 306,
+    "CollectFish": 395,
+    "CollectFishName_Localization": "小丑鱼",
+    "Quality": 4
+  },
+  {
+    "LevelID": 308,
+    "CollectFish": 166,
+    "CollectFishName_Localization": "青金斑",
+    "Quality": 1
+  },
+  {
+    "LevelID": 310,
+    "CollectFish": 169,
+    "CollectFishName_Localization": "蓝白宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 312,
+    "CollectFish": 170,
+    "CollectFishName_Localization": "蓝白鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 314,
+    "CollectFish": 172,
+    "CollectFishName_Localization": "蓝金纹",
+    "Quality": 1
+  },
+  {
+    "LevelID": 316,
+    "CollectFish": 176,
+    "CollectFishName_Localization": "红金纹",
+    "Quality": 1
+  },
+  {
+    "LevelID": 318,
+    "CollectFish": 178,
+    "CollectFishName_Localization": "粉红鳍",
+    "Quality": 1
+  },
+  {
+    "LevelID": 320,
+    "CollectFish": 186,
+    "CollectFishName_Localization": "橙棕鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 322,
+    "CollectFish": 187,
+    "CollectFishName_Localization": "橙黑纹",
+    "Quality": 1
+  },
+  {
+    "LevelID": 324,
+    "CollectFish": 190,
+    "CollectFishName_Localization": "青白鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 326,
+    "CollectFish": 191,
+    "CollectFishName_Localization": "红蓝鳍",
+    "Quality": 1
+  },
+  {
+    "LevelID": 328,
+    "CollectFish": 135,
+    "CollectFishName_Localization": "粉吻豚",
+    "Quality": 4
+  },
+  {
+    "LevelID": 330,
+    "CollectFish": 227,
+    "CollectFishName_Localization": "浅汐鳞",
+    "Quality": 2
+  },
+  {
+    "LevelID": 332,
+    "CollectFish": 228,
+    "CollectFishName_Localization": "紫涟纹",
+    "Quality": 2
+  },
+  {
+    "LevelID": 334,
+    "CollectFish": 239,
+    "CollectFishName_Localization": "金汐鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 336,
+    "CollectFish": 244,
+    "CollectFishName_Localization": "云澜鳞",
+    "Quality": 2
+  },
+  {
+    "LevelID": 338,
+    "CollectFish": 248,
+    "CollectFishName_Localization": "灯笼焰",
+    "Quality": 2
+  },
+  {
+    "LevelID": 340,
+    "CollectFish": 250,
+    "CollectFishName_Localization": "赤心波",
+    "Quality": 2
+  },
+  {
+    "LevelID": 342,
+    "CollectFish": 253,
+    "CollectFishName_Localization": "紫幽波",
+    "Quality": 2
+  },
+  {
+    "LevelID": 344,
+    "CollectFish": 263,
+    "CollectFishName_Localization": "绿虹波",
+    "Quality": 2
+  },
+  {
+    "LevelID": 346,
+    "CollectFish": 265,
+    "CollectFishName_Localization": "蓝霓汐",
+    "Quality": 2
+  },
+  {
+    "LevelID": 348,
+    "CollectFish": 267,
+    "CollectFishName_Localization": "紫虹涟",
+    "Quality": 2
+  },
+  {
+    "LevelID": 350,
+    "CollectFish": 310,
+    "CollectFishName_Localization": "蓝珊瑚",
+    "Quality": 4
+  },
+  {
+    "LevelID": 352,
+    "CollectFish": 56,
+    "CollectFishName_Localization": "海马宝",
+    "Quality": 3
+  },
+  {
+    "LevelID": 354,
+    "CollectFish": 62,
+    "CollectFishName_Localization": "寄居蟹",
+    "Quality": 3
+  },
+  {
+    "LevelID": 356,
+    "CollectFish": 311,
+    "CollectFishName_Localization": "粉珍珠",
+    "Quality": 4
+  },
+  {
+    "LevelID": 358,
+    "CollectFish": 149,
+    "CollectFishName_Localization": "青宝石",
+    "Quality": 1
+  },
+  {
+    "LevelID": 361,
+    "CollectFish": 152,
+    "CollectFishName_Localization": "青圆鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 362,
+    "CollectFish": 153,
+    "CollectFishName_Localization": "橙红宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 364,
+    "CollectFish": 155,
+    "CollectFishName_Localization": "红纹宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 366,
+    "CollectFish": 157,
+    "CollectFishName_Localization": "金圆宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 368,
+    "CollectFish": 158,
+    "CollectFishName_Localization": "红金鳍",
+    "Quality": 1
+  },
+  {
+    "LevelID": 370,
+    "CollectFish": 160,
+    "CollectFishName_Localization": "蓝纹胖",
+    "Quality": 1
+  },
+  {
+    "LevelID": 372,
+    "CollectFish": 161,
+    "CollectFishName_Localization": "蓝金宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 374,
+    "CollectFish": 163,
+    "CollectFishName_Localization": "蓝金胖",
+    "Quality": 1
+  },
+  {
+    "LevelID": 376,
+    "CollectFish": 165,
+    "CollectFishName_Localization": "蓝圆鳍",
+    "Quality": 1
+  },
+  {
+    "LevelID": 378,
+    "CollectFish": 166,
+    "CollectFishName_Localization": "青金斑",
+    "Quality": 1
+  },
+  {
+    "LevelID": 380,
+    "CollectFish": 169,
+    "CollectFishName_Localization": "蓝白宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 382,
+    "CollectFish": 170,
+    "CollectFishName_Localization": "蓝白鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 384,
+    "CollectFish": 172,
+    "CollectFishName_Localization": "蓝金纹",
+    "Quality": 1
+  },
+  {
+    "LevelID": 386,
+    "CollectFish": 176,
+    "CollectFishName_Localization": "红金纹",
+    "Quality": 1
+  },
+  {
+    "LevelID": 388,
+    "CollectFish": 178,
+    "CollectFishName_Localization": "粉红鳍",
+    "Quality": 1
+  },
+  {
+    "LevelID": 390,
+    "CollectFish": 186,
+    "CollectFishName_Localization": "橙棕鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 392,
+    "CollectFish": 187,
+    "CollectFishName_Localization": "橙黑纹",
+    "Quality": 1
+  },
+  {
+    "LevelID": 394,
+    "CollectFish": 190,
+    "CollectFishName_Localization": "青白鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 396,
+    "CollectFish": 191,
+    "CollectFishName_Localization": "红蓝鳍",
+    "Quality": 1
+  },
+  {
+    "LevelID": 398,
+    "CollectFish": 69,
+    "CollectFishName_Localization": "潜水艇",
+    "Quality": 5
+  },
+  {
+    "LevelID": 400,
+    "CollectFish": 387,
+    "CollectFishName_Localization": "翡翠鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 402,
+    "CollectFish": 374,
+    "CollectFishName_Localization": "胭绯朵",
+    "Quality": 2
+  },
+  {
+    "LevelID": 404,
+    "CollectFish": 377,
+    "CollectFishName_Localization": "青碧绯",
+    "Quality": 2
+  },
+  {
+    "LevelID": 406,
+    "CollectFish": 378,
+    "CollectFishName_Localization": "玫冠鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 408,
+    "CollectFish": 379,
+    "CollectFishName_Localization": "探险鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 410,
+    "CollectFish": 381,
+    "CollectFishName_Localization": "紫冠鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 412,
+    "CollectFish": 382,
+    "CollectFishName_Localization": "翠卷蓝",
+    "Quality": 2
+  },
+  {
+    "LevelID": 414,
+    "CollectFish": 383,
+    "CollectFishName_Localization": "蓝须鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 416,
+    "CollectFish": 384,
+    "CollectFishName_Localization": "赤胭斑",
+    "Quality": 2
+  },
+  {
+    "LevelID": 418,
+    "CollectFish": 388,
+    "CollectFishName_Localization": "橙宝鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 420,
+    "CollectFish": 268,
+    "CollectFishName_Localization": "绯云汐",
+    "Quality": 2
+  },
+  {
+    "LevelID": 422,
+    "CollectFish": 269,
+    "CollectFishName_Localization": "焰橙岚",
+    "Quality": 2
+  },
+  {
+    "LevelID": 424,
+    "CollectFish": 273,
+    "CollectFishName_Localization": "幻紫澜",
+    "Quality": 2
+  },
+  {
+    "LevelID": 426,
+    "CollectFish": 274,
+    "CollectFishName_Localization": "粉霓角",
+    "Quality": 2
+  },
+  {
+    "LevelID": 428,
+    "CollectFish": 278,
+    "CollectFishName_Localization": "金紫涟",
+    "Quality": 2
+  },
+  {
+    "LevelID": 430,
+    "CollectFish": 280,
+    "CollectFishName_Localization": "虹彩汐",
+    "Quality": 2
+  },
+  {
+    "LevelID": 432,
+    "CollectFish": 283,
+    "CollectFishName_Localization": "青柠晴",
+    "Quality": 2
+  },
+  {
+    "LevelID": 434,
+    "CollectFish": 288,
+    "CollectFishName_Localization": "浅蓝角",
+    "Quality": 2
+  },
+  {
+    "LevelID": 436,
+    "CollectFish": 290,
+    "CollectFishName_Localization": "灯笼紫",
+    "Quality": 2
+  },
+  {
+    "LevelID": 438,
+    "CollectFish": 291,
+    "CollectFishName_Localization": "粉紫丸",
+    "Quality": 2
+  },
+  {
+    "LevelID": 440,
+    "CollectFish": 312,
+    "CollectFishName_Localization": "白珍珠",
+    "Quality": 4
+  },
+  {
+    "LevelID": 442,
+    "CollectFish": 63,
+    "CollectFishName_Localization": "红钳蟹",
+    "Quality": 3
+  },
+  {
+    "LevelID": 444,
+    "CollectFish": 64,
+    "CollectFishName_Localization": "红壳蟹",
+    "Quality": 3
+  },
+  {
+    "LevelID": 446,
+    "CollectFish": 192,
+    "CollectFishName_Localization": "青泡泡",
+    "Quality": 1
+  },
+  {
+    "LevelID": 448,
+    "CollectFish": 193,
+    "CollectFishName_Localization": "冰蓝丸",
+    "Quality": 1
+  },
+  {
+    "LevelID": 450,
+    "CollectFish": 196,
+    "CollectFishName_Localization": "橙鳍鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 452,
+    "CollectFish": 199,
+    "CollectFishName_Localization": "青柠鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 454,
+    "CollectFish": 200,
+    "CollectFishName_Localization": "黄蓝仔",
+    "Quality": 1
+  },
+  {
+    "LevelID": 456,
+    "CollectFish": 201,
+    "CollectFishName_Localization": "红泡泡",
+    "Quality": 1
+  },
+  {
+    "LevelID": 458,
+    "CollectFish": 202,
+    "CollectFishName_Localization": "红紫丸",
+    "Quality": 1
+  },
+  {
+    "LevelID": 460,
+    "CollectFish": 203,
+    "CollectFishName_Localization": "小黄豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 462,
+    "CollectFish": 205,
+    "CollectFishName_Localization": "冰蓝豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 464,
+    "CollectFish": 206,
+    "CollectFishName_Localization": "天蓝蓝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 466,
+    "CollectFish": 207,
+    "CollectFishName_Localization": "海蓝丸",
+    "Quality": 1
+  },
+  {
+    "LevelID": 468,
+    "CollectFish": 208,
+    "CollectFishName_Localization": "橘小胖",
+    "Quality": 1
+  },
+  {
+    "LevelID": 470,
+    "CollectFish": 209,
+    "CollectFishName_Localization": "蓝点点",
+    "Quality": 1
+  },
+  {
+    "LevelID": 472,
+    "CollectFish": 210,
+    "CollectFishName_Localization": "花斑鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 474,
+    "CollectFish": 211,
+    "CollectFishName_Localization": "冰纹丸",
+    "Quality": 1
+  },
+  {
+    "LevelID": 476,
+    "CollectFish": 212,
+    "CollectFishName_Localization": "橙焰鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 478,
+    "CollectFish": 213,
+    "CollectFishName_Localization": "深海蓝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 480,
+    "CollectFish": 214,
+    "CollectFishName_Localization": "天蓝豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 482,
+    "CollectFish": 215,
+    "CollectFishName_Localization": "灯笼怪",
+    "Quality": 1
+  },
+  {
+    "LevelID": 484,
+    "CollectFish": 216,
+    "CollectFishName_Localization": "紫斑鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 486,
+    "CollectFish": 182,
+    "CollectFishName_Localization": "蓝白纹",
+    "Quality": 3
+  },
+  {
+    "LevelID": 488,
+    "CollectFish": 204,
+    "CollectFishName_Localization": "紫灯笼",
+    "Quality": 3
+  },
+  {
+    "LevelID": 490,
+    "CollectFish": 292,
+    "CollectFishName_Localization": "金泡泡",
+    "Quality": 2
+  },
+  {
+    "LevelID": 492,
+    "CollectFish": 298,
+    "CollectFishName_Localization": "青柠豚",
+    "Quality": 2
+  },
+  {
+    "LevelID": 494,
+    "CollectFish": 299,
+    "CollectFishName_Localization": "黄蓝丸",
+    "Quality": 2
+  },
+  {
+    "LevelID": 496,
+    "CollectFish": 309,
+    "CollectFishName_Localization": "黄蓝豚",
+    "Quality": 2
+  },
+  {
+    "LevelID": 498,
+    "CollectFish": 327,
+    "CollectFishName_Localization": "冰鳍鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 500,
+    "CollectFish": 330,
+    "CollectFishName_Localization": "蓝晶鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 502,
+    "CollectFish": 332,
+    "CollectFishName_Localization": "橙紫豚",
+    "Quality": 2
+  },
+  {
+    "LevelID": 504,
+    "CollectFish": 333,
+    "CollectFishName_Localization": "冰蓝鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 506,
+    "CollectFish": 335,
+    "CollectFishName_Localization": "彩紫鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 508,
+    "CollectFish": 342,
+    "CollectFishName_Localization": "金纹斑",
+    "Quality": 2
+  },
+  {
+    "LevelID": 510,
+    "CollectFish": 345,
+    "CollectFishName_Localization": "紫尾煌",
+    "Quality": 2
+  },
+  {
+    "LevelID": 512,
+    "CollectFish": 347,
+    "CollectFishName_Localization": "红须仙",
+    "Quality": 2
+  },
+  {
+    "LevelID": 514,
+    "CollectFish": 348,
+    "CollectFishName_Localization": "绯霞鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 516,
+    "CollectFish": 349,
+    "CollectFishName_Localization": "黄角鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 518,
+    "CollectFish": 351,
+    "CollectFishName_Localization": "沧蓝丸",
+    "Quality": 2
+  },
+  {
+    "LevelID": 520,
+    "CollectFish": 352,
+    "CollectFishName_Localization": "赤须彤",
+    "Quality": 2
+  },
+  {
+    "LevelID": 522,
+    "CollectFish": 353,
+    "CollectFishName_Localization": "琉蓝尾",
+    "Quality": 2
+  },
+  {
+    "LevelID": 524,
+    "CollectFish": 355,
+    "CollectFishName_Localization": "翠冠金",
+    "Quality": 2
+  },
+  {
+    "LevelID": 526,
+    "CollectFish": 358,
+    "CollectFishName_Localization": "桃绯鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 528,
+    "CollectFish": 362,
+    "CollectFishName_Localization": "独角鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 530,
+    "CollectFish": 65,
+    "CollectFishName_Localization": "斑点鱿",
+    "Quality": 3
+  },
+  {
+    "LevelID": 532,
+    "CollectFish": 159,
+    "CollectFishName_Localization": "紫蓝鳍",
+    "Quality": 3
+  },
+  {
+    "LevelID": 534,
+    "CollectFish": 217,
+    "CollectFishName_Localization": "橙条纹",
+    "Quality": 1
+  },
+  {
+    "LevelID": 536,
+    "CollectFish": 218,
+    "CollectFishName_Localization": "金橙仔",
+    "Quality": 1
+  },
+  {
+    "LevelID": 538,
+    "CollectFish": 219,
+    "CollectFishName_Localization": "橘泡泡",
+    "Quality": 1
+  },
+  {
+    "LevelID": 540,
+    "CollectFish": 221,
+    "CollectFishName_Localization": "深紫仔",
+    "Quality": 1
+  },
+  {
+    "LevelID": 542,
+    "CollectFish": 222,
+    "CollectFishName_Localization": "浅绿豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 544,
+    "CollectFish": 223,
+    "CollectFishName_Localization": "深绿豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 546,
+    "CollectFish": 224,
+    "CollectFishName_Localization": "黄绿豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 548,
+    "CollectFish": 225,
+    "CollectFishName_Localization": "小蓝豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 550,
+    "CollectFish": 229,
+    "CollectFishName_Localization": "橙汐波",
+    "Quality": 1
+  },
+  {
+    "LevelID": 552,
+    "CollectFish": 230,
+    "CollectFishName_Localization": "海蓝豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 554,
+    "CollectFish": 231,
+    "CollectFishName_Localization": "赤焰鳞",
+    "Quality": 1
+  },
+  {
+    "LevelID": 556,
+    "CollectFish": 232,
+    "CollectFishName_Localization": "暖汐鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 558,
+    "CollectFish": 233,
+    "CollectFishName_Localization": "冰澜纹",
+    "Quality": 1
+  },
+  {
+    "LevelID": 560,
+    "CollectFish": 234,
+    "CollectFishName_Localization": "云涟豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 562,
+    "CollectFish": 235,
+    "CollectFishName_Localization": "金鳞汐",
+    "Quality": 1
+  },
+  {
+    "LevelID": 564,
+    "CollectFish": 236,
+    "CollectFishName_Localization": "焰波鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 566,
+    "CollectFish": 237,
+    "CollectFishName_Localization": "星海鳞",
+    "Quality": 1
+  },
+  {
+    "LevelID": 568,
+    "CollectFish": 238,
+    "CollectFishName_Localization": "赤虹豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 570,
+    "CollectFish": 240,
+    "CollectFishName_Localization": "青岚鳞",
+    "Quality": 1
+  },
+  {
+    "LevelID": 573,
+    "CollectFish": 241,
+    "CollectFishName_Localization": "橙光斑",
+    "Quality": 1
+  },
+  {
+    "LevelID": 574,
+    "CollectFish": 131,
+    "CollectFishName_Localization": "绿海马",
+    "Quality": 5
+  },
+  {
+    "LevelID": 576,
+    "CollectFish": 363,
+    "CollectFishName_Localization": "宝冠鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 578,
+    "CollectFish": 367,
+    "CollectFishName_Localization": "白发鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 580,
+    "CollectFish": 368,
+    "CollectFishName_Localization": "紫琉鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 582,
+    "CollectFish": 369,
+    "CollectFishName_Localization": "胭紫绯",
+    "Quality": 2
+  },
+  {
+    "LevelID": 585,
+    "CollectFish": 371,
+    "CollectFishName_Localization": "碧瑶鳞",
+    "Quality": 2
+  },
+  {
+    "LevelID": 586,
+    "CollectFish": 372,
+    "CollectFishName_Localization": "翠紫琉",
+    "Quality": 2
+  },
+  {
+    "LevelID": 588,
+    "CollectFish": 373,
+    "CollectFishName_Localization": "赤盔鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 590,
+    "CollectFish": 374,
+    "CollectFishName_Localization": "胭绯朵",
+    "Quality": 2
+  },
+  {
+    "LevelID": 593,
+    "CollectFish": 325,
+    "CollectFishName_Localization": "漂流瓶",
+    "Quality": 4
+  },
+  {
+    "LevelID": 594,
+    "CollectFish": 318,
+    "CollectFishName_Localization": "绿草簇",
+    "Quality": 3
+  },
+  {
+    "LevelID": 597,
+    "CollectFish": 322,
+    "CollectFishName_Localization": "金船锚",
+    "Quality": 3
+  },
+  {
+    "LevelID": 598,
+    "CollectFish": 256,
+    "CollectFishName_Localization": "金暖阳",
+    "Quality": 1
+  },
+  {
+    "LevelID": 601,
+    "CollectFish": 257,
+    "CollectFishName_Localization": "赤须波",
+    "Quality": 1
+  },
+  {
+    "LevelID": 602,
+    "CollectFish": 258,
+    "CollectFishName_Localization": "紫柔鳞",
+    "Quality": 1
+  },
+  {
+    "LevelID": 605,
+    "CollectFish": 259,
+    "CollectFishName_Localization": "黄鳍波",
+    "Quality": 1
+  },
+  {
+    "LevelID": 606,
+    "CollectFish": 260,
+    "CollectFishName_Localization": "彩尾鳞",
+    "Quality": 1
+  },
+  {
+    "LevelID": 608,
+    "CollectFish": 261,
+    "CollectFishName_Localization": "浪蓝豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 610,
+    "CollectFish": 391,
+    "CollectFishName_Localization": "红钳蟹",
+    "Quality": 4
+  },
+  {
+    "LevelID": 612,
+    "CollectFish": 48,
+    "CollectFishName_Localization": "蓝纹鲨",
+    "Quality": 2
+  },
+  {
+    "LevelID": 614,
+    "CollectFish": 126,
+    "CollectFishName_Localization": "橙纹宝",
+    "Quality": 2
+  },
+  {
+    "LevelID": 617,
+    "CollectFish": 340,
+    "CollectFishName_Localization": "紫雾豚",
+    "Quality": 2
+  },
+  {
+    "LevelID": 618,
+    "CollectFish": 341,
+    "CollectFishName_Localization": "碧海鳞",
+    "Quality": 2
+  },
+  {
+    "LevelID": 620,
+    "CollectFish": 343,
+    "CollectFishName_Localization": "青琉鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 622,
+    "CollectFish": 344,
+    "CollectFishName_Localization": "彩蓝丸",
+    "Quality": 2
+  },
+  {
+    "LevelID": 624,
+    "CollectFish": 346,
+    "CollectFishName_Localization": "赤绒鳞",
+    "Quality": 2
+  },
+  {
+    "LevelID": 626,
+    "CollectFish": 321,
+    "CollectFishName_Localization": "潜水盔",
+    "Quality": 5
+  },
+  {
+    "LevelID": 628,
+    "CollectFish": 262,
+    "CollectFishName_Localization": "独角鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 630,
+    "CollectFish": 264,
+    "CollectFishName_Localization": "蓝团团",
+    "Quality": 1
+  },
+  {
+    "LevelID": 632,
+    "CollectFish": 266,
+    "CollectFishName_Localization": "浅澜晴",
+    "Quality": 1
+  },
+  {
+    "LevelID": 634,
+    "CollectFish": 270,
+    "CollectFishName_Localization": "沧青涟",
+    "Quality": 1
+  },
+  {
+    "LevelID": 636,
+    "CollectFish": 271,
+    "CollectFishName_Localization": "深紫晴",
+    "Quality": 1
+  },
+  {
+    "LevelID": 638,
+    "CollectFish": 313,
+    "CollectFishName_Localization": "紫珊瑚",
+    "Quality": 3
+  },
+  {
+    "LevelID": 641,
+    "CollectFish": 350,
+    "CollectFishName_Localization": "斑赤瑶",
+    "Quality": 2
+  },
+  {
+    "LevelID": 642,
+    "CollectFish": 354,
+    "CollectFishName_Localization": "绯纹鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 645,
+    "CollectFish": 356,
+    "CollectFishName_Localization": "紫霞鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 646,
+    "CollectFish": 357,
+    "CollectFishName_Localization": "翠琉丸",
+    "Quality": 2
+  },
+  {
+    "LevelID": 648,
+    "CollectFish": 359,
+    "CollectFishName_Localization": "罗兰斑",
+    "Quality": 2
+  },
+  {
+    "LevelID": 650,
+    "CollectFish": 314,
+    "CollectFishName_Localization": "海螺",
+    "Quality": 3
+  },
+  {
+    "LevelID": 653,
+    "CollectFish": 272,
+    "CollectFishName_Localization": "海蓝汐",
+    "Quality": 1
+  },
+  {
+    "LevelID": 654,
+    "CollectFish": 275,
+    "CollectFishName_Localization": "青虹晴",
+    "Quality": 1
+  },
+  {
+    "LevelID": 657,
+    "CollectFish": 276,
+    "CollectFishName_Localization": "焰橙汐",
+    "Quality": 1
+  },
+  {
+    "LevelID": 658,
+    "CollectFish": 277,
+    "CollectFishName_Localization": "蓝橙岚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 660,
+    "CollectFish": 279,
+    "CollectFishName_Localization": "赤焰晴",
+    "Quality": 1
+  },
+  {
+    "LevelID": 662,
+    "CollectFish": 315,
+    "CollectFishName_Localization": "粉晶簇",
+    "Quality": 3
+  },
+  {
+    "LevelID": 664,
+    "CollectFish": 282,
+    "CollectFishName_Localization": "彩岚汐",
+    "Quality": 1
+  },
+  {
+    "LevelID": 666,
+    "CollectFish": 284,
+    "CollectFishName_Localization": "橙焰涟",
+    "Quality": 1
+  },
+  {
+    "LevelID": 668,
+    "CollectFish": 285,
+    "CollectFishName_Localization": "翠虹晴",
+    "Quality": 1
+  },
+  {
+    "LevelID": 670,
+    "CollectFish": 286,
+    "CollectFishName_Localization": "青绿涟",
+    "Quality": 1
+  },
+  {
+    "LevelID": 674,
+    "CollectFish": 392,
+    "CollectFishName_Localization": "酋长鱼",
+    "Quality": 4
+  },
+  {
+    "LevelID": 676,
+    "CollectFish": 281,
+    "CollectFishName_Localization": "粉桃鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 678,
+    "CollectFish": 287,
+    "CollectFishName_Localization": "蓝紫汐",
+    "Quality": 1
+  },
+  {
+    "LevelID": 682,
+    "CollectFish": 289,
+    "CollectFishName_Localization": "蓝兜兜",
+    "Quality": 1
+  },
+  {
+    "LevelID": 685,
+    "CollectFish": 293,
+    "CollectFishName_Localization": "浅蓝丸",
+    "Quality": 1
+  },
+  {
+    "LevelID": 686,
+    "CollectFish": 316,
+    "CollectFishName_Localization": "紫管花",
+    "Quality": 3
+  },
+  {
+    "LevelID": 688,
+    "CollectFish": 294,
+    "CollectFishName_Localization": "金点点",
+    "Quality": 1
+  },
+  {
+    "LevelID": 690,
+    "CollectFish": 295,
+    "CollectFishName_Localization": "紫蓝豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 692,
+    "CollectFish": 296,
+    "CollectFishName_Localization": "红焰丸",
+    "Quality": 1
+  },
+  {
+    "LevelID": 694,
+    "CollectFish": 317,
+    "CollectFishName_Localization": "珊瑚怪",
+    "Quality": 3
+  },
+  {
+    "LevelID": 698,
+    "CollectFish": 297,
+    "CollectFishName_Localization": "玫粉鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 700,
+    "CollectFish": 300,
+    "CollectFishName_Localization": "彩糖鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 702,
+    "CollectFish": 301,
+    "CollectFishName_Localization": "紫晶豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 704,
+    "CollectFish": 302,
+    "CollectFishName_Localization": "天蓝鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 706,
+    "CollectFish": 303,
+    "CollectFishName_Localization": "天蓝丸",
+    "Quality": 1
+  },
+  {
+    "LevelID": 708,
+    "CollectFish": 304,
+    "CollectFishName_Localization": "橙焰豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 710,
+    "CollectFish": 305,
+    "CollectFishName_Localization": "大嘴豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 712,
+    "CollectFish": 306,
+    "CollectFishName_Localization": "橙条宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 714,
+    "CollectFish": 307,
+    "CollectFishName_Localization": "金鳍丸",
+    "Quality": 1
+  },
+  {
+    "LevelID": 716,
+    "CollectFish": 308,
+    "CollectFishName_Localization": "红火鱼",
+    "Quality": 1
+  },
+  {
+    "LevelID": 718,
+    "CollectFish": 319,
+    "CollectFishName_Localization": "红珊瑚",
+    "Quality": 3
+  },
+  {
+    "LevelID": 720,
+    "CollectFish": 360,
+    "CollectFishName_Localization": "赤斑鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 722,
+    "CollectFish": 361,
+    "CollectFishName_Localization": "焰圆鳞",
+    "Quality": 2
+  },
+  {
+    "LevelID": 724,
+    "CollectFish": 364,
+    "CollectFishName_Localization": "暖橙丸",
+    "Quality": 2
+  },
+  {
+    "LevelID": 726,
+    "CollectFish": 365,
+    "CollectFishName_Localization": "朱霞须",
+    "Quality": 2
+  },
+  {
+    "LevelID": 728,
+    "CollectFish": 366,
+    "CollectFishName_Localization": "丹绒鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 730,
+    "CollectFish": 239,
+    "CollectFishName_Localization": "金汐鱼",
+    "Quality": 4
+  },
+  {
+    "LevelID": 732,
+    "CollectFish": 117,
+    "CollectFishName_Localization": "暗红宝",
+    "Quality": 1
+  },
+  {
+    "LevelID": 734,
+    "CollectFish": 165,
+    "CollectFishName_Localization": "蓝圆鳍",
+    "Quality": 1
+  },
+  {
+    "LevelID": 736,
+    "CollectFish": 328,
+    "CollectFishName_Localization": "浅蓝豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 738,
+    "CollectFish": 329,
+    "CollectFishName_Localization": "红背豚",
+    "Quality": 1
+  },
+  {
+    "LevelID": 740,
+    "CollectFish": 331,
+    "CollectFishName_Localization": "红条背",
+    "Quality": 1
+  },
+  {
+    "LevelID": 742,
+    "CollectFish": 396,
+    "CollectFishName_Localization": "魔术师",
+    "Quality": 4
+  },
+  {
+    "LevelID": 744,
+    "CollectFish": 370,
+    "CollectFishName_Localization": "蜜橙斑",
+    "Quality": 2
+  },
+  {
+    "LevelID": 746,
+    "CollectFish": 375,
+    "CollectFishName_Localization": "蜜橘鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 748,
+    "CollectFish": 376,
+    "CollectFishName_Localization": "焰尾橙",
+    "Quality": 2
+  },
+  {
+    "LevelID": 750,
+    "CollectFish": 380,
+    "CollectFishName_Localization": "金珀鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 752,
+    "CollectFish": 385,
+    "CollectFishName_Localization": "青瑙鱼",
+    "Quality": 2
+  },
+  {
+    "LevelID": 754,
+    "CollectFish": 397,
+    "CollectFishName_Localization": "航海鱼",
+    "Quality": 4
+  }
+]

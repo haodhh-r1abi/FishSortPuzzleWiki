@@ -1,0 +1,42 @@
+{
+  "captured_at": "2026-10-14T10:38:26.002703+07:00",
+  "package": "triple.sorting.bubble.fish.match",
+  "version": [
+    "versionCode=14111 minSdk=23 targetSdk=36",
+    "versionName=1.4111"
+  ],
+  "values": {
+    "COLLECTION_DATA_KEY": {
+      "ActivityType": 1,
+      "IsGuided": false,
+      "IsUnlock": false,
+      "Level": 1,
+      "Score": 0,
+      "DeltaScore": 0,
+      "LastUpdateTime": "2026-10-14T10:35:24.395",
+      "Activity1Number": 1,
+      "Activity2Number": 0,
+      "AddUpLevel": 0
+    },
+    "EXHIBITION_DATA_KEY_2": {
+      "ExhibitionId": 1,
+      "ArchitectureIds": [
+        1
+      ]
+    },
+    "LEVEL_DATA_KEY": {
+      "Level": 4,
+      "LevelAdWeightType": 0,
+      "LevelNumber": 6,
+      "LevelItemNumber": 0,
+      "ReviveNumber": 0
+    },
+    "PLAYER_DATA_KEY": {
+      "Achievement": {
+        "1": 0,
+        "2": 3,
+        "3": 0
+      }
+    }
+  }
+}

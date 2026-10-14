@@ -1,0 +1,98 @@
+[
+  {
+    "id": "R01",
+    "title": "Đúng bản đang cài",
+    "steps": "Đọc package/version và SHA-256 base.apk qua ADB",
+    "actual": "v1.4111, code 14111; hash base.apk khớp export 12/09",
+    "evidence": "installed-package.json",
+    "status": "ĐÃ CHẠY trên LDPlayer 14/10/2026; thao tác UI, không sửa save"
+  },
+  {
+    "id": "R02",
+    "title": "Mở Gallery từ Home",
+    "steps": "Bấm icon cá đeo kính ở thanh đáy",
+    "actual": "Gallery Common hiện ra; điều hướng đáy giữ nguyên",
+    "evidence": "common_confirmed",
+    "status": "ĐÃ CHẠY trên LDPlayer 14/10/2026; thao tác UI, không sửa save"
+  },
+  {
+    "id": "R03",
+    "title": "Ranh giới level hiện tại",
+    "steps": "Đọc save Level=4; xem Common",
+    "actual": "3 cá đầu có tên và màu; cá Level 4 vẫn đen và có khóa",
+    "evidence": "common_confirmed",
+    "status": "ĐÃ CHẠY trên LDPlayer 14/10/2026; thao tác UI, không sửa save"
+  },
+  {
+    "id": "R04",
+    "title": "Bấm ô đã mở",
+    "steps": "Bấm Pinky Puffer tại (245,550)",
+    "actual": "Gallery vẫn giữ nguyên; không thấy popup chi tiết, thưởng hoặc giá",
+    "evidence": "opened_tap",
+    "status": "ĐÃ CHẠY trên LDPlayer 14/10/2026; thao tác UI, không sửa save"
+  },
+  {
+    "id": "R05",
+    "title": "Bấm ô còn khóa",
+    "steps": "Bấm ô Level 4 tại (245,870)",
+    "actual": "Gallery vẫn giữ nguyên; không thấy popup unlock, quảng cáo hoặc shop",
+    "evidence": "locked_confirmed",
+    "status": "ĐÃ CHẠY trên LDPlayer 14/10/2026; thao tác UI, không sửa save"
+  },
+  {
+    "id": "R06",
+    "title": "Tab Cool",
+    "steps": "Bấm Cool",
+    "actual": "Ô đầu Level 33, 35, 36; tất cả khóa trên tài khoản level 4",
+    "evidence": "cool",
+    "status": "ĐÃ CHẠY trên LDPlayer 14/10/2026; thao tác UI, không sửa save"
+  },
+  {
+    "id": "R07",
+    "title": "Tab Rare",
+    "steps": "Bấm Rare",
+    "actual": "Ô đầu Level 12, 48, 92; Rare xuất hiện sớm hơn Cool",
+    "evidence": "rare",
+    "status": "ĐÃ CHẠY trên LDPlayer 14/10/2026; thao tác UI, không sửa save"
+  },
+  {
+    "id": "R08",
+    "title": "Tab Epic",
+    "steps": "Bấm Epic",
+    "actual": "Ô đầu Level 20, 60, 76; tất cả khóa",
+    "evidence": "epic",
+    "status": "ĐÃ CHẠY trên LDPlayer 14/10/2026; thao tác UI, không sửa save"
+  },
+  {
+    "id": "R09",
+    "title": "Tab Legendary và hàng cuối",
+    "steps": "Bấm Legendary",
+    "actual": "5 ô: 25,222,398,574,626; hàng cuối có 2 cá và 1 vị trí trống",
+    "evidence": "legendary",
+    "status": "ĐÃ CHẠY trên LDPlayer 14/10/2026; thao tác UI, không sửa save"
+  },
+  {
+    "id": "R10",
+    "title": "Cuộn và đổi tab",
+    "steps": "Vuốt Common; đổi Legendary; quay Common",
+    "actual": "Cuộn được; khi quay Common thì về ba cá đầu",
+    "evidence": "common_scrolled + common_return",
+    "status": "ĐÃ CHẠY trên LDPlayer 14/10/2026; thao tác UI, không sửa save"
+  },
+  {
+    "id": "R11",
+    "title": "Đóng/mở lại",
+    "steps": "Từ Legendary về Home rồi bấm Gallery",
+    "actual": "Common và vị trí đầu được chọn lại",
+    "evidence": "reopened",
+    "status": "ĐÃ CHẠY trên LDPlayer 14/10/2026; thao tác UI, không sửa save"
+  },
+  {
+    "id": "R12",
+    "title": "Profile và dữ liệu sau khi xem",
+    "steps": "Mở Profile; đọc save trước/sau; đối chiếu ảnh Home",
+    "actual": "Collection Gallery=3; Scene Gallery=0; level, achievement, công trình và tiến độ Collection trong allowlist không đổi",
+    "evidence": "profile + before.json + final.json",
+    "status": "ĐÃ CHẠY trên LDPlayer 14/10/2026; thao tác UI, không sửa save"
+  }
+]

@@ -1,0 +1,289 @@
+[
+  {
+    "node": "IllustrationItem",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindGroup.cs",
+    "guid": "601aedb29c089b5911a18b859b91e00e",
+    "fileID": 11500000
+  },
+  {
+    "node": "IllustrationItem",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/LocalizationFont.cs",
+    "guid": "0cbd8edcfd5df3fba0c644bdfcebad8d",
+    "fileID": 11500000
+  },
+  {
+    "node": "Bg",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "guid": "3cf5a44414476512e00c3e7a2569a919",
+    "fileID": 11500000
+  },
+  {
+    "node": "Bg",
+    "field": "m_Sprite",
+    "source": "AssetRes/UITexture/component_library/pop/settlement/table.asset",
+    "guid": "6ddc0ecb479abe543aed074eeec982ed",
+    "fileID": 21300000
+  },
+  {
+    "node": "Bg",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindNode.cs",
+    "guid": "072e7948e256c9f2f705dbcb3d2bf116",
+    "fileID": 11500000
+  },
+  {
+    "node": "Tank",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "guid": "3cf5a44414476512e00c3e7a2569a919",
+    "fileID": 11500000
+  },
+  {
+    "node": "Tank",
+    "field": "m_Sprite",
+    "source": "AssetRes/UITexture/level_/settlement/level_fish_tank.asset",
+    "guid": "42760ea88111ccd49a78c7d782b43cfc",
+    "fileID": 21300000
+  },
+  {
+    "node": "Bg",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "guid": "3cf5a44414476512e00c3e7a2569a919",
+    "fileID": 11500000
+  },
+  {
+    "node": "Bg",
+    "field": "m_Sprite",
+    "source": "AssetRes/UITexture/level_/settlement/level_fish_tank_1.asset",
+    "guid": "acf9b6dd095ebab40b61cb79fe2ab47a",
+    "fileID": 21300000
+  },
+  {
+    "node": "SpineFish",
+    "field": "m_Script",
+    "source": "Scripts/spine-unity/Spine/Unity/SkeletonGraphic.cs",
+    "guid": "ff326197253ae4cec0b46632391386ec",
+    "fileID": 11500000
+  },
+  {
+    "node": "SpineFish",
+    "field": "m_Material",
+    "source": "Spine/Runtime/spine-unity/Materials/SkeletonGraphicDefault.mat",
+    "guid": "4708ba716dbe95c4c8967b0c82b7cd02",
+    "fileID": 2100000
+  },
+  {
+    "node": "SpineFish",
+    "field": "skeletonDataAsset",
+    "source": "AssetRes/UITexture/spine_/spine_fish_/fish_1/fish_1_SkeletonData.asset",
+    "guid": "8625345fa9b5b4e4488bfa4333fac2f6",
+    "fileID": 11400000
+  },
+  {
+    "node": "SpineFish",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindNode.cs",
+    "guid": "072e7948e256c9f2f705dbcb3d2bf116",
+    "fileID": 11500000
+  },
+  {
+    "node": "ImgFish",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "guid": "3cf5a44414476512e00c3e7a2569a919",
+    "fileID": 11500000
+  },
+  {
+    "node": "ImgFish",
+    "field": "m_Sprite",
+    "source": "AssetRes/UITexture/component_library/fish/fish_1.asset",
+    "guid": "4c87dd4fe7c9fff4e83056d7b92ea2c6",
+    "fileID": 21300000
+  },
+  {
+    "node": "ImgFish",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindNode.cs",
+    "guid": "072e7948e256c9f2f705dbcb3d2bf116",
+    "fileID": 11500000
+  },
+  {
+    "node": "Lock",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "guid": "3cf5a44414476512e00c3e7a2569a919",
+    "fileID": 11500000
+  },
+  {
+    "node": "Lock",
+    "field": "m_Sprite",
+    "source": "AssetRes/UITexture/level_/settlement/level_fish_mask.asset",
+    "guid": "c61bdd49f7379e348b0d6bccdb4478fd",
+    "fileID": 21300000
+  },
+  {
+    "node": "Lock",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindNode.cs",
+    "guid": "072e7948e256c9f2f705dbcb3d2bf116",
+    "fileID": 11500000
+  },
+  {
+    "node": "Img",
+    "field": "m_Script",
+    "source": "Scripts/UnityEngine.UI/UnityEngine/UI/Image.cs",
+    "guid": "3cf5a44414476512e00c3e7a2569a919",
+    "fileID": 11500000
+  },
+  {
+    "node": "Img",
+    "field": "m_Sprite",
+    "source": "AssetRes/UITexture/component_library/icon/icon_lock.asset",
+    "guid": "5328ae2cdedad434184f84cfc979c2da",
+    "fileID": 21300000
+  },
+  {
+    "node": "TmpTextDec",
+    "field": "m_Script",
+    "source": "Scripts/Unity.TextMeshPro/TMPro/TextMeshProUGUI.cs",
+    "guid": "3f96b1d166d19b209697e35b35d65c76",
+    "fileID": 11500000
+  },
+  {
+    "node": "TmpTextDec",
+    "field": "m_fontAsset",
+    "source": "AssetRes/Font/PaytoneOne-Regular/PaytoneOne-Regular SDF.asset",
+    "guid": "507787c5f75012f47a2789a5a238fec3",
+    "fileID": 11400000
+  },
+  {
+    "node": "TmpTextDec",
+    "field": "m_sharedMaterial",
+    "source": "AssetRes/Font/PaytoneOne-Regular/PaytoneOne-Regular OutLine Yellow.mat",
+    "guid": "5b6ec59f8bfb24346bcddfaea373f302",
+    "fileID": 2100000
+  },
+  {
+    "node": "TmpTextDec",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindNode.cs",
+    "guid": "072e7948e256c9f2f705dbcb3d2bf116",
+    "fileID": 11500000
+  },
+  {
+    "node": "Spine1",
+    "field": "m_Script",
+    "source": "Scripts/spine-unity/Spine/Unity/SkeletonGraphic.cs",
+    "guid": "ff326197253ae4cec0b46632391386ec",
+    "fileID": 11500000
+  },
+  {
+    "node": "Spine1",
+    "field": "m_Material",
+    "source": "Spine/Runtime/spine-unity/Materials/SkeletonGraphicDefault.mat",
+    "guid": "4708ba716dbe95c4c8967b0c82b7cd02",
+    "fileID": 2100000
+  },
+  {
+    "node": "Spine1",
+    "field": "skeletonDataAsset",
+    "source": "AssetRes/UITexture/spine_/spine_victory_/level_settlement_victory_settlement_/level_settlement_victory_settlement_1/level_settlement_victory_settlement_quality_1_SkeletonData.asset",
+    "guid": "646d511d65026e9438d8038b62eb8953",
+    "fileID": 11400000
+  },
+  {
+    "node": "Spine1",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindNode.cs",
+    "guid": "072e7948e256c9f2f705dbcb3d2bf116",
+    "fileID": 11500000
+  },
+  {
+    "node": "Spine2",
+    "field": "m_Script",
+    "source": "Scripts/spine-unity/Spine/Unity/SkeletonGraphic.cs",
+    "guid": "ff326197253ae4cec0b46632391386ec",
+    "fileID": 11500000
+  },
+  {
+    "node": "Spine2",
+    "field": "m_Material",
+    "source": "Spine/Runtime/spine-unity/Materials/SkeletonGraphicDefault.mat",
+    "guid": "4708ba716dbe95c4c8967b0c82b7cd02",
+    "fileID": 2100000
+  },
+  {
+    "node": "Spine2",
+    "field": "skeletonDataAsset",
+    "source": "AssetRes/UITexture/spine_/spine_victory_/level_settlement_victory_settlement_/level_settlement_victory_settlement_2/level_settlement_victory_settlement_quality_2_SkeletonData.asset",
+    "guid": "3d275a18b64cf5f4c9f50c720f700f76",
+    "fileID": 11400000
+  },
+  {
+    "node": "Spine2",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindNode.cs",
+    "guid": "072e7948e256c9f2f705dbcb3d2bf116",
+    "fileID": 11500000
+  },
+  {
+    "node": "Spine3",
+    "field": "m_Script",
+    "source": "Scripts/spine-unity/Spine/Unity/SkeletonGraphic.cs",
+    "guid": "ff326197253ae4cec0b46632391386ec",
+    "fileID": 11500000
+  },
+  {
+    "node": "Spine3",
+    "field": "m_Material",
+    "source": "Spine/Runtime/spine-unity/Materials/SkeletonGraphicDefault.mat",
+    "guid": "4708ba716dbe95c4c8967b0c82b7cd02",
+    "fileID": 2100000
+  },
+  {
+    "node": "Spine3",
+    "field": "skeletonDataAsset",
+    "source": "AssetRes/UITexture/spine_/spine_victory_/level_settlement_victory_settlement_/level_settlement_victory_settlement_3/level_settlement_victory_settlement_quality_3_SkeletonData.asset",
+    "guid": "79187fc4fe21b2c46965b134be407204",
+    "fileID": 11400000
+  },
+  {
+    "node": "Spine3",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindNode.cs",
+    "guid": "072e7948e256c9f2f705dbcb3d2bf116",
+    "fileID": 11500000
+  },
+  {
+    "node": "Spine4",
+    "field": "m_Script",
+    "source": "Scripts/spine-unity/Spine/Unity/SkeletonGraphic.cs",
+    "guid": "ff326197253ae4cec0b46632391386ec",
+    "fileID": 11500000
+  },
+  {
+    "node": "Spine4",
+    "field": "m_Material",
+    "source": "Spine/Runtime/spine-unity/Materials/SkeletonGraphicDefault.mat",
+    "guid": "4708ba716dbe95c4c8967b0c82b7cd02",
+    "fileID": 2100000
+  },
+  {
+    "node": "Spine4",
+    "field": "skeletonDataAsset",
+    "source": "AssetRes/UITexture/spine_/spine_victory_/level_settlement_victory_settlement_/level_settlement_victory_settlement_4/level_settlement_victory_settlement_quality_4_SkeletonData.asset",
+    "guid": "7ba9cc457d6da4f4b92ccc95029c7900",
+    "fileID": 11400000
+  },
+  {
+    "node": "Spine4",
+    "field": "m_Script",
+    "source": "Scripts/Assembly-CSharp/UIBindNode.cs",
+    "guid": "072e7948e256c9f2f705dbcb3d2bf116",
+    "fileID": 11500000
+  }
+]

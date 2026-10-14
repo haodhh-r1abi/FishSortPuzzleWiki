@@ -1,0 +1,328 @@
+[
+  {
+    "id": "M01",
+    "current_level": 1,
+    "unlocked_rows": 0,
+    "unique_fish_ids": 0,
+    "by_quality": {},
+    "next_level": 1,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M02",
+    "current_level": 4,
+    "unlocked_rows": 3,
+    "unique_fish_ids": 3,
+    "by_quality": {
+      "1": 3
+    },
+    "next_level": 4,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M03",
+    "current_level": 5,
+    "unlocked_rows": 4,
+    "unique_fish_ids": 4,
+    "by_quality": {
+      "1": 4
+    },
+    "next_level": 5,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M04",
+    "current_level": 11,
+    "unlocked_rows": 10,
+    "unique_fish_ids": 10,
+    "by_quality": {
+      "1": 10
+    },
+    "next_level": 12,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M05",
+    "current_level": 12,
+    "unlocked_rows": 10,
+    "unique_fish_ids": 10,
+    "by_quality": {
+      "1": 10
+    },
+    "next_level": 12,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M06",
+    "current_level": 13,
+    "unlocked_rows": 11,
+    "unique_fish_ids": 11,
+    "by_quality": {
+      "1": 10,
+      "3": 1
+    },
+    "next_level": 13,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M07",
+    "current_level": 20,
+    "unlocked_rows": 18,
+    "unique_fish_ids": 18,
+    "by_quality": {
+      "1": 17,
+      "3": 1
+    },
+    "next_level": 20,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M08",
+    "current_level": 21,
+    "unlocked_rows": 19,
+    "unique_fish_ids": 19,
+    "by_quality": {
+      "1": 17,
+      "3": 1,
+      "4": 1
+    },
+    "next_level": 21,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M09",
+    "current_level": 25,
+    "unlocked_rows": 22,
+    "unique_fish_ids": 22,
+    "by_quality": {
+      "1": 20,
+      "3": 1,
+      "4": 1
+    },
+    "next_level": 25,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M10",
+    "current_level": 26,
+    "unlocked_rows": 23,
+    "unique_fish_ids": 23,
+    "by_quality": {
+      "1": 20,
+      "3": 1,
+      "4": 1,
+      "5": 1
+    },
+    "next_level": 27,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M11",
+    "current_level": 33,
+    "unlocked_rows": 28,
+    "unique_fish_ids": 28,
+    "by_quality": {
+      "1": 25,
+      "3": 1,
+      "4": 1,
+      "5": 1
+    },
+    "next_level": 33,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M12",
+    "current_level": 34,
+    "unlocked_rows": 29,
+    "unique_fish_ids": 29,
+    "by_quality": {
+      "1": 25,
+      "3": 1,
+      "4": 1,
+      "5": 1,
+      "2": 1
+    },
+    "next_level": 35,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M13",
+    "current_level": 216,
+    "unlocked_rows": 151,
+    "unique_fish_ids": 151,
+    "by_quality": {
+      "1": 89,
+      "3": 7,
+      "4": 6,
+      "5": 1,
+      "2": 48
+    },
+    "next_level": 216,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M14",
+    "current_level": 217,
+    "unlocked_rows": 152,
+    "unique_fish_ids": 152,
+    "by_quality": {
+      "1": 89,
+      "3": 7,
+      "4": 6,
+      "5": 1,
+      "2": 49
+    },
+    "next_level": 218,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M15",
+    "current_level": 264,
+    "unlocked_rows": 175,
+    "unique_fish_ids": 175,
+    "by_quality": {
+      "1": 99,
+      "3": 9,
+      "4": 7,
+      "5": 2,
+      "2": 58
+    },
+    "next_level": 264,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M16",
+    "current_level": 265,
+    "unlocked_rows": 176,
+    "unique_fish_ids": 175,
+    "by_quality": {
+      "1": 99,
+      "3": 9,
+      "4": 7,
+      "5": 2,
+      "2": 59
+    },
+    "next_level": 266,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M17",
+    "current_level": 334,
+    "unlocked_rows": 210,
+    "unique_fish_ids": 207,
+    "by_quality": {
+      "1": 118,
+      "3": 9,
+      "4": 10,
+      "5": 2,
+      "2": 71
+    },
+    "next_level": 334,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M18",
+    "current_level": 335,
+    "unlocked_rows": 211,
+    "unique_fish_ids": 208,
+    "by_quality": {
+      "1": 118,
+      "3": 9,
+      "4": 10,
+      "5": 2,
+      "2": 72
+    },
+    "next_level": 336,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M19",
+    "current_level": 627,
+    "unlocked_rows": 357,
+    "unique_fish_ids": 327,
+    "by_quality": {
+      "1": 184,
+      "3": 19,
+      "4": 15,
+      "5": 5,
+      "2": 134
+    },
+    "next_level": 628,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M20",
+    "current_level": 730,
+    "unlocked_rows": 405,
+    "unique_fish_ids": 375,
+    "by_quality": {
+      "1": 215,
+      "3": 25,
+      "4": 16,
+      "5": 5,
+      "2": 144
+    },
+    "next_level": 730,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M21",
+    "current_level": 731,
+    "unlocked_rows": 406,
+    "unique_fish_ids": 375,
+    "by_quality": {
+      "1": 215,
+      "3": 25,
+      "4": 17,
+      "5": 5,
+      "2": 144
+    },
+    "next_level": 732,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M22",
+    "current_level": 754,
+    "unlocked_rows": 417,
+    "unique_fish_ids": 385,
+    "by_quality": {
+      "1": 220,
+      "3": 25,
+      "4": 18,
+      "5": 5,
+      "2": 149
+    },
+    "next_level": 754,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M23",
+    "current_level": 755,
+    "unlocked_rows": 418,
+    "unique_fish_ids": 386,
+    "by_quality": {
+      "1": 220,
+      "3": 25,
+      "4": 19,
+      "5": 5,
+      "2": 149
+    },
+    "next_level": null,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  },
+  {
+    "id": "M24",
+    "current_level": 1301,
+    "unlocked_rows": 418,
+    "unique_fish_ids": 386,
+    "by_quality": {
+      "1": 220,
+      "3": 25,
+      "4": 19,
+      "5": 5,
+      "2": 149
+    },
+    "next_level": null,
+    "status": "MÔ HÌNH TĨNH từ config + comparator đã đọc; không phải chơi thắng/ép level trên LDPlayer"
+  }
+]

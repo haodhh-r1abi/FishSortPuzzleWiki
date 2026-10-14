@@ -1,0 +1,138 @@
+= extraout_x1_07;
+      }
+LAB_0132df10:
+      if (*(int *)(DAT_02a9fe60 + 0xe0) == 0) {
+        thunk_FUN_012028e4();
+        uVar12 = extraout_x1_08;
+      }
+      auVar17._0_8_ = *(undefined8 *)(*(long *)(DAT_02a9fe60 + 0xb8) + 8);
+      auVar17._8_8_ = uVar12;
+      return auVar17;
+    }
+    System_Collections_Generic_List<object>__GetEnumerator
+              (&local_a0,pSVar9,
+               Method_System_Collections_Generic_List<IllustrationConfig>_GetEnumerator__);
+    unaff_x24 = &Method_System_Collections_Generic_List_Enumerator<IllustrationConfig>_MoveNext__;
+    unaff_x25 = &DAT_02aa6000;
+    unaff_x27 = &Method_System_Collections_Generic_List<IllustrationConfig>_Add__;
+    unaff_x28 = &System_Collections_Generic_List<IllustrationConfig>_TypeInfo;
+    unaff_x29 = &Method_System_Collections_Generic_List<IllustrationConfig>__ctor__;
+    local_80.fields._index = local_a0.fields._index;
+    local_80.fields._version = local_a0.fields._version;
+    local_80.fields._list = local_a0.fields._list;
+    local_80.fields._current = local_a0.fields._current;
+    unaff_x26 = &DAT_02aa6010;
+    while (bVar6 = System_Collections_Generic_List_Enumerator<object>__MoveNext
+                             (&local_80,
+                              Method_System_Collections_Generic_List_Enumerator<IllustrationConfig>_MoveNext__
+                             ), pIVar5 = local_80.fields._current, bVar6) {
+      if (*(int *)(DAT_02a9fe60 + 0xe0) == 0) {
+        thunk_FUN_012028e4();
+      }
+      if (pIVar5 == (Il2CppObject *)0x0) {
+        FUN_011d54f4();
+LAB_0132dacc:
+        FUN_011d54f4();
+LAB_0132dad0:
+        FUN_011d54f4();
+LAB_0132dad4:
+        FUN_011d54f4();
+LAB_0132dad8:
+                    /* try { // try from 0132dad8 to 0142daef has its CatchHandler @ 0132dbd8 */
+        FUN_011d54f4();
+LAB_0132dadc:
+        FUN_011d54f4();
+LAB_0132dae0:
+        FUN_011d54f4();
+LAB_0132dae4:
+        FUN_011d54f4();
+        goto LAB_0132dae8;
+      }
+      pSVar7 = *(System_Collections_Generic_Dictionary_TKey__TValue__o **)
+                (*(long *)(DAT_02a9fe60 + 0xb8) + 8);
+      if (pSVar7 == (System_Collections_Generic_Dictionary_TKey__TValue__o *)0x0) goto LAB_0132dacc;
+      bVar6 = System_Collections_Generic_Dictionary<Int32Enum,_object>__TryGetValue
+                        (pSVar7,*(int32_t *)&pIVar5[2].klass,&local_88,DAT_02aa6000);
+      if (bVar6) {
+        if (*(int *)(DAT_02a9fe60 + 0xe0) == 0) {
+          thunk_FUN_012028e4();
+        }
+        pSVar7 = *(System_Collections_Generic_Dictionary_TKey__TValue__o **)
+                  (*(long *)(DAT_02a9fe60 + 0xb8) + 8);
+        if (pSVar7 == (System_Collections_Generic_Dictionary_TKey__TValue__o *)0x0)
+        goto LAB_0132dad8;
+        pSVar9 = (System_Collections_Generic_List_object__o *)
+                 System_Collections_Generic_Dictionary<Int32Enum,_object>__get_Item
+                           (pSVar7,*(int32_t *)&pIVar5[2].klass,DAT_02aa6008);
+        lVar14 = Method_System_Collections_Generic_List<IllustrationConfig>_Add__;
+        if (pSVar9 == (System_Collections_Generic_List_object__o *)0x0) goto LAB_0132dae0;
+        pSVar13 = (pSVar9->fields)._items;
+        (pSVar9->fields)._version = (pSVar9->fields)._version + 1;
+        if (pSVar13 == (System_Object_array *)0x0) goto LAB_0132dae4;
+        uVar3 = (pSVar9->fields)._size;
+        if (uVar3 < (uint)pSVar13->max_length) {
+          (pSVar9->fields)._size = uVar3 + 1;
+          pSVar13->m_Items[(int)uVar3] = pIVar5;
+          switchD_021ad00c::default(pSVar13->m_Items + (int)uVar3,pIVar5);
+        }
+        else {
+                    /* try { // try from 0132da3c to 0142da6f has its CatchHandler @ 0132dbec */
+          System_Collections_Generic_List<object>__AddWithResize
+                    (pSVar9,pIVar5,
+                     *(MethodInfo_18FE9D4 **)(*(long *)(*(long *)(lVar14 + 0x20) + 0xc0) + 0x70));
+        }
+      }
+      else {
+        if (*(int *)(DAT_02a9fe60 + 0xe0) == 0) {
+          thunk_FUN_012028e4();
+        }
+        iVar2 = *(int32_t *)&pIVar5[2].klass;
+        unaff_x21 = *(System_Collections_Generic_Dictionary_TKey__TValue__o **)
+                     (*(long *)(DAT_02a9fe60 + 0xb8) + 8);
+        unaff_x22 = (System_Collections_Generic_List_object__o *)
+                    thunk_FUN_011dc890(System_Collections_Generic_List<IllustrationConfig>_TypeInfo)
+        ;
+        System_Collections_Generic_List<object>___ctor
+                  (unaff_x22,Method_System_Collections_Generic_List<IllustrationConfig>__ctor__);
+        lVar14 = Method_System_Collections_Generic_List<IllustrationConfig>_Add__;
+        if (unaff_x22 == (System_Collections_Generic_List_object__o *)0x0) goto LAB_0132dad0;
+        pSVar13 = (unaff_x22->fields)._items;
+        (unaff_x22->fields)._version = (unaff_x22->fields)._version + 1;
+        if (pSVar13 == (System_Object_array *)0x0) goto LAB_0132dad4;
+        uVar3 = (unaff_x22->fields)._size;
+                    /* catch() { ... } // from try @ 0132dbc0 with catch @ 0132da08 */
+        if (uVar3 < (uint)pSVar13->max_length) {
+          (unaff_x22->fields)._size = uVar3 + 1;
+          pSVar13->m_Items[(int)uVar3] = pIVar5;
+          switchD_021ad00c::default(pSVar13->m_Items + (int)uVar3,pIVar5);
+        }
+        else {
+          System_Collections_Generic_List<object>__AddWithResize
+                    (unaff_x22,pIVar5,
+                     *(MethodInfo_18FE9D4 **)(*(long *)(*(long *)(lVar14 + 0x20) + 0xc0) + 0x70));
+        }
+        if (unaff_x21 == (System_Collections_Generic_Dictionary_TKey__TValue__o *)0x0)
+        goto LAB_0132dadc;
+        System_Collections_Generic_Dictionary<Int32Enum,_object>__set_Item
+                  (unaff_x21,iVar2,(Il2CppObject *)unaff_x22,DAT_02aa6010);
+      }
+    }
+                    /* try { // try from 0132da7c to 0142da87 has its CatchHandler @ 0132dbf0 */
+    System_Collections_Generic_List_Enumerator<object>__Dispose
+              (&local_80,
+               Method_System_Collections_Generic_List_Enumerator<IllustrationConfig>_Dispose__);
+    param_2 = extraout_x1_01;
+  }
+LAB_0132da8c:
+  if (*(int *)(DAT_02a9fe60 + 0xe0) == 0) {
+    thunk_FUN_012028e4();
+                    /* try { // try from 0132da9c to 0142dab3 has its CatchHandler @ 0132dbe4 */
+    param_2 = extraout_x1_02;
+  }
+  auVar16._0_8_ = *(undefined8 *)(*(long *)(DAT_02a9fe60 + 0xb8) + 8);
+  auVar16._8_8_ = param_2;
+                    /* try { // try from 0132dac0 to 0142dac7 has its CatchHandler @ 0132dbdc */
+  return auVar16;
+}
+
+
