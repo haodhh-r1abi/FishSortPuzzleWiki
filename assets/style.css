@@ -95,3 +95,6 @@ table.walk td:first-child{white-space:nowrap;font-weight:600}
 .fthumb{margin:0;width:92px}.fthumb img{width:92px;aspect-ratio:9/16;object-fit:cover;border-radius:6px;border:1px solid var(--line);display:block;cursor:zoom-in;box-shadow:0 1px 4px rgba(0,0,0,.12)}
 .fthumb.inl{display:inline-block;width:56px;margin:4px 4px 0 0;vertical-align:top}.fthumb.inl img{width:56px}
 @media (max-width:700px){.fstep{flex-wrap:wrap}.fshots{margin-left:48px}}
+
+/* reward icons (tools/rw_icons.py) */
+img.rwi{height:1.35em;width:auto;max-width:2.2em;vertical-align:-.32em;margin:0 3px 0 1px;object-fit:contain}
